@@ -1,0 +1,1 @@
+{'endbeta': 16.1, 'startbeta': 16.0, 'tone': 4, 'startgamma': 2.0, 'endgamma': 2.1}

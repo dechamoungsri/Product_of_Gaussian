@@ -1,0 +1,805 @@
+Namespace(block_size='256', endbeta='2.0', endgamma='2.0', file_num_end='10', file_num_start='9', mainoutpath='/29_script/Exp_2_stress/', num_coeff='3', plot=True, startbeta='0.0', startgamma='0.0', stress_or_unstress='stress', syllable_predicted_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/05_syllable_level_3_dct_no_zeroth/testrun/out_all/tsc/', tone='4', training_size='250', use_partial_coeff=False, zero_coeff_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/06_zeroth_coeff_run_tree_05/testrun/out_all/tsc/')
+2017-06-05 06:06:21
+Alpha : Beta : Gamma: 1.0 0.0 0.0
+All LF0 RMSE: 102.978578 in 53294 frames
+Only unstress LF0 RMSE: 102.814337 in 1739 frames
+2017-06-05 06:06:23
+Alpha : Beta : Gamma: 1.0 0.0 0.1
+2017-06-05 06:06:24
+Alpha : Beta : Gamma: 1.0 0.0 0.2
+2017-06-05 06:06:25
+Alpha : Beta : Gamma: 1.0 0.0 0.3
+2017-06-05 06:06:26
+Alpha : Beta : Gamma: 1.0 0.0 0.4
+2017-06-05 06:06:27
+Alpha : Beta : Gamma: 1.0 0.0 0.5
+2017-06-05 06:06:27
+Alpha : Beta : Gamma: 1.0 0.0 0.6
+2017-06-05 06:06:28
+Alpha : Beta : Gamma: 1.0 0.0 0.7
+2017-06-05 06:06:29
+Alpha : Beta : Gamma: 1.0 0.0 0.8
+2017-06-05 06:06:30
+Alpha : Beta : Gamma: 1.0 0.0 0.9
+2017-06-05 06:06:31
+Alpha : Beta : Gamma: 1.0 0.0 1.0
+2017-06-05 06:06:32
+Alpha : Beta : Gamma: 1.0 0.0 1.1
+2017-06-05 06:06:33
+Alpha : Beta : Gamma: 1.0 0.0 1.2
+2017-06-05 06:06:33
+Alpha : Beta : Gamma: 1.0 0.0 1.3
+2017-06-05 06:06:34
+Alpha : Beta : Gamma: 1.0 0.0 1.4
+2017-06-05 06:06:35
+Alpha : Beta : Gamma: 1.0 0.0 1.5
+2017-06-05 06:06:36
+Alpha : Beta : Gamma: 1.0 0.0 1.6
+2017-06-05 06:06:37
+Alpha : Beta : Gamma: 1.0 0.0 1.7
+2017-06-05 06:06:38
+Alpha : Beta : Gamma: 1.0 0.0 1.8
+2017-06-05 06:06:38
+Alpha : Beta : Gamma: 1.0 0.0 1.9
+2017-06-05 06:06:39
+Alpha : Beta : Gamma: 1.0 0.1 0.0
+2017-06-05 06:06:40
+Alpha : Beta : Gamma: 1.0 0.1 0.1
+2017-06-05 06:06:41
+Alpha : Beta : Gamma: 1.0 0.1 0.2
+2017-06-05 06:06:42
+Alpha : Beta : Gamma: 1.0 0.1 0.3
+2017-06-05 06:06:43
+Alpha : Beta : Gamma: 1.0 0.1 0.4
+2017-06-05 06:06:44
+Alpha : Beta : Gamma: 1.0 0.1 0.5
+2017-06-05 06:06:44
+Alpha : Beta : Gamma: 1.0 0.1 0.6
+2017-06-05 06:06:45
+Alpha : Beta : Gamma: 1.0 0.1 0.7
+2017-06-05 06:06:46
+Alpha : Beta : Gamma: 1.0 0.1 0.8
+2017-06-05 06:06:47
+Alpha : Beta : Gamma: 1.0 0.1 0.9
+2017-06-05 06:06:48
+Alpha : Beta : Gamma: 1.0 0.1 1.0
+2017-06-05 06:06:49
+Alpha : Beta : Gamma: 1.0 0.1 1.1
+2017-06-05 06:06:50
+Alpha : Beta : Gamma: 1.0 0.1 1.2
+2017-06-05 06:06:50
+Alpha : Beta : Gamma: 1.0 0.1 1.3
+2017-06-05 06:06:51
+Alpha : Beta : Gamma: 1.0 0.1 1.4
+2017-06-05 06:06:52
+Alpha : Beta : Gamma: 1.0 0.1 1.5
+2017-06-05 06:06:53
+Alpha : Beta : Gamma: 1.0 0.1 1.6
+2017-06-05 06:06:54
+Alpha : Beta : Gamma: 1.0 0.1 1.7
+2017-06-05 06:06:55
+Alpha : Beta : Gamma: 1.0 0.1 1.8
+2017-06-05 06:06:55
+Alpha : Beta : Gamma: 1.0 0.1 1.9
+2017-06-05 06:06:56
+Alpha : Beta : Gamma: 1.0 0.2 0.0
+2017-06-05 06:06:57
+Alpha : Beta : Gamma: 1.0 0.2 0.1
+2017-06-05 06:06:58
+Alpha : Beta : Gamma: 1.0 0.2 0.2
+2017-06-05 06:06:59
+Alpha : Beta : Gamma: 1.0 0.2 0.3
+2017-06-05 06:07:00
+Alpha : Beta : Gamma: 1.0 0.2 0.4
+2017-06-05 06:07:01
+Alpha : Beta : Gamma: 1.0 0.2 0.5
+2017-06-05 06:07:01
+Alpha : Beta : Gamma: 1.0 0.2 0.6
+2017-06-05 06:07:02
+Alpha : Beta : Gamma: 1.0 0.2 0.7
+2017-06-05 06:07:03
+Alpha : Beta : Gamma: 1.0 0.2 0.8
+2017-06-05 06:07:04
+Alpha : Beta : Gamma: 1.0 0.2 0.9
+2017-06-05 06:07:05
+Alpha : Beta : Gamma: 1.0 0.2 1.0
+2017-06-05 06:07:06
+Alpha : Beta : Gamma: 1.0 0.2 1.1
+2017-06-05 06:07:07
+Alpha : Beta : Gamma: 1.0 0.2 1.2
+2017-06-05 06:07:07
+Alpha : Beta : Gamma: 1.0 0.2 1.3
+2017-06-05 06:07:08
+Alpha : Beta : Gamma: 1.0 0.2 1.4
+2017-06-05 06:07:09
+Alpha : Beta : Gamma: 1.0 0.2 1.5
+2017-06-05 06:07:10
+Alpha : Beta : Gamma: 1.0 0.2 1.6
+2017-06-05 06:07:11
+Alpha : Beta : Gamma: 1.0 0.2 1.7
+2017-06-05 06:07:12
+Alpha : Beta : Gamma: 1.0 0.2 1.8
+2017-06-05 06:07:13
+Alpha : Beta : Gamma: 1.0 0.2 1.9
+2017-06-05 06:07:13
+Alpha : Beta : Gamma: 1.0 0.3 0.0
+2017-06-05 06:07:14
+Alpha : Beta : Gamma: 1.0 0.3 0.1
+2017-06-05 06:07:15
+Alpha : Beta : Gamma: 1.0 0.3 0.2
+2017-06-05 06:07:16
+Alpha : Beta : Gamma: 1.0 0.3 0.3
+2017-06-05 06:07:17
+Alpha : Beta : Gamma: 1.0 0.3 0.4
+2017-06-05 06:07:18
+Alpha : Beta : Gamma: 1.0 0.3 0.5
+2017-06-05 06:07:18
+Alpha : Beta : Gamma: 1.0 0.3 0.6
+2017-06-05 06:07:19
+Alpha : Beta : Gamma: 1.0 0.3 0.7
+2017-06-05 06:07:20
+Alpha : Beta : Gamma: 1.0 0.3 0.8
+2017-06-05 06:07:21
+Alpha : Beta : Gamma: 1.0 0.3 0.9
+2017-06-05 06:07:22
+Alpha : Beta : Gamma: 1.0 0.3 1.0
+2017-06-05 06:07:23
+Alpha : Beta : Gamma: 1.0 0.3 1.1
+2017-06-05 06:07:24
+Alpha : Beta : Gamma: 1.0 0.3 1.2
+2017-06-05 06:07:24
+Alpha : Beta : Gamma: 1.0 0.3 1.3
+2017-06-05 06:07:25
+Alpha : Beta : Gamma: 1.0 0.3 1.4
+2017-06-05 06:07:26
+Alpha : Beta : Gamma: 1.0 0.3 1.5
+2017-06-05 06:07:27
+Alpha : Beta : Gamma: 1.0 0.3 1.6
+2017-06-05 06:07:28
+Alpha : Beta : Gamma: 1.0 0.3 1.7
+2017-06-05 06:07:29
+Alpha : Beta : Gamma: 1.0 0.3 1.8
+2017-06-05 06:07:30
+Alpha : Beta : Gamma: 1.0 0.3 1.9
+2017-06-05 06:07:30
+Alpha : Beta : Gamma: 1.0 0.4 0.0
+2017-06-05 06:07:31
+Alpha : Beta : Gamma: 1.0 0.4 0.1
+2017-06-05 06:07:32
+Alpha : Beta : Gamma: 1.0 0.4 0.2
+2017-06-05 06:07:33
+Alpha : Beta : Gamma: 1.0 0.4 0.3
+2017-06-05 06:07:34
+Alpha : Beta : Gamma: 1.0 0.4 0.4
+2017-06-05 06:07:35
+Alpha : Beta : Gamma: 1.0 0.4 0.5
+2017-06-05 06:07:35
+Alpha : Beta : Gamma: 1.0 0.4 0.6
+2017-06-05 06:07:36
+Alpha : Beta : Gamma: 1.0 0.4 0.7
+2017-06-05 06:07:37
+Alpha : Beta : Gamma: 1.0 0.4 0.8
+2017-06-05 06:07:38
+Alpha : Beta : Gamma: 1.0 0.4 0.9
+2017-06-05 06:07:39
+Alpha : Beta : Gamma: 1.0 0.4 1.0
+2017-06-05 06:07:40
+Alpha : Beta : Gamma: 1.0 0.4 1.1
+2017-06-05 06:07:41
+Alpha : Beta : Gamma: 1.0 0.4 1.2
+2017-06-05 06:07:41
+Alpha : Beta : Gamma: 1.0 0.4 1.3
+2017-06-05 06:07:42
+Alpha : Beta : Gamma: 1.0 0.4 1.4
+2017-06-05 06:07:43
+Alpha : Beta : Gamma: 1.0 0.4 1.5
+2017-06-05 06:07:44
+Alpha : Beta : Gamma: 1.0 0.4 1.6
+2017-06-05 06:07:45
+Alpha : Beta : Gamma: 1.0 0.4 1.7
+2017-06-05 06:07:46
+Alpha : Beta : Gamma: 1.0 0.4 1.8
+2017-06-05 06:07:47
+Alpha : Beta : Gamma: 1.0 0.4 1.9
+2017-06-05 06:07:47
+Alpha : Beta : Gamma: 1.0 0.5 0.0
+2017-06-05 06:07:48
+Alpha : Beta : Gamma: 1.0 0.5 0.1
+2017-06-05 06:07:49
+Alpha : Beta : Gamma: 1.0 0.5 0.2
+2017-06-05 06:07:50
+Alpha : Beta : Gamma: 1.0 0.5 0.3
+2017-06-05 06:07:51
+Alpha : Beta : Gamma: 1.0 0.5 0.4
+2017-06-05 06:07:52
+Alpha : Beta : Gamma: 1.0 0.5 0.5
+2017-06-05 06:07:53
+Alpha : Beta : Gamma: 1.0 0.5 0.6
+2017-06-05 06:07:53
+Alpha : Beta : Gamma: 1.0 0.5 0.7
+2017-06-05 06:07:54
+Alpha : Beta : Gamma: 1.0 0.5 0.8
+2017-06-05 06:07:55
+Alpha : Beta : Gamma: 1.0 0.5 0.9
+2017-06-05 06:07:56
+Alpha : Beta : Gamma: 1.0 0.5 1.0
+2017-06-05 06:07:57
+Alpha : Beta : Gamma: 1.0 0.5 1.1
+2017-06-05 06:07:58
+Alpha : Beta : Gamma: 1.0 0.5 1.2
+2017-06-05 06:07:59
+Alpha : Beta : Gamma: 1.0 0.5 1.3
+2017-06-05 06:08:00
+Alpha : Beta : Gamma: 1.0 0.5 1.4
+2017-06-05 06:08:00
+Alpha : Beta : Gamma: 1.0 0.5 1.5
+2017-06-05 06:08:01
+Alpha : Beta : Gamma: 1.0 0.5 1.6
+2017-06-05 06:08:02
+Alpha : Beta : Gamma: 1.0 0.5 1.7
+2017-06-05 06:08:03
+Alpha : Beta : Gamma: 1.0 0.5 1.8
+2017-06-05 06:08:04
+Alpha : Beta : Gamma: 1.0 0.5 1.9
+2017-06-05 06:08:05
+Alpha : Beta : Gamma: 1.0 0.6 0.0
+2017-06-05 06:08:06
+Alpha : Beta : Gamma: 1.0 0.6 0.1
+2017-06-05 06:08:06
+Alpha : Beta : Gamma: 1.0 0.6 0.2
+2017-06-05 06:08:07
+Alpha : Beta : Gamma: 1.0 0.6 0.3
+2017-06-05 06:08:08
+Alpha : Beta : Gamma: 1.0 0.6 0.4
+2017-06-05 06:08:09
+Alpha : Beta : Gamma: 1.0 0.6 0.5
+2017-06-05 06:08:10
+Alpha : Beta : Gamma: 1.0 0.6 0.6
+2017-06-05 06:08:11
+Alpha : Beta : Gamma: 1.0 0.6 0.7
+2017-06-05 06:08:12
+Alpha : Beta : Gamma: 1.0 0.6 0.8
+2017-06-05 06:08:12
+Alpha : Beta : Gamma: 1.0 0.6 0.9
+2017-06-05 06:08:13
+Alpha : Beta : Gamma: 1.0 0.6 1.0
+2017-06-05 06:08:14
+Alpha : Beta : Gamma: 1.0 0.6 1.1
+2017-06-05 06:08:15
+Alpha : Beta : Gamma: 1.0 0.6 1.2
+2017-06-05 06:08:16
+Alpha : Beta : Gamma: 1.0 0.6 1.3
+2017-06-05 06:08:17
+Alpha : Beta : Gamma: 1.0 0.6 1.4
+2017-06-05 06:08:18
+Alpha : Beta : Gamma: 1.0 0.6 1.5
+2017-06-05 06:08:18
+Alpha : Beta : Gamma: 1.0 0.6 1.6
+2017-06-05 06:08:19
+Alpha : Beta : Gamma: 1.0 0.6 1.7
+2017-06-05 06:08:20
+Alpha : Beta : Gamma: 1.0 0.6 1.8
+2017-06-05 06:08:21
+Alpha : Beta : Gamma: 1.0 0.6 1.9
+2017-06-05 06:08:22
+Alpha : Beta : Gamma: 1.0 0.7 0.0
+2017-06-05 06:08:23
+Alpha : Beta : Gamma: 1.0 0.7 0.1
+2017-06-05 06:08:23
+Alpha : Beta : Gamma: 1.0 0.7 0.2
+2017-06-05 06:08:24
+Alpha : Beta : Gamma: 1.0 0.7 0.3
+2017-06-05 06:08:25
+Alpha : Beta : Gamma: 1.0 0.7 0.4
+2017-06-05 06:08:26
+Alpha : Beta : Gamma: 1.0 0.7 0.5
+2017-06-05 06:08:27
+Alpha : Beta : Gamma: 1.0 0.7 0.6
+2017-06-05 06:08:28
+Alpha : Beta : Gamma: 1.0 0.7 0.7
+2017-06-05 06:08:29
+Alpha : Beta : Gamma: 1.0 0.7 0.8
+2017-06-05 06:08:29
+Alpha : Beta : Gamma: 1.0 0.7 0.9
+2017-06-05 06:08:30
+Alpha : Beta : Gamma: 1.0 0.7 1.0
+2017-06-05 06:08:31
+Alpha : Beta : Gamma: 1.0 0.7 1.1
+2017-06-05 06:08:32
+Alpha : Beta : Gamma: 1.0 0.7 1.2
+2017-06-05 06:08:33
+Alpha : Beta : Gamma: 1.0 0.7 1.3
+2017-06-05 06:08:34
+Alpha : Beta : Gamma: 1.0 0.7 1.4
+2017-06-05 06:08:34
+Alpha : Beta : Gamma: 1.0 0.7 1.5
+2017-06-05 06:08:35
+Alpha : Beta : Gamma: 1.0 0.7 1.6
+2017-06-05 06:08:36
+Alpha : Beta : Gamma: 1.0 0.7 1.7
+2017-06-05 06:08:37
+Alpha : Beta : Gamma: 1.0 0.7 1.8
+2017-06-05 06:08:38
+Alpha : Beta : Gamma: 1.0 0.7 1.9
+2017-06-05 06:08:39
+Alpha : Beta : Gamma: 1.0 0.8 0.0
+2017-06-05 06:08:40
+Alpha : Beta : Gamma: 1.0 0.8 0.1
+2017-06-05 06:08:40
+Alpha : Beta : Gamma: 1.0 0.8 0.2
+2017-06-05 06:08:41
+Alpha : Beta : Gamma: 1.0 0.8 0.3
+2017-06-05 06:08:42
+Alpha : Beta : Gamma: 1.0 0.8 0.4
+2017-06-05 06:08:43
+Alpha : Beta : Gamma: 1.0 0.8 0.5
+2017-06-05 06:08:44
+Alpha : Beta : Gamma: 1.0 0.8 0.6
+2017-06-05 06:08:45
+Alpha : Beta : Gamma: 1.0 0.8 0.7
+2017-06-05 06:08:46
+Alpha : Beta : Gamma: 1.0 0.8 0.8
+2017-06-05 06:08:46
+Alpha : Beta : Gamma: 1.0 0.8 0.9
+2017-06-05 06:08:47
+Alpha : Beta : Gamma: 1.0 0.8 1.0
+2017-06-05 06:08:48
+Alpha : Beta : Gamma: 1.0 0.8 1.1
+2017-06-05 06:08:49
+Alpha : Beta : Gamma: 1.0 0.8 1.2
+2017-06-05 06:08:50
+Alpha : Beta : Gamma: 1.0 0.8 1.3
+2017-06-05 06:08:51
+Alpha : Beta : Gamma: 1.0 0.8 1.4
+2017-06-05 06:08:52
+Alpha : Beta : Gamma: 1.0 0.8 1.5
+2017-06-05 06:08:52
+Alpha : Beta : Gamma: 1.0 0.8 1.6
+2017-06-05 06:08:53
+Alpha : Beta : Gamma: 1.0 0.8 1.7
+2017-06-05 06:08:54
+Alpha : Beta : Gamma: 1.0 0.8 1.8
+2017-06-05 06:08:55
+Alpha : Beta : Gamma: 1.0 0.8 1.9
+2017-06-05 06:08:56
+Alpha : Beta : Gamma: 1.0 0.9 0.0
+2017-06-05 06:08:57
+Alpha : Beta : Gamma: 1.0 0.9 0.1
+2017-06-05 06:08:57
+Alpha : Beta : Gamma: 1.0 0.9 0.2
+2017-06-05 06:08:58
+Alpha : Beta : Gamma: 1.0 0.9 0.3
+2017-06-05 06:08:59
+Alpha : Beta : Gamma: 1.0 0.9 0.4
+2017-06-05 06:09:00
+Alpha : Beta : Gamma: 1.0 0.9 0.5
+2017-06-05 06:09:01
+Alpha : Beta : Gamma: 1.0 0.9 0.6
+2017-06-05 06:09:02
+Alpha : Beta : Gamma: 1.0 0.9 0.7
+2017-06-05 06:09:03
+Alpha : Beta : Gamma: 1.0 0.9 0.8
+2017-06-05 06:09:03
+Alpha : Beta : Gamma: 1.0 0.9 0.9
+2017-06-05 06:09:04
+Alpha : Beta : Gamma: 1.0 0.9 1.0
+2017-06-05 06:09:05
+Alpha : Beta : Gamma: 1.0 0.9 1.1
+2017-06-05 06:09:06
+Alpha : Beta : Gamma: 1.0 0.9 1.2
+2017-06-05 06:09:07
+Alpha : Beta : Gamma: 1.0 0.9 1.3
+2017-06-05 06:09:08
+Alpha : Beta : Gamma: 1.0 0.9 1.4
+2017-06-05 06:09:09
+Alpha : Beta : Gamma: 1.0 0.9 1.5
+2017-06-05 06:09:10
+Alpha : Beta : Gamma: 1.0 0.9 1.6
+2017-06-05 06:09:10
+Alpha : Beta : Gamma: 1.0 0.9 1.7
+2017-06-05 06:09:11
+Alpha : Beta : Gamma: 1.0 0.9 1.8
+2017-06-05 06:09:12
+Alpha : Beta : Gamma: 1.0 0.9 1.9
+2017-06-05 06:09:13
+Alpha : Beta : Gamma: 1.0 1.0 0.0
+2017-06-05 06:09:14
+Alpha : Beta : Gamma: 1.0 1.0 0.1
+2017-06-05 06:09:15
+Alpha : Beta : Gamma: 1.0 1.0 0.2
+2017-06-05 06:09:16
+Alpha : Beta : Gamma: 1.0 1.0 0.3
+2017-06-05 06:09:17
+Alpha : Beta : Gamma: 1.0 1.0 0.4
+2017-06-05 06:09:17
+Alpha : Beta : Gamma: 1.0 1.0 0.5
+2017-06-05 06:09:18
+Alpha : Beta : Gamma: 1.0 1.0 0.6
+2017-06-05 06:09:19
+Alpha : Beta : Gamma: 1.0 1.0 0.7
+2017-06-05 06:09:20
+Alpha : Beta : Gamma: 1.0 1.0 0.8
+2017-06-05 06:09:21
+Alpha : Beta : Gamma: 1.0 1.0 0.9
+2017-06-05 06:09:22
+Alpha : Beta : Gamma: 1.0 1.0 1.0
+2017-06-05 06:09:22
+Alpha : Beta : Gamma: 1.0 1.0 1.1
+2017-06-05 06:09:23
+Alpha : Beta : Gamma: 1.0 1.0 1.2
+2017-06-05 06:09:24
+Alpha : Beta : Gamma: 1.0 1.0 1.3
+2017-06-05 06:09:25
+Alpha : Beta : Gamma: 1.0 1.0 1.4
+2017-06-05 06:09:26
+Alpha : Beta : Gamma: 1.0 1.0 1.5
+2017-06-05 06:09:27
+Alpha : Beta : Gamma: 1.0 1.0 1.6
+2017-06-05 06:09:28
+Alpha : Beta : Gamma: 1.0 1.0 1.7
+2017-06-05 06:09:28
+Alpha : Beta : Gamma: 1.0 1.0 1.8
+2017-06-05 06:09:29
+Alpha : Beta : Gamma: 1.0 1.0 1.9
+2017-06-05 06:09:30
+Alpha : Beta : Gamma: 1.0 1.1 0.0
+2017-06-05 06:09:31
+Alpha : Beta : Gamma: 1.0 1.1 0.1
+2017-06-05 06:09:32
+Alpha : Beta : Gamma: 1.0 1.1 0.2
+2017-06-05 06:09:33
+Alpha : Beta : Gamma: 1.0 1.1 0.3
+2017-06-05 06:09:34
+Alpha : Beta : Gamma: 1.0 1.1 0.4
+2017-06-05 06:09:34
+Alpha : Beta : Gamma: 1.0 1.1 0.5
+2017-06-05 06:09:35
+Alpha : Beta : Gamma: 1.0 1.1 0.6
+2017-06-05 06:09:36
+Alpha : Beta : Gamma: 1.0 1.1 0.7
+2017-06-05 06:09:37
+Alpha : Beta : Gamma: 1.0 1.1 0.8
+2017-06-05 06:09:38
+Alpha : Beta : Gamma: 1.0 1.1 0.9
+2017-06-05 06:09:39
+Alpha : Beta : Gamma: 1.0 1.1 1.0
+2017-06-05 06:09:40
+Alpha : Beta : Gamma: 1.0 1.1 1.1
+2017-06-05 06:09:40
+Alpha : Beta : Gamma: 1.0 1.1 1.2
+2017-06-05 06:09:41
+Alpha : Beta : Gamma: 1.0 1.1 1.3
+2017-06-05 06:09:42
+Alpha : Beta : Gamma: 1.0 1.1 1.4
+2017-06-05 06:09:43
+Alpha : Beta : Gamma: 1.0 1.1 1.5
+2017-06-05 06:09:44
+Alpha : Beta : Gamma: 1.0 1.1 1.6
+2017-06-05 06:09:45
+Alpha : Beta : Gamma: 1.0 1.1 1.7
+2017-06-05 06:09:46
+Alpha : Beta : Gamma: 1.0 1.1 1.8
+2017-06-05 06:09:47
+Alpha : Beta : Gamma: 1.0 1.1 1.9
+2017-06-05 06:09:47
+Alpha : Beta : Gamma: 1.0 1.2 0.0
+2017-06-05 06:09:48
+Alpha : Beta : Gamma: 1.0 1.2 0.1
+2017-06-05 06:09:49
+Alpha : Beta : Gamma: 1.0 1.2 0.2
+2017-06-05 06:09:50
+Alpha : Beta : Gamma: 1.0 1.2 0.3
+2017-06-05 06:09:51
+Alpha : Beta : Gamma: 1.0 1.2 0.4
+2017-06-05 06:09:52
+Alpha : Beta : Gamma: 1.0 1.2 0.5
+2017-06-05 06:09:53
+Alpha : Beta : Gamma: 1.0 1.2 0.6
+2017-06-05 06:09:53
+Alpha : Beta : Gamma: 1.0 1.2 0.7
+2017-06-05 06:09:54
+Alpha : Beta : Gamma: 1.0 1.2 0.8
+2017-06-05 06:09:55
+Alpha : Beta : Gamma: 1.0 1.2 0.9
+2017-06-05 06:09:56
+Alpha : Beta : Gamma: 1.0 1.2 1.0
+2017-06-05 06:09:57
+Alpha : Beta : Gamma: 1.0 1.2 1.1
+2017-06-05 06:09:58
+Alpha : Beta : Gamma: 1.0 1.2 1.2
+2017-06-05 06:09:58
+Alpha : Beta : Gamma: 1.0 1.2 1.3
+2017-06-05 06:09:59
+Alpha : Beta : Gamma: 1.0 1.2 1.4
+2017-06-05 06:10:00
+Alpha : Beta : Gamma: 1.0 1.2 1.5
+2017-06-05 06:10:01
+Alpha : Beta : Gamma: 1.0 1.2 1.6
+2017-06-05 06:10:02
+Alpha : Beta : Gamma: 1.0 1.2 1.7
+2017-06-05 06:10:03
+Alpha : Beta : Gamma: 1.0 1.2 1.8
+2017-06-05 06:10:04
+Alpha : Beta : Gamma: 1.0 1.2 1.9
+2017-06-05 06:10:04
+Alpha : Beta : Gamma: 1.0 1.3 0.0
+2017-06-05 06:10:05
+Alpha : Beta : Gamma: 1.0 1.3 0.1
+2017-06-05 06:10:06
+Alpha : Beta : Gamma: 1.0 1.3 0.2
+2017-06-05 06:10:07
+Alpha : Beta : Gamma: 1.0 1.3 0.3
+2017-06-05 06:10:08
+Alpha : Beta : Gamma: 1.0 1.3 0.4
+2017-06-05 06:10:09
+Alpha : Beta : Gamma: 1.0 1.3 0.5
+2017-06-05 06:10:10
+Alpha : Beta : Gamma: 1.0 1.3 0.6
+2017-06-05 06:10:10
+Alpha : Beta : Gamma: 1.0 1.3 0.7
+2017-06-05 06:10:11
+Alpha : Beta : Gamma: 1.0 1.3 0.8
+2017-06-05 06:10:12
+Alpha : Beta : Gamma: 1.0 1.3 0.9
+2017-06-05 06:10:13
+Alpha : Beta : Gamma: 1.0 1.3 1.0
+2017-06-05 06:10:14
+Alpha : Beta : Gamma: 1.0 1.3 1.1
+2017-06-05 06:10:15
+Alpha : Beta : Gamma: 1.0 1.3 1.2
+2017-06-05 06:10:16
+Alpha : Beta : Gamma: 1.0 1.3 1.3
+2017-06-05 06:10:16
+Alpha : Beta : Gamma: 1.0 1.3 1.4
+2017-06-05 06:10:17
+Alpha : Beta : Gamma: 1.0 1.3 1.5
+2017-06-05 06:10:18
+Alpha : Beta : Gamma: 1.0 1.3 1.6
+2017-06-05 06:10:19
+Alpha : Beta : Gamma: 1.0 1.3 1.7
+2017-06-05 06:10:20
+Alpha : Beta : Gamma: 1.0 1.3 1.8
+2017-06-05 06:10:21
+Alpha : Beta : Gamma: 1.0 1.3 1.9
+2017-06-05 06:10:22
+Alpha : Beta : Gamma: 1.0 1.4 0.0
+2017-06-05 06:10:22
+Alpha : Beta : Gamma: 1.0 1.4 0.1
+2017-06-05 06:10:23
+Alpha : Beta : Gamma: 1.0 1.4 0.2
+2017-06-05 06:10:24
+Alpha : Beta : Gamma: 1.0 1.4 0.3
+2017-06-05 06:10:25
+Alpha : Beta : Gamma: 1.0 1.4 0.4
+2017-06-05 06:10:26
+Alpha : Beta : Gamma: 1.0 1.4 0.5
+2017-06-05 06:10:27
+Alpha : Beta : Gamma: 1.0 1.4 0.6
+2017-06-05 06:10:27
+Alpha : Beta : Gamma: 1.0 1.4 0.7
+2017-06-05 06:10:28
+Alpha : Beta : Gamma: 1.0 1.4 0.8
+2017-06-05 06:10:29
+Alpha : Beta : Gamma: 1.0 1.4 0.9
+2017-06-05 06:10:30
+Alpha : Beta : Gamma: 1.0 1.4 1.0
+2017-06-05 06:10:31
+Alpha : Beta : Gamma: 1.0 1.4 1.1
+2017-06-05 06:10:32
+Alpha : Beta : Gamma: 1.0 1.4 1.2
+2017-06-05 06:10:33
+Alpha : Beta : Gamma: 1.0 1.4 1.3
+2017-06-05 06:10:33
+Alpha : Beta : Gamma: 1.0 1.4 1.4
+2017-06-05 06:10:34
+Alpha : Beta : Gamma: 1.0 1.4 1.5
+2017-06-05 06:10:35
+Alpha : Beta : Gamma: 1.0 1.4 1.6
+2017-06-05 06:10:36
+Alpha : Beta : Gamma: 1.0 1.4 1.7
+2017-06-05 06:10:37
+Alpha : Beta : Gamma: 1.0 1.4 1.8
+2017-06-05 06:10:38
+Alpha : Beta : Gamma: 1.0 1.4 1.9
+2017-06-05 06:10:39
+Alpha : Beta : Gamma: 1.0 1.5 0.0
+2017-06-05 06:10:40
+Alpha : Beta : Gamma: 1.0 1.5 0.1
+2017-06-05 06:10:40
+Alpha : Beta : Gamma: 1.0 1.5 0.2
+2017-06-05 06:10:41
+Alpha : Beta : Gamma: 1.0 1.5 0.3
+2017-06-05 06:10:42
+Alpha : Beta : Gamma: 1.0 1.5 0.4
+2017-06-05 06:10:43
+Alpha : Beta : Gamma: 1.0 1.5 0.5
+2017-06-05 06:10:44
+Alpha : Beta : Gamma: 1.0 1.5 0.6
+2017-06-05 06:10:45
+Alpha : Beta : Gamma: 1.0 1.5 0.7
+2017-06-05 06:10:46
+Alpha : Beta : Gamma: 1.0 1.5 0.8
+2017-06-05 06:10:46
+Alpha : Beta : Gamma: 1.0 1.5 0.9
+2017-06-05 06:10:47
+Alpha : Beta : Gamma: 1.0 1.5 1.0
+2017-06-05 06:10:48
+Alpha : Beta : Gamma: 1.0 1.5 1.1
+2017-06-05 06:10:49
+Alpha : Beta : Gamma: 1.0 1.5 1.2
+2017-06-05 06:10:50
+Alpha : Beta : Gamma: 1.0 1.5 1.3
+2017-06-05 06:10:51
+Alpha : Beta : Gamma: 1.0 1.5 1.4
+2017-06-05 06:10:52
+Alpha : Beta : Gamma: 1.0 1.5 1.5
+2017-06-05 06:10:52
+Alpha : Beta : Gamma: 1.0 1.5 1.6
+2017-06-05 06:10:53
+Alpha : Beta : Gamma: 1.0 1.5 1.7
+2017-06-05 06:10:54
+Alpha : Beta : Gamma: 1.0 1.5 1.8
+2017-06-05 06:10:55
+Alpha : Beta : Gamma: 1.0 1.5 1.9
+2017-06-05 06:10:56
+Alpha : Beta : Gamma: 1.0 1.6 0.0
+2017-06-05 06:10:57
+Alpha : Beta : Gamma: 1.0 1.6 0.1
+2017-06-05 06:10:58
+Alpha : Beta : Gamma: 1.0 1.6 0.2
+2017-06-05 06:10:58
+Alpha : Beta : Gamma: 1.0 1.6 0.3
+2017-06-05 06:10:59
+Alpha : Beta : Gamma: 1.0 1.6 0.4
+2017-06-05 06:11:00
+Alpha : Beta : Gamma: 1.0 1.6 0.5
+2017-06-05 06:11:01
+Alpha : Beta : Gamma: 1.0 1.6 0.6
+2017-06-05 06:11:02
+Alpha : Beta : Gamma: 1.0 1.6 0.7
+2017-06-05 06:11:03
+Alpha : Beta : Gamma: 1.0 1.6 0.8
+2017-06-05 06:11:04
+Alpha : Beta : Gamma: 1.0 1.6 0.9
+2017-06-05 06:11:04
+Alpha : Beta : Gamma: 1.0 1.6 1.0
+2017-06-05 06:11:05
+Alpha : Beta : Gamma: 1.0 1.6 1.1
+2017-06-05 06:11:06
+Alpha : Beta : Gamma: 1.0 1.6 1.2
+2017-06-05 06:11:07
+Alpha : Beta : Gamma: 1.0 1.6 1.3
+2017-06-05 06:11:08
+Alpha : Beta : Gamma: 1.0 1.6 1.4
+2017-06-05 06:11:09
+Alpha : Beta : Gamma: 1.0 1.6 1.5
+2017-06-05 06:11:10
+Alpha : Beta : Gamma: 1.0 1.6 1.6
+2017-06-05 06:11:10
+Alpha : Beta : Gamma: 1.0 1.6 1.7
+2017-06-05 06:11:11
+Alpha : Beta : Gamma: 1.0 1.6 1.8
+2017-06-05 06:11:12
+Alpha : Beta : Gamma: 1.0 1.6 1.9
+2017-06-05 06:11:13
+Alpha : Beta : Gamma: 1.0 1.7 0.0
+2017-06-05 06:11:14
+Alpha : Beta : Gamma: 1.0 1.7 0.1
+2017-06-05 06:11:15
+Alpha : Beta : Gamma: 1.0 1.7 0.2
+2017-06-05 06:11:16
+Alpha : Beta : Gamma: 1.0 1.7 0.3
+2017-06-05 06:11:17
+Alpha : Beta : Gamma: 1.0 1.7 0.4
+2017-06-05 06:11:17
+Alpha : Beta : Gamma: 1.0 1.7 0.5
+2017-06-05 06:11:18
+Alpha : Beta : Gamma: 1.0 1.7 0.6
+2017-06-05 06:11:19
+Alpha : Beta : Gamma: 1.0 1.7 0.7
+2017-06-05 06:11:20
+Alpha : Beta : Gamma: 1.0 1.7 0.8
+2017-06-05 06:11:21
+Alpha : Beta : Gamma: 1.0 1.7 0.9
+All LF0 RMSE: 102.898042 in 53294 frames
+Only unstress LF0 RMSE: 100.426023 in 1739 frames
+2017-06-05 06:11:23
+Alpha : Beta : Gamma: 1.0 1.7 1.0
+2017-06-05 06:11:24
+Alpha : Beta : Gamma: 1.0 1.7 1.1
+2017-06-05 06:11:25
+Alpha : Beta : Gamma: 1.0 1.7 1.2
+2017-06-05 06:11:26
+Alpha : Beta : Gamma: 1.0 1.7 1.3
+2017-06-05 06:11:27
+Alpha : Beta : Gamma: 1.0 1.7 1.4
+2017-06-05 06:11:27
+Alpha : Beta : Gamma: 1.0 1.7 1.5
+2017-06-05 06:11:28
+Alpha : Beta : Gamma: 1.0 1.7 1.6
+2017-06-05 06:11:29
+Alpha : Beta : Gamma: 1.0 1.7 1.7
+2017-06-05 06:11:30
+Alpha : Beta : Gamma: 1.0 1.7 1.8
+2017-06-05 06:11:31
+Alpha : Beta : Gamma: 1.0 1.7 1.9
+2017-06-05 06:11:32
+Alpha : Beta : Gamma: 1.0 1.8 0.0
+2017-06-05 06:11:33
+Alpha : Beta : Gamma: 1.0 1.8 0.1
+2017-06-05 06:11:33
+Alpha : Beta : Gamma: 1.0 1.8 0.2
+2017-06-05 06:11:34
+Alpha : Beta : Gamma: 1.0 1.8 0.3
+2017-06-05 06:11:35
+Alpha : Beta : Gamma: 1.0 1.8 0.4
+2017-06-05 06:11:36
+Alpha : Beta : Gamma: 1.0 1.8 0.5
+2017-06-05 06:11:37
+Alpha : Beta : Gamma: 1.0 1.8 0.6
+2017-06-05 06:11:38
+Alpha : Beta : Gamma: 1.0 1.8 0.7
+2017-06-05 06:11:38
+Alpha : Beta : Gamma: 1.0 1.8 0.8
+2017-06-05 06:11:39
+Alpha : Beta : Gamma: 1.0 1.8 0.9
+2017-06-05 06:11:40
+Alpha : Beta : Gamma: 1.0 1.8 1.0
+2017-06-05 06:11:41
+Alpha : Beta : Gamma: 1.0 1.8 1.1
+2017-06-05 06:11:42
+Alpha : Beta : Gamma: 1.0 1.8 1.2
+2017-06-05 06:11:43
+Alpha : Beta : Gamma: 1.0 1.8 1.3
+2017-06-05 06:11:44
+Alpha : Beta : Gamma: 1.0 1.8 1.4
+2017-06-05 06:11:44
+Alpha : Beta : Gamma: 1.0 1.8 1.5
+2017-06-05 06:11:45
+Alpha : Beta : Gamma: 1.0 1.8 1.6
+2017-06-05 06:11:46
+Alpha : Beta : Gamma: 1.0 1.8 1.7
+2017-06-05 06:11:47
+Alpha : Beta : Gamma: 1.0 1.8 1.8
+2017-06-05 06:11:48
+Alpha : Beta : Gamma: 1.0 1.8 1.9
+2017-06-05 06:11:49
+Alpha : Beta : Gamma: 1.0 1.9 0.0
+2017-06-05 06:11:49
+Alpha : Beta : Gamma: 1.0 1.9 0.1
+2017-06-05 06:11:50
+Alpha : Beta : Gamma: 1.0 1.9 0.2
+2017-06-05 06:11:51
+Alpha : Beta : Gamma: 1.0 1.9 0.3
+2017-06-05 06:11:52
+Alpha : Beta : Gamma: 1.0 1.9 0.4
+2017-06-05 06:11:53
+Alpha : Beta : Gamma: 1.0 1.9 0.5
+2017-06-05 06:11:54
+Alpha : Beta : Gamma: 1.0 1.9 0.6
+2017-06-05 06:11:55
+Alpha : Beta : Gamma: 1.0 1.9 0.7
+2017-06-05 06:11:55
+Alpha : Beta : Gamma: 1.0 1.9 0.8
+2017-06-05 06:11:56
+Alpha : Beta : Gamma: 1.0 1.9 0.9
+2017-06-05 06:11:57
+Alpha : Beta : Gamma: 1.0 1.9 1.0
+2017-06-05 06:11:58
+Alpha : Beta : Gamma: 1.0 1.9 1.1
+2017-06-05 06:11:59
+Alpha : Beta : Gamma: 1.0 1.9 1.2
+2017-06-05 06:12:00
+Alpha : Beta : Gamma: 1.0 1.9 1.3
+2017-06-05 06:12:01
+Alpha : Beta : Gamma: 1.0 1.9 1.4
+2017-06-05 06:12:01
+Alpha : Beta : Gamma: 1.0 1.9 1.5
+2017-06-05 06:12:02
+Alpha : Beta : Gamma: 1.0 1.9 1.6
+2017-06-05 06:12:03
+Alpha : Beta : Gamma: 1.0 1.9 1.7
+2017-06-05 06:12:04
+Alpha : Beta : Gamma: 1.0 1.9 1.8
+2017-06-05 06:12:05
+Alpha : Beta : Gamma: 1.0 1.9 1.9

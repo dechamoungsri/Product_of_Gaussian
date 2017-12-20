@@ -1,0 +1,30 @@
+Alpha : Beta :  2.1 1.0
+All LF0 RMSE: 102.836275 in 53294 frames
+Only stress LF0 RMSE: 79.436274 in 5569 frames
+Alpha : Beta :  2.3 1.0
+All LF0 RMSE: 102.831659 in 53294 frames
+Only stress LF0 RMSE: 79.409326 in 5569 frames
+Alpha : Beta :  2.5 1.0
+All LF0 RMSE: 102.827971 in 53294 frames
+Only stress LF0 RMSE: 79.390542 in 5569 frames
+Alpha : Beta :  2.7 1.0
+All LF0 RMSE: 102.825120 in 53294 frames
+Only stress LF0 RMSE: 79.379086 in 5569 frames
+Alpha : Beta :  2.9 1.0
+All LF0 RMSE: 102.823026 in 53294 frames
+Only stress LF0 RMSE: 79.374219 in 5569 frames
+Alpha : Beta :  3.1 1.0
+All LF0 RMSE: 102.821617 in 53294 frames
+Only stress LF0 RMSE: 79.375285 in 5569 frames
+Alpha : Beta :  3.3 1.0
+All LF0 RMSE: 102.820830 in 53294 frames
+Only stress LF0 RMSE: 79.381696 in 5569 frames
+Alpha : Beta :  3.5 1.0
+All LF0 RMSE: 102.820606 in 53294 frames
+Only stress LF0 RMSE: 79.392927 in 5569 frames
+Alpha : Beta :  3.7 1.0
+All LF0 RMSE: 102.820894 in 53294 frames
+Only stress LF0 RMSE: 79.408508 in 5569 frames
+Alpha : Beta :  3.9 1.0
+All LF0 RMSE: 102.821647 in 53294 frames
+Only stress LF0 RMSE: 79.428014 in 5569 frames

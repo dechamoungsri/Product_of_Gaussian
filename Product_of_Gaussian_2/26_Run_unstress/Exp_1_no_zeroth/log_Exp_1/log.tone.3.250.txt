@@ -1,0 +1,41 @@
+Namespace(block_size='256', endbeta='2.0', num_coeff='3', plot=False, startbeta='0.1', stress_or_unstress='unstress', tone='3', training_size='250', use_partial_coeff=True)
+2017-03-13 19:23:20
+Alpha : Beta :  0.1 1.0
+All LF0 RMSE: 104.176830 in 53294 frames
+Only unstress LF0 RMSE: 113.774542 in 4611 frames
+2017-03-13 19:24:35
+Alpha : Beta :  0.3 1.0
+All LF0 RMSE: 108.778970 in 53294 frames
+Only unstress LF0 RMSE: 148.579578 in 4611 frames
+2017-03-13 19:25:51
+Alpha : Beta :  0.5 1.0
+All LF0 RMSE: 113.153932 in 53294 frames
+Only unstress LF0 RMSE: 176.445258 in 4611 frames
+2017-03-13 19:27:06
+Alpha : Beta :  0.7 1.0
+All LF0 RMSE: 116.701319 in 53294 frames
+Only unstress LF0 RMSE: 196.868473 in 4611 frames
+2017-03-13 19:28:22
+Alpha : Beta :  0.9 1.0
+All LF0 RMSE: 119.524824 in 53294 frames
+Only unstress LF0 RMSE: 212.156548 in 4611 frames
+2017-03-13 19:29:38
+Alpha : Beta :  1.1 1.0
+All LF0 RMSE: 121.791805 in 53294 frames
+Only unstress LF0 RMSE: 223.948713 in 4611 frames
+2017-03-13 19:30:53
+Alpha : Beta :  1.3 1.0
+All LF0 RMSE: 123.638864 in 53294 frames
+Only unstress LF0 RMSE: 233.293135 in 4611 frames
+2017-03-13 19:32:09
+Alpha : Beta :  1.5 1.0
+All LF0 RMSE: 125.166743 in 53294 frames
+Only unstress LF0 RMSE: 240.868564 in 4611 frames
+2017-03-13 19:33:24
+Alpha : Beta :  1.7 1.0
+All LF0 RMSE: 126.448493 in 53294 frames
+Only unstress LF0 RMSE: 247.128224 in 4611 frames
+2017-03-13 19:34:40
+Alpha : Beta :  1.9 1.0
+All LF0 RMSE: 127.537427 in 53294 frames
+Only unstress LF0 RMSE: 252.384479 in 4611 frames

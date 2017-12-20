@@ -1,0 +1,2810 @@
+Namespace(end_ph_0='2.0', end_ph_1toN='2.0', end_syl_0='2.0', end_syl_1toN='2.0', increment='0.2', mainoutpath='/work/w21/decha/Interspeech_2017/Result_3/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='final', plot=False, start_ph_0='0.0', start_ph_1toN='0.0', start_syl_0='0.0', start_syl_1toN='0.0', stress_type='1', tone='1', tone_folder='all', training_size='250')
+[array([ 1.,  0.,  0.,  0.,  0.])]
+2017-05-03 09:18:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 0.0 0.0
+All LF0 RMSE: 102.978578 in 53294 frames
+Only specific case LF0 RMSE: 82.265559 in 787 frames
+2017-05-03 09:18:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 0.0 0.2
+All LF0 RMSE: 102.997754 in 53294 frames
+Only specific case LF0 RMSE: 82.146592 in 787 frames
+2017-05-03 09:18:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 0.0 0.4
+All LF0 RMSE: 103.045067 in 53294 frames
+Only specific case LF0 RMSE: 83.240622 in 787 frames
+2017-05-03 09:18:51
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 0.2 0.2
+All LF0 RMSE: 102.993932 in 53294 frames
+Only specific case LF0 RMSE: 82.345231 in 787 frames
+2017-05-03 09:18:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.2 0.0 0.2
+All LF0 RMSE: 102.975436 in 53294 frames
+Only specific case LF0 RMSE: 82.131262 in 787 frames
+2017-05-03 09:19:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.2 0.0 0.4
+All LF0 RMSE: 103.023057 in 53294 frames
+Only specific case LF0 RMSE: 83.226056 in 787 frames
+2017-05-03 09:19:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.2 0.2 0.2
+All LF0 RMSE: 102.971859 in 53294 frames
+Only specific case LF0 RMSE: 82.329014 in 787 frames
+2017-05-03 09:19:24
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.4 0.0 0.2
+All LF0 RMSE: 102.978346 in 53294 frames
+Only specific case LF0 RMSE: 82.116455 in 787 frames
+2017-05-03 09:19:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.4 0.0 0.4
+All LF0 RMSE: 103.026249 in 53294 frames
+Only specific case LF0 RMSE: 83.211989 in 787 frames
+2017-05-03 09:19:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.4 0.2 0.2
+All LF0 RMSE: 102.974998 in 53294 frames
+Only specific case LF0 RMSE: 82.313353 in 787 frames
+2017-05-03 09:19:49
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.6 0.0 0.2
+All LF0 RMSE: 103.004406 in 53294 frames
+Only specific case LF0 RMSE: 82.102146 in 787 frames
+2017-05-03 09:19:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.6 0.0 0.4
+All LF0 RMSE: 103.052568 in 53294 frames
+Only specific case LF0 RMSE: 83.198395 in 787 frames
+2017-05-03 09:20:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.6 0.2 0.2
+All LF0 RMSE: 103.001271 in 53294 frames
+Only specific case LF0 RMSE: 82.298220 in 787 frames
+2017-05-03 09:20:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.8 0.0 0.2
+All LF0 RMSE: 103.051697 in 53294 frames
+Only specific case LF0 RMSE: 82.088309 in 787 frames
+2017-05-03 09:20:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.8 0.0 0.4
+All LF0 RMSE: 103.100095 in 53294 frames
+Only specific case LF0 RMSE: 83.185251 in 787 frames
+2017-05-03 09:20:30
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.8 0.2 0.2
+All LF0 RMSE: 103.048762 in 53294 frames
+Only specific case LF0 RMSE: 82.283588 in 787 frames
+2017-05-03 09:20:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.0 0.0 0.2
+All LF0 RMSE: 103.118445 in 53294 frames
+Only specific case LF0 RMSE: 82.074923 in 787 frames
+2017-05-03 09:20:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.0 0.0 0.4
+All LF0 RMSE: 103.167058 in 53294 frames
+Only specific case LF0 RMSE: 83.172536 in 787 frames
+2017-05-03 09:20:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.0 0.2 0.2
+All LF0 RMSE: 103.115695 in 53294 frames
+Only specific case LF0 RMSE: 82.269433 in 787 frames
+2017-05-03 09:21:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.2 0.0 0.2
+All LF0 RMSE: 103.203010 in 53294 frames
+Only specific case LF0 RMSE: 82.061965 in 787 frames
+2017-05-03 09:21:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.2 0.0 0.4
+All LF0 RMSE: 103.251818 in 53294 frames
+Only specific case LF0 RMSE: 83.160228 in 787 frames
+2017-05-03 09:21:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.2 0.2 0.2
+All LF0 RMSE: 103.200433 in 53294 frames
+Only specific case LF0 RMSE: 82.255733 in 787 frames
+2017-05-03 09:21:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.4 0.0 0.2
+All LF0 RMSE: 103.303877 in 53294 frames
+Only specific case LF0 RMSE: 82.049416 in 787 frames
+2017-05-03 09:21:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.4 0.0 0.4
+All LF0 RMSE: 103.352861 in 53294 frames
+Only specific case LF0 RMSE: 83.148310 in 787 frames
+2017-05-03 09:21:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.4 0.2 0.2
+All LF0 RMSE: 103.301461 in 53294 frames
+Only specific case LF0 RMSE: 82.242467 in 787 frames
+2017-05-03 09:21:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.6 0.0 0.2
+All LF0 RMSE: 103.419645 in 53294 frames
+Only specific case LF0 RMSE: 82.037256 in 787 frames
+2017-05-03 09:22:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.6 0.0 0.4
+All LF0 RMSE: 103.468788 in 53294 frames
+Only specific case LF0 RMSE: 83.136762 in 787 frames
+2017-05-03 09:22:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.6 0.2 0.2
+All LF0 RMSE: 103.417380 in 53294 frames
+Only specific case LF0 RMSE: 82.229613 in 787 frames
+2017-05-03 09:22:18
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.8 0.0 0.2
+All LF0 RMSE: 103.549021 in 53294 frames
+Only specific case LF0 RMSE: 82.025468 in 787 frames
+2017-05-03 09:22:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.8 0.0 0.4
+All LF0 RMSE: 103.598308 in 53294 frames
+Only specific case LF0 RMSE: 83.125568 in 787 frames
+2017-05-03 09:22:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.8 0.2 0.2
+All LF0 RMSE: 103.546897 in 53294 frames
+Only specific case LF0 RMSE: 82.217154 in 787 frames
+2017-05-03 09:22:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.0 0.0 0.2
+All LF0 RMSE: 103.690809 in 53294 frames
+Only specific case LF0 RMSE: 82.014036 in 787 frames
+2017-05-03 09:22:51
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.0 0.0 0.4
+All LF0 RMSE: 103.740224 in 53294 frames
+Only specific case LF0 RMSE: 83.114711 in 787 frames
+2017-05-03 09:22:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.0 0.2 0.2
+All LF0 RMSE: 103.688815 in 53294 frames
+Only specific case LF0 RMSE: 82.205071 in 787 frames
+2017-05-03 09:23:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.2 0.0 0.2
+All LF0 RMSE: 103.843903 in 53294 frames
+Only specific case LF0 RMSE: 82.002942 in 787 frames
+2017-05-03 09:23:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.2 0.0 0.4
+All LF0 RMSE: 103.893432 in 53294 frames
+Only specific case LF0 RMSE: 83.104178 in 787 frames
+2017-05-03 09:23:24
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.2 0.2 0.2
+All LF0 RMSE: 103.842031 in 53294 frames
+Only specific case LF0 RMSE: 82.193348 in 787 frames
+2017-05-03 09:23:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.2 0.0 0.2
+All LF0 RMSE: 103.838669 in 53294 frames
+Only specific case LF0 RMSE: 81.999785 in 787 frames
+2017-05-03 09:23:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.2 0.0 0.4
+All LF0 RMSE: 103.888191 in 53294 frames
+Only specific case LF0 RMSE: 83.101125 in 787 frames
+2017-05-03 09:23:48
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.2 0.2 0.2
+All LF0 RMSE: 103.836786 in 53294 frames
+Only specific case LF0 RMSE: 82.189837 in 787 frames
+2017-05-03 09:23:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.2 0.0 0.2
+All LF0 RMSE: 103.834243 in 53294 frames
+Only specific case LF0 RMSE: 81.996895 in 787 frames
+2017-05-03 09:24:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.2 0.0 0.4
+All LF0 RMSE: 103.883759 in 53294 frames
+Only specific case LF0 RMSE: 83.098331 in 787 frames
+2017-05-03 09:24:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.2 0.2 0.2
+All LF0 RMSE: 103.832350 in 53294 frames
+Only specific case LF0 RMSE: 82.186624 in 787 frames
+2017-05-03 09:24:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.2 0.0 0.2
+All LF0 RMSE: 103.830419 in 53294 frames
+Only specific case LF0 RMSE: 81.994236 in 787 frames
+2017-05-03 09:24:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.2 0.0 0.4
+All LF0 RMSE: 103.879929 in 53294 frames
+Only specific case LF0 RMSE: 83.095759 in 787 frames
+2017-05-03 09:24:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.2 0.2 0.2
+All LF0 RMSE: 103.828516 in 53294 frames
+Only specific case LF0 RMSE: 82.183667 in 787 frames
+2017-05-03 09:24:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.2 0.0 0.2
+All LF0 RMSE: 103.827062 in 53294 frames
+Only specific case LF0 RMSE: 81.991778 in 787 frames
+2017-05-03 09:24:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.2 0.0 0.4
+All LF0 RMSE: 103.876565 in 53294 frames
+Only specific case LF0 RMSE: 83.093380 in 787 frames
+2017-05-03 09:25:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.2 0.2 0.2
+All LF0 RMSE: 103.825149 in 53294 frames
+Only specific case LF0 RMSE: 82.180934 in 787 frames
+2017-05-03 09:25:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.2 0.0 0.2
+All LF0 RMSE: 103.824079 in 53294 frames
+Only specific case LF0 RMSE: 81.989495 in 787 frames
+2017-05-03 09:25:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.2 0.0 0.4
+All LF0 RMSE: 103.873576 in 53294 frames
+Only specific case LF0 RMSE: 83.091171 in 787 frames
+2017-05-03 09:25:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.2 0.2 0.2
+All LF0 RMSE: 103.822157 in 53294 frames
+Only specific case LF0 RMSE: 82.178396 in 787 frames
+2017-05-03 09:25:35
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.2 0.0 0.2
+All LF0 RMSE: 103.821402 in 53294 frames
+Only specific case LF0 RMSE: 81.987366 in 787 frames
+2017-05-03 09:25:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.2 0.0 0.4
+All LF0 RMSE: 103.870893 in 53294 frames
+Only specific case LF0 RMSE: 83.089111 in 787 frames
+2017-05-03 09:25:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.2 0.2 0.2
+All LF0 RMSE: 103.819471 in 53294 frames
+Only specific case LF0 RMSE: 82.176030 in 787 frames
+2017-05-03 09:26:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.2 0.0 0.2
+All LF0 RMSE: 103.818982 in 53294 frames
+Only specific case LF0 RMSE: 81.985375 in 787 frames
+2017-05-03 09:26:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.2 0.0 0.4
+All LF0 RMSE: 103.868467 in 53294 frames
+Only specific case LF0 RMSE: 83.087184 in 787 frames
+2017-05-03 09:26:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.2 0.2 0.2
+All LF0 RMSE: 103.817043 in 53294 frames
+Only specific case LF0 RMSE: 82.173817 in 787 frames
+2017-05-03 09:26:25
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.2 0.0 0.2
+All LF0 RMSE: 103.816779 in 53294 frames
+Only specific case LF0 RMSE: 81.983506 in 787 frames
+2017-05-03 09:26:33
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.2 0.0 0.4
+All LF0 RMSE: 103.866259 in 53294 frames
+Only specific case LF0 RMSE: 83.085374 in 787 frames
+2017-05-03 09:26:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.2 0.2 0.2
+All LF0 RMSE: 103.814833 in 53294 frames
+Only specific case LF0 RMSE: 82.171740 in 787 frames
+2017-05-03 09:26:49
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.2 0.0 0.2
+All LF0 RMSE: 103.814764 in 53294 frames
+Only specific case LF0 RMSE: 81.981747 in 787 frames
+2017-05-03 09:26:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.2 0.0 0.4
+All LF0 RMSE: 103.864238 in 53294 frames
+Only specific case LF0 RMSE: 83.083671 in 787 frames
+2017-05-03 09:27:06
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.2 0.2 0.2
+All LF0 RMSE: 103.812811 in 53294 frames
+Only specific case LF0 RMSE: 82.169785 in 787 frames
+2017-05-03 09:27:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.2 0.0 0.2
+All LF0 RMSE: 103.812912 in 53294 frames
+Only specific case LF0 RMSE: 81.980087 in 787 frames
+2017-05-03 09:27:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.2 0.0 0.4
+All LF0 RMSE: 103.862381 in 53294 frames
+Only specific case LF0 RMSE: 83.082063 in 787 frames
+2017-05-03 09:27:30
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.2 0.2 0.2
+All LF0 RMSE: 103.810951 in 53294 frames
+Only specific case LF0 RMSE: 82.167940 in 787 frames
+2017-05-03 09:27:39
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.2 0.0 0.2
+All LF0 RMSE: 103.811203 in 53294 frames
+Only specific case LF0 RMSE: 81.978517 in 787 frames
+2017-05-03 09:27:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.2 0.0 0.4
+All LF0 RMSE: 103.860666 in 53294 frames
+Only specific case LF0 RMSE: 83.080541 in 787 frames
+2017-05-03 09:27:55
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.2 0.2 0.2
+All LF0 RMSE: 103.809235 in 53294 frames
+Only specific case LF0 RMSE: 82.166195 in 787 frames
+2017-05-03 09:28:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.0 0.0 0.2
+All LF0 RMSE: 103.686395 in 53294 frames
+Only specific case LF0 RMSE: 82.011196 in 787 frames
+2017-05-03 09:28:12
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.0 0.0 0.4
+All LF0 RMSE: 103.735802 in 53294 frames
+Only specific case LF0 RMSE: 83.111964 in 787 frames
+2017-05-03 09:28:20
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.0 0.2 0.2
+All LF0 RMSE: 103.684390 in 53294 frames
+Only specific case LF0 RMSE: 82.201912 in 787 frames
+2017-05-03 09:28:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.0 0.0 0.2
+All LF0 RMSE: 103.682650 in 53294 frames
+Only specific case LF0 RMSE: 82.008592 in 787 frames
+2017-05-03 09:28:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.0 0.0 0.4
+All LF0 RMSE: 103.732052 in 53294 frames
+Only specific case LF0 RMSE: 83.109444 in 787 frames
+2017-05-03 09:28:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.0 0.2 0.2
+All LF0 RMSE: 103.680636 in 53294 frames
+Only specific case LF0 RMSE: 82.199016 in 787 frames
+2017-05-03 09:28:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.0 0.0 0.2
+All LF0 RMSE: 103.679409 in 53294 frames
+Only specific case LF0 RMSE: 82.006192 in 787 frames
+2017-05-03 09:29:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.0 0.0 0.4
+All LF0 RMSE: 103.728803 in 53294 frames
+Only specific case LF0 RMSE: 83.107121 in 787 frames
+2017-05-03 09:29:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.0 0.2 0.2
+All LF0 RMSE: 103.677385 in 53294 frames
+Only specific case LF0 RMSE: 82.196346 in 787 frames
+2017-05-03 09:29:18
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.0 0.0 0.2
+All LF0 RMSE: 103.676559 in 53294 frames
+Only specific case LF0 RMSE: 82.003969 in 787 frames
+2017-05-03 09:29:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.0 0.0 0.4
+All LF0 RMSE: 103.725947 in 53294 frames
+Only specific case LF0 RMSE: 83.104968 in 787 frames
+2017-05-03 09:29:35
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.0 0.2 0.2
+All LF0 RMSE: 103.674526 in 53294 frames
+Only specific case LF0 RMSE: 82.193874 in 787 frames
+2017-05-03 09:29:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.0 0.0 0.2
+All LF0 RMSE: 103.674024 in 53294 frames
+Only specific case LF0 RMSE: 82.001900 in 787 frames
+2017-05-03 09:29:51
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.0 0.0 0.4
+All LF0 RMSE: 103.723406 in 53294 frames
+Only specific case LF0 RMSE: 83.102965 in 787 frames
+2017-05-03 09:30:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.0 0.2 0.2
+All LF0 RMSE: 103.671983 in 53294 frames
+Only specific case LF0 RMSE: 82.191574 in 787 frames
+2017-05-03 09:30:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.0 0.0 0.2
+All LF0 RMSE: 103.671750 in 53294 frames
+Only specific case LF0 RMSE: 81.999969 in 787 frames
+2017-05-03 09:30:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.0 0.0 0.4
+All LF0 RMSE: 103.721125 in 53294 frames
+Only specific case LF0 RMSE: 83.101094 in 787 frames
+2017-05-03 09:30:24
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.0 0.2 0.2
+All LF0 RMSE: 103.669700 in 53294 frames
+Only specific case LF0 RMSE: 82.189426 in 787 frames
+2017-05-03 09:30:33
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.0 0.0 0.2
+All LF0 RMSE: 103.669693 in 53294 frames
+Only specific case LF0 RMSE: 81.998159 in 787 frames
+2017-05-03 09:30:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.0 0.0 0.4
+All LF0 RMSE: 103.719063 in 53294 frames
+Only specific case LF0 RMSE: 83.099340 in 787 frames
+2017-05-03 09:30:49
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.0 0.2 0.2
+All LF0 RMSE: 103.667636 in 53294 frames
+Only specific case LF0 RMSE: 82.187414 in 787 frames
+2017-05-03 09:30:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.0 0.0 0.2
+All LF0 RMSE: 103.667823 in 53294 frames
+Only specific case LF0 RMSE: 81.996457 in 787 frames
+2017-05-03 09:31:06
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.0 0.0 0.4
+All LF0 RMSE: 103.717186 in 53294 frames
+Only specific case LF0 RMSE: 83.097691 in 787 frames
+2017-05-03 09:31:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.0 0.2 0.2
+All LF0 RMSE: 103.665758 in 53294 frames
+Only specific case LF0 RMSE: 82.185522 in 787 frames
+2017-05-03 09:31:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.0 0.0 0.2
+All LF0 RMSE: 103.666112 in 53294 frames
+Only specific case LF0 RMSE: 81.994853 in 787 frames
+2017-05-03 09:31:30
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.0 0.0 0.4
+All LF0 RMSE: 103.715469 in 53294 frames
+Only specific case LF0 RMSE: 83.096136 in 787 frames
+2017-05-03 09:31:39
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.0 0.2 0.2
+All LF0 RMSE: 103.664040 in 53294 frames
+Only specific case LF0 RMSE: 82.183739 in 787 frames
+2017-05-03 09:31:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.0 0.0 0.2
+All LF0 RMSE: 103.664540 in 53294 frames
+Only specific case LF0 RMSE: 81.993336 in 787 frames
+2017-05-03 09:31:55
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.0 0.0 0.4
+All LF0 RMSE: 103.713892 in 53294 frames
+Only specific case LF0 RMSE: 83.094666 in 787 frames
+2017-05-03 09:32:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.0 0.2 0.2
+All LF0 RMSE: 103.662462 in 53294 frames
+Only specific case LF0 RMSE: 82.182053 in 787 frames
+2017-05-03 09:32:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.0 0.0 0.2
+All LF0 RMSE: 103.663091 in 53294 frames
+Only specific case LF0 RMSE: 81.991899 in 787 frames
+2017-05-03 09:32:20
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.0 0.0 0.4
+All LF0 RMSE: 103.712438 in 53294 frames
+Only specific case LF0 RMSE: 83.093272 in 787 frames
+2017-05-03 09:32:28
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.0 0.2 0.2
+All LF0 RMSE: 103.661006 in 53294 frames
+Only specific case LF0 RMSE: 82.180457 in 787 frames
+2017-05-03 09:32:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.8 0.0 0.2
+All LF0 RMSE: 103.545395 in 53294 frames
+Only specific case LF0 RMSE: 82.022954 in 787 frames
+2017-05-03 09:32:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.8 0.0 0.4
+All LF0 RMSE: 103.594674 in 53294 frames
+Only specific case LF0 RMSE: 83.123133 in 787 frames
+2017-05-03 09:32:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.8 0.2 0.2
+All LF0 RMSE: 103.543260 in 53294 frames
+Only specific case LF0 RMSE: 82.214356 in 787 frames
+2017-05-03 09:33:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.8 0.0 0.2
+All LF0 RMSE: 103.542308 in 53294 frames
+Only specific case LF0 RMSE: 82.020643 in 787 frames
+2017-05-03 09:33:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.8 0.0 0.4
+All LF0 RMSE: 103.591580 in 53294 frames
+Only specific case LF0 RMSE: 83.120894 in 787 frames
+2017-05-03 09:33:18
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.8 0.2 0.2
+All LF0 RMSE: 103.540164 in 53294 frames
+Only specific case LF0 RMSE: 82.211785 in 787 frames
+2017-05-03 09:33:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.8 0.0 0.2
+All LF0 RMSE: 103.539630 in 53294 frames
+Only specific case LF0 RMSE: 82.018508 in 787 frames
+2017-05-03 09:33:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.8 0.0 0.4
+All LF0 RMSE: 103.588895 in 53294 frames
+Only specific case LF0 RMSE: 83.118825 in 787 frames
+2017-05-03 09:33:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.8 0.2 0.2
+All LF0 RMSE: 103.537476 in 53294 frames
+Only specific case LF0 RMSE: 82.209409 in 787 frames
+2017-05-03 09:33:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.8 0.0 0.2
+All LF0 RMSE: 103.537272 in 53294 frames
+Only specific case LF0 RMSE: 82.016526 in 787 frames
+2017-05-03 09:33:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.8 0.0 0.4
+All LF0 RMSE: 103.586530 in 53294 frames
+Only specific case LF0 RMSE: 83.116904 in 787 frames
+2017-05-03 09:34:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.8 0.2 0.2
+All LF0 RMSE: 103.535110 in 53294 frames
+Only specific case LF0 RMSE: 82.207203 in 787 frames
+2017-05-03 09:34:15
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.8 0.0 0.2
+All LF0 RMSE: 103.535174 in 53294 frames
+Only specific case LF0 RMSE: 82.014677 in 787 frames
+2017-05-03 09:34:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.8 0.0 0.4
+All LF0 RMSE: 103.584426 in 53294 frames
+Only specific case LF0 RMSE: 83.115111 in 787 frames
+2017-05-03 09:34:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.8 0.2 0.2
+All LF0 RMSE: 103.533004 in 53294 frames
+Only specific case LF0 RMSE: 82.205147 in 787 frames
+2017-05-03 09:34:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.8 0.0 0.2
+All LF0 RMSE: 103.533291 in 53294 frames
+Only specific case LF0 RMSE: 82.012947 in 787 frames
+2017-05-03 09:34:48
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.8 0.0 0.4
+All LF0 RMSE: 103.582537 in 53294 frames
+Only specific case LF0 RMSE: 83.113434 in 787 frames
+2017-05-03 09:34:56
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.8 0.2 0.2
+All LF0 RMSE: 103.531114 in 53294 frames
+Only specific case LF0 RMSE: 82.203222 in 787 frames
+2017-05-03 09:35:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.8 0.0 0.2
+All LF0 RMSE: 103.531589 in 53294 frames
+Only specific case LF0 RMSE: 82.011322 in 787 frames
+2017-05-03 09:35:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.8 0.0 0.4
+All LF0 RMSE: 103.580829 in 53294 frames
+Only specific case LF0 RMSE: 83.111857 in 787 frames
+2017-05-03 09:35:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.8 0.2 0.2
+All LF0 RMSE: 103.529404 in 53294 frames
+Only specific case LF0 RMSE: 82.201415 in 787 frames
+2017-05-03 09:35:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.8 0.0 0.2
+All LF0 RMSE: 103.530042 in 53294 frames
+Only specific case LF0 RMSE: 82.009791 in 787 frames
+2017-05-03 09:35:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.8 0.0 0.4
+All LF0 RMSE: 103.579275 in 53294 frames
+Only specific case LF0 RMSE: 83.110372 in 787 frames
+2017-05-03 09:35:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.8 0.2 0.2
+All LF0 RMSE: 103.527850 in 53294 frames
+Only specific case LF0 RMSE: 82.199713 in 787 frames
+2017-05-03 09:35:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.8 0.0 0.2
+All LF0 RMSE: 103.528628 in 53294 frames
+Only specific case LF0 RMSE: 82.008345 in 787 frames
+2017-05-03 09:36:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.8 0.0 0.4
+All LF0 RMSE: 103.577856 in 53294 frames
+Only specific case LF0 RMSE: 83.108969 in 787 frames
+2017-05-03 09:36:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.8 0.2 0.2
+All LF0 RMSE: 103.526429 in 53294 frames
+Only specific case LF0 RMSE: 82.198105 in 787 frames
+2017-05-03 09:36:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.8 0.0 0.2
+All LF0 RMSE: 103.527331 in 53294 frames
+Only specific case LF0 RMSE: 82.006975 in 787 frames
+2017-05-03 09:36:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.8 0.0 0.4
+All LF0 RMSE: 103.576553 in 53294 frames
+Only specific case LF0 RMSE: 83.107639 in 787 frames
+2017-05-03 09:36:35
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.8 0.2 0.2
+All LF0 RMSE: 103.525125 in 53294 frames
+Only specific case LF0 RMSE: 82.196583 in 787 frames
+2017-05-03 09:36:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.8 0.0 0.2
+All LF0 RMSE: 103.526136 in 53294 frames
+Only specific case LF0 RMSE: 82.005674 in 787 frames
+2017-05-03 09:36:51
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.8 0.0 0.4
+All LF0 RMSE: 103.575352 in 53294 frames
+Only specific case LF0 RMSE: 83.106377 in 787 frames
+2017-05-03 09:37:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.8 0.2 0.2
+All LF0 RMSE: 103.523924 in 53294 frames
+Only specific case LF0 RMSE: 82.195137 in 787 frames
+2017-05-03 09:37:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.6 0.0 0.2
+All LF0 RMSE: 103.416767 in 53294 frames
+Only specific case LF0 RMSE: 82.035076 in 787 frames
+2017-05-03 09:37:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.6 0.0 0.4
+All LF0 RMSE: 103.465903 in 53294 frames
+Only specific case LF0 RMSE: 83.134648 in 787 frames
+2017-05-03 09:37:24
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.6 0.2 0.2
+All LF0 RMSE: 103.414493 in 53294 frames
+Only specific case LF0 RMSE: 82.227186 in 787 frames
+2017-05-03 09:37:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.6 0.0 0.2
+All LF0 RMSE: 103.414307 in 53294 frames
+Only specific case LF0 RMSE: 82.033065 in 787 frames
+2017-05-03 09:37:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.6 0.0 0.4
+All LF0 RMSE: 103.463436 in 53294 frames
+Only specific case LF0 RMSE: 83.132697 in 787 frames
+2017-05-03 09:37:49
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.6 0.2 0.2
+All LF0 RMSE: 103.412024 in 53294 frames
+Only specific case LF0 RMSE: 82.224947 in 787 frames
+2017-05-03 09:37:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.6 0.0 0.2
+All LF0 RMSE: 103.412168 in 53294 frames
+Only specific case LF0 RMSE: 82.031201 in 787 frames
+2017-05-03 09:38:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.6 0.0 0.4
+All LF0 RMSE: 103.461289 in 53294 frames
+Only specific case LF0 RMSE: 83.130888 in 787 frames
+2017-05-03 09:38:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.6 0.2 0.2
+All LF0 RMSE: 103.409876 in 53294 frames
+Only specific case LF0 RMSE: 82.222872 in 787 frames
+2017-05-03 09:38:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.6 0.0 0.2
+All LF0 RMSE: 103.410283 in 53294 frames
+Only specific case LF0 RMSE: 82.029465 in 787 frames
+2017-05-03 09:38:30
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.6 0.0 0.4
+All LF0 RMSE: 103.459397 in 53294 frames
+Only specific case LF0 RMSE: 83.129203 in 787 frames
+2017-05-03 09:38:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.6 0.2 0.2
+All LF0 RMSE: 103.407982 in 53294 frames
+Only specific case LF0 RMSE: 82.220940 in 787 frames
+2017-05-03 09:38:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.6 0.0 0.2
+All LF0 RMSE: 103.408604 in 53294 frames
+Only specific case LF0 RMSE: 82.027842 in 787 frames
+2017-05-03 09:38:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.6 0.0 0.4
+All LF0 RMSE: 103.457712 in 53294 frames
+Only specific case LF0 RMSE: 83.127627 in 787 frames
+2017-05-03 09:39:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.6 0.2 0.2
+All LF0 RMSE: 103.406297 in 53294 frames
+Only specific case LF0 RMSE: 82.219133 in 787 frames
+2017-05-03 09:39:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.6 0.0 0.2
+All LF0 RMSE: 103.407099 in 53294 frames
+Only specific case LF0 RMSE: 82.026317 in 787 frames
+2017-05-03 09:39:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.6 0.0 0.4
+All LF0 RMSE: 103.456200 in 53294 frames
+Only specific case LF0 RMSE: 83.126147 in 787 frames
+2017-05-03 09:39:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.6 0.2 0.2
+All LF0 RMSE: 103.404783 in 53294 frames
+Only specific case LF0 RMSE: 82.217437 in 787 frames
+2017-05-03 09:39:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.6 0.0 0.2
+All LF0 RMSE: 103.405739 in 53294 frames
+Only specific case LF0 RMSE: 82.024882 in 787 frames
+2017-05-03 09:39:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.6 0.0 0.4
+All LF0 RMSE: 103.454833 in 53294 frames
+Only specific case LF0 RMSE: 83.124752 in 787 frames
+2017-05-03 09:39:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.6 0.2 0.2
+All LF0 RMSE: 103.403416 in 53294 frames
+Only specific case LF0 RMSE: 82.215840 in 787 frames
+2017-05-03 09:40:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.6 0.0 0.2
+All LF0 RMSE: 103.404504 in 53294 frames
+Only specific case LF0 RMSE: 82.023525 in 787 frames
+2017-05-03 09:40:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.6 0.0 0.4
+All LF0 RMSE: 103.453592 in 53294 frames
+Only specific case LF0 RMSE: 83.123435 in 787 frames
+2017-05-03 09:40:17
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.6 0.2 0.2
+All LF0 RMSE: 103.402174 in 53294 frames
+Only specific case LF0 RMSE: 82.214332 in 787 frames
+2017-05-03 09:40:25
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.6 0.0 0.2
+All LF0 RMSE: 103.403377 in 53294 frames
+Only specific case LF0 RMSE: 82.022241 in 787 frames
+2017-05-03 09:40:33
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.6 0.0 0.4
+All LF0 RMSE: 103.452459 in 53294 frames
+Only specific case LF0 RMSE: 83.122186 in 787 frames
+2017-05-03 09:40:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.6 0.2 0.2
+All LF0 RMSE: 103.401041 in 53294 frames
+Only specific case LF0 RMSE: 82.212903 in 787 frames
+2017-05-03 09:40:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.6 0.0 0.2
+All LF0 RMSE: 103.402344 in 53294 frames
+Only specific case LF0 RMSE: 82.021021 in 787 frames
+2017-05-03 09:40:58
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.6 0.0 0.4
+All LF0 RMSE: 103.451421 in 53294 frames
+Only specific case LF0 RMSE: 83.121000 in 787 frames
+2017-05-03 09:41:06
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.6 0.2 0.2
+All LF0 RMSE: 103.400002 in 53294 frames
+Only specific case LF0 RMSE: 82.211547 in 787 frames
+2017-05-03 09:41:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.6 0.0 0.2
+All LF0 RMSE: 103.401395 in 53294 frames
+Only specific case LF0 RMSE: 82.019859 in 787 frames
+2017-05-03 09:41:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.6 0.0 0.4
+All LF0 RMSE: 103.450466 in 53294 frames
+Only specific case LF0 RMSE: 83.119872 in 787 frames
+2017-05-03 09:41:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.6 0.2 0.2
+All LF0 RMSE: 103.399047 in 53294 frames
+Only specific case LF0 RMSE: 82.210256 in 787 frames
+2017-05-03 09:41:39
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.4 0.0 0.2
+All LF0 RMSE: 103.301698 in 53294 frames
+Only specific case LF0 RMSE: 82.047578 in 787 frames
+2017-05-03 09:41:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.4 0.0 0.4
+All LF0 RMSE: 103.350674 in 53294 frames
+Only specific case LF0 RMSE: 83.146524 in 787 frames
+2017-05-03 09:41:55
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.4 0.2 0.2
+All LF0 RMSE: 103.299273 in 53294 frames
+Only specific case LF0 RMSE: 82.240419 in 787 frames
+2017-05-03 09:42:04
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.4 0.0 0.2
+All LF0 RMSE: 103.299827 in 53294 frames
+Only specific case LF0 RMSE: 82.045875 in 787 frames
+2017-05-03 09:42:12
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.4 0.0 0.4
+All LF0 RMSE: 103.348796 in 53294 frames
+Only specific case LF0 RMSE: 83.144869 in 787 frames
+2017-05-03 09:42:20
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.4 0.2 0.2
+All LF0 RMSE: 103.297394 in 53294 frames
+Only specific case LF0 RMSE: 82.238522 in 787 frames
+2017-05-03 09:42:28
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.4 0.0 0.2
+All LF0 RMSE: 103.298196 in 53294 frames
+Only specific case LF0 RMSE: 82.044289 in 787 frames
+2017-05-03 09:42:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.4 0.0 0.4
+All LF0 RMSE: 103.347158 in 53294 frames
+Only specific case LF0 RMSE: 83.143327 in 787 frames
+2017-05-03 09:42:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.4 0.2 0.2
+All LF0 RMSE: 103.295755 in 53294 frames
+Only specific case LF0 RMSE: 82.236756 in 787 frames
+2017-05-03 09:42:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.4 0.0 0.2
+All LF0 RMSE: 103.296758 in 53294 frames
+Only specific case LF0 RMSE: 82.042805 in 787 frames
+2017-05-03 09:43:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.4 0.0 0.4
+All LF0 RMSE: 103.345712 in 53294 frames
+Only specific case LF0 RMSE: 83.141884 in 787 frames
+2017-05-03 09:43:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.4 0.2 0.2
+All LF0 RMSE: 103.294309 in 53294 frames
+Only specific case LF0 RMSE: 82.235103 in 787 frames
+2017-05-03 09:43:18
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.4 0.0 0.2
+All LF0 RMSE: 103.295478 in 53294 frames
+Only specific case LF0 RMSE: 82.041412 in 787 frames
+2017-05-03 09:43:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.4 0.0 0.4
+All LF0 RMSE: 103.344425 in 53294 frames
+Only specific case LF0 RMSE: 83.140529 in 787 frames
+2017-05-03 09:43:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.4 0.2 0.2
+All LF0 RMSE: 103.293022 in 53294 frames
+Only specific case LF0 RMSE: 82.233552 in 787 frames
+2017-05-03 09:43:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.4 0.0 0.2
+All LF0 RMSE: 103.294331 in 53294 frames
+Only specific case LF0 RMSE: 82.040098 in 787 frames
+2017-05-03 09:43:51
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.4 0.0 0.4
+All LF0 RMSE: 103.343271 in 53294 frames
+Only specific case LF0 RMSE: 83.139251 in 787 frames
+2017-05-03 09:43:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.4 0.2 0.2
+All LF0 RMSE: 103.291868 in 53294 frames
+Only specific case LF0 RMSE: 82.232090 in 787 frames
+2017-05-03 09:44:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.4 0.0 0.2
+All LF0 RMSE: 103.293296 in 53294 frames
+Only specific case LF0 RMSE: 82.038856 in 787 frames
+2017-05-03 09:44:15
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.4 0.0 0.4
+All LF0 RMSE: 103.342230 in 53294 frames
+Only specific case LF0 RMSE: 83.138042 in 787 frames
+2017-05-03 09:44:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.4 0.2 0.2
+All LF0 RMSE: 103.290826 in 53294 frames
+Only specific case LF0 RMSE: 82.230708 in 787 frames
+2017-05-03 09:44:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.4 0.0 0.2
+All LF0 RMSE: 103.292359 in 53294 frames
+Only specific case LF0 RMSE: 82.037678 in 787 frames
+2017-05-03 09:44:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.4 0.0 0.4
+All LF0 RMSE: 103.341286 in 53294 frames
+Only specific case LF0 RMSE: 83.136895 in 787 frames
+2017-05-03 09:44:48
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.4 0.2 0.2
+All LF0 RMSE: 103.289882 in 53294 frames
+Only specific case LF0 RMSE: 82.229398 in 787 frames
+2017-05-03 09:44:56
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.4 0.0 0.2
+All LF0 RMSE: 103.291506 in 53294 frames
+Only specific case LF0 RMSE: 82.036559 in 787 frames
+2017-05-03 09:45:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.4 0.0 0.4
+All LF0 RMSE: 103.340427 in 53294 frames
+Only specific case LF0 RMSE: 83.135805 in 787 frames
+2017-05-03 09:45:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.4 0.2 0.2
+All LF0 RMSE: 103.289022 in 53294 frames
+Only specific case LF0 RMSE: 82.228152 in 787 frames
+2017-05-03 09:45:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.4 0.0 0.2
+All LF0 RMSE: 103.290726 in 53294 frames
+Only specific case LF0 RMSE: 82.035492 in 787 frames
+2017-05-03 09:45:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.4 0.0 0.4
+All LF0 RMSE: 103.339641 in 53294 frames
+Only specific case LF0 RMSE: 83.134766 in 787 frames
+2017-05-03 09:45:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.4 0.2 0.2
+All LF0 RMSE: 103.288237 in 53294 frames
+Only specific case LF0 RMSE: 82.226966 in 787 frames
+2017-05-03 09:45:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.4 0.0 0.2
+All LF0 RMSE: 103.290012 in 53294 frames
+Only specific case LF0 RMSE: 82.034473 in 787 frames
+2017-05-03 09:45:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.4 0.0 0.4
+All LF0 RMSE: 103.338921 in 53294 frames
+Only specific case LF0 RMSE: 83.133774 in 787 frames
+2017-05-03 09:46:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.4 0.2 0.2
+All LF0 RMSE: 103.287517 in 53294 frames
+Only specific case LF0 RMSE: 82.225833 in 787 frames
+2017-05-03 09:46:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.2 0.0 0.2
+All LF0 RMSE: 103.201471 in 53294 frames
+Only specific case LF0 RMSE: 82.060479 in 787 frames
+2017-05-03 09:46:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.2 0.0 0.4
+All LF0 RMSE: 103.250270 in 53294 frames
+Only specific case LF0 RMSE: 83.158780 in 787 frames
+2017-05-03 09:46:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.2 0.2 0.2
+All LF0 RMSE: 103.198886 in 53294 frames
+Only specific case LF0 RMSE: 82.254076 in 787 frames
+2017-05-03 09:46:35
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.2 0.0 0.2
+All LF0 RMSE: 103.200144 in 53294 frames
+Only specific case LF0 RMSE: 82.059091 in 787 frames
+2017-05-03 09:46:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.2 0.0 0.4
+All LF0 RMSE: 103.248935 in 53294 frames
+Only specific case LF0 RMSE: 83.157427 in 787 frames
+2017-05-03 09:46:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.2 0.2 0.2
+All LF0 RMSE: 103.197550 in 53294 frames
+Only specific case LF0 RMSE: 82.252529 in 787 frames
+2017-05-03 09:47:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.2 0.0 0.2
+All LF0 RMSE: 103.198984 in 53294 frames
+Only specific case LF0 RMSE: 82.057790 in 787 frames
+2017-05-03 09:47:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.2 0.0 0.4
+All LF0 RMSE: 103.247768 in 53294 frames
+Only specific case LF0 RMSE: 83.156159 in 787 frames
+2017-05-03 09:47:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.2 0.2 0.2
+All LF0 RMSE: 103.196383 in 53294 frames
+Only specific case LF0 RMSE: 82.251078 in 787 frames
+2017-05-03 09:47:25
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.2 0.0 0.2
+All LF0 RMSE: 103.197961 in 53294 frames
+Only specific case LF0 RMSE: 82.056565 in 787 frames
+2017-05-03 09:47:33
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.2 0.0 0.4
+All LF0 RMSE: 103.246738 in 53294 frames
+Only specific case LF0 RMSE: 83.154964 in 787 frames
+2017-05-03 09:47:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.2 0.2 0.2
+All LF0 RMSE: 103.195353 in 53294 frames
+Only specific case LF0 RMSE: 82.249713 in 787 frames
+2017-05-03 09:47:49
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.2 0.0 0.2
+All LF0 RMSE: 103.197053 in 53294 frames
+Only specific case LF0 RMSE: 82.055407 in 787 frames
+2017-05-03 09:47:58
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.2 0.0 0.4
+All LF0 RMSE: 103.245822 in 53294 frames
+Only specific case LF0 RMSE: 83.153834 in 787 frames
+2017-05-03 09:48:06
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.2 0.2 0.2
+All LF0 RMSE: 103.194437 in 53294 frames
+Only specific case LF0 RMSE: 82.248423 in 787 frames
+2017-05-03 09:48:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.2 0.0 0.2
+All LF0 RMSE: 103.196240 in 53294 frames
+Only specific case LF0 RMSE: 82.054309 in 787 frames
+2017-05-03 09:48:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.2 0.0 0.4
+All LF0 RMSE: 103.245003 in 53294 frames
+Only specific case LF0 RMSE: 83.152763 in 787 frames
+2017-05-03 09:48:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.2 0.2 0.2
+All LF0 RMSE: 103.193618 in 53294 frames
+Only specific case LF0 RMSE: 82.247201 in 787 frames
+2017-05-03 09:48:39
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.2 0.0 0.2
+All LF0 RMSE: 103.195510 in 53294 frames
+Only specific case LF0 RMSE: 82.053265 in 787 frames
+2017-05-03 09:48:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.2 0.0 0.4
+All LF0 RMSE: 103.244266 in 53294 frames
+Only specific case LF0 RMSE: 83.151744 in 787 frames
+2017-05-03 09:48:55
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.2 0.2 0.2
+All LF0 RMSE: 103.192881 in 53294 frames
+Only specific case LF0 RMSE: 82.246038 in 787 frames
+2017-05-03 09:49:04
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.2 0.0 0.2
+All LF0 RMSE: 103.194852 in 53294 frames
+Only specific case LF0 RMSE: 82.052269 in 787 frames
+2017-05-03 09:49:12
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.2 0.0 0.4
+All LF0 RMSE: 103.243601 in 53294 frames
+Only specific case LF0 RMSE: 83.150773 in 787 frames
+2017-05-03 09:49:20
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.2 0.2 0.2
+All LF0 RMSE: 103.192216 in 53294 frames
+Only specific case LF0 RMSE: 82.244931 in 787 frames
+2017-05-03 09:49:28
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.2 0.0 0.2
+All LF0 RMSE: 103.194255 in 53294 frames
+Only specific case LF0 RMSE: 82.051318 in 787 frames
+2017-05-03 09:49:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.2 0.0 0.4
+All LF0 RMSE: 103.242998 in 53294 frames
+Only specific case LF0 RMSE: 83.149845 in 787 frames
+2017-05-03 09:49:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.2 0.2 0.2
+All LF0 RMSE: 103.191613 in 53294 frames
+Only specific case LF0 RMSE: 82.243873 in 787 frames
+2017-05-03 09:49:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.2 0.0 0.2
+All LF0 RMSE: 103.193713 in 53294 frames
+Only specific case LF0 RMSE: 82.050408 in 787 frames
+2017-05-03 09:50:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.2 0.0 0.4
+All LF0 RMSE: 103.242450 in 53294 frames
+Only specific case LF0 RMSE: 83.148956 in 787 frames
+2017-05-03 09:50:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.2 0.2 0.2
+All LF0 RMSE: 103.191066 in 53294 frames
+Only specific case LF0 RMSE: 82.242860 in 787 frames
+2017-05-03 09:50:18
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.2 0.0 0.2
+All LF0 RMSE: 103.193220 in 53294 frames
+Only specific case LF0 RMSE: 82.049535 in 787 frames
+2017-05-03 09:50:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.2 0.0 0.4
+All LF0 RMSE: 103.241951 in 53294 frames
+Only specific case LF0 RMSE: 83.148103 in 787 frames
+2017-05-03 09:50:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.2 0.2 0.2
+All LF0 RMSE: 103.190567 in 53294 frames
+Only specific case LF0 RMSE: 82.241889 in 787 frames
+2017-05-03 09:50:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.0 0.0 0.2
+All LF0 RMSE: 103.117476 in 53294 frames
+Only specific case LF0 RMSE: 82.073797 in 787 frames
+2017-05-03 09:50:51
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.0 0.0 0.4
+All LF0 RMSE: 103.166080 in 53294 frames
+Only specific case LF0 RMSE: 83.171433 in 787 frames
+2017-05-03 09:50:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.0 0.2 0.2
+All LF0 RMSE: 103.114718 in 53294 frames
+Only specific case LF0 RMSE: 82.268175 in 787 frames
+2017-05-03 09:51:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.0 0.0 0.2
+All LF0 RMSE: 103.116636 in 53294 frames
+Only specific case LF0 RMSE: 82.072733 in 787 frames
+2017-05-03 09:51:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.0 0.0 0.4
+All LF0 RMSE: 103.165232 in 53294 frames
+Only specific case LF0 RMSE: 83.170391 in 787 frames
+2017-05-03 09:51:24
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.0 0.2 0.2
+All LF0 RMSE: 103.113870 in 53294 frames
+Only specific case LF0 RMSE: 82.266988 in 787 frames
+2017-05-03 09:51:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.0 0.0 0.2
+All LF0 RMSE: 103.115902 in 53294 frames
+Only specific case LF0 RMSE: 82.071723 in 787 frames
+2017-05-03 09:51:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.0 0.0 0.4
+All LF0 RMSE: 103.164491 in 53294 frames
+Only specific case LF0 RMSE: 83.169402 in 787 frames
+2017-05-03 09:51:49
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.0 0.2 0.2
+All LF0 RMSE: 103.113129 in 53294 frames
+Only specific case LF0 RMSE: 82.265861 in 787 frames
+2017-05-03 09:51:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.0 0.0 0.2
+All LF0 RMSE: 103.115257 in 53294 frames
+Only specific case LF0 RMSE: 82.070763 in 787 frames
+2017-05-03 09:52:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.0 0.0 0.4
+All LF0 RMSE: 103.163838 in 53294 frames
+Only specific case LF0 RMSE: 83.168461 in 787 frames
+2017-05-03 09:52:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.0 0.2 0.2
+All LF0 RMSE: 103.112477 in 53294 frames
+Only specific case LF0 RMSE: 82.264790 in 787 frames
+2017-05-03 09:52:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.0 0.0 0.2
+All LF0 RMSE: 103.114686 in 53294 frames
+Only specific case LF0 RMSE: 82.069846 in 787 frames
+2017-05-03 09:52:30
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.0 0.0 0.4
+All LF0 RMSE: 103.163260 in 53294 frames
+Only specific case LF0 RMSE: 83.167563 in 787 frames
+2017-05-03 09:52:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.0 0.2 0.2
+All LF0 RMSE: 103.111899 in 53294 frames
+Only specific case LF0 RMSE: 82.263768 in 787 frames
+2017-05-03 09:52:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.0 0.0 0.2
+All LF0 RMSE: 103.114180 in 53294 frames
+Only specific case LF0 RMSE: 82.068969 in 787 frames
+2017-05-03 09:52:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.0 0.0 0.4
+All LF0 RMSE: 103.162746 in 53294 frames
+Only specific case LF0 RMSE: 83.166704 in 787 frames
+2017-05-03 09:53:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.0 0.2 0.2
+All LF0 RMSE: 103.111386 in 53294 frames
+Only specific case LF0 RMSE: 82.262791 in 787 frames
+2017-05-03 09:53:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.0 0.0 0.2
+All LF0 RMSE: 103.113729 in 53294 frames
+Only specific case LF0 RMSE: 82.068127 in 787 frames
+2017-05-03 09:53:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.0 0.0 0.4
+All LF0 RMSE: 103.162288 in 53294 frames
+Only specific case LF0 RMSE: 83.165879 in 787 frames
+2017-05-03 09:53:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.0 0.2 0.2
+All LF0 RMSE: 103.110928 in 53294 frames
+Only specific case LF0 RMSE: 82.261853 in 787 frames
+2017-05-03 09:53:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.0 0.0 0.2
+All LF0 RMSE: 103.113326 in 53294 frames
+Only specific case LF0 RMSE: 82.067319 in 787 frames
+2017-05-03 09:53:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.0 0.0 0.4
+All LF0 RMSE: 103.161878 in 53294 frames
+Only specific case LF0 RMSE: 83.165087 in 787 frames
+2017-05-03 09:53:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.0 0.2 0.2
+All LF0 RMSE: 103.110519 in 53294 frames
+Only specific case LF0 RMSE: 82.260953 in 787 frames
+2017-05-03 09:54:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.0 0.0 0.2
+All LF0 RMSE: 103.112965 in 53294 frames
+Only specific case LF0 RMSE: 82.066540 in 787 frames
+2017-05-03 09:54:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.0 0.0 0.4
+All LF0 RMSE: 103.161511 in 53294 frames
+Only specific case LF0 RMSE: 83.164324 in 787 frames
+2017-05-03 09:54:17
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.0 0.2 0.2
+All LF0 RMSE: 103.110153 in 53294 frames
+Only specific case LF0 RMSE: 82.260087 in 787 frames
+2017-05-03 09:54:25
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.0 0.0 0.2
+All LF0 RMSE: 103.112642 in 53294 frames
+Only specific case LF0 RMSE: 82.065790 in 787 frames
+2017-05-03 09:54:33
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.0 0.0 0.4
+All LF0 RMSE: 103.161182 in 53294 frames
+Only specific case LF0 RMSE: 83.163588 in 787 frames
+2017-05-03 09:54:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.0 0.2 0.2
+All LF0 RMSE: 103.109824 in 53294 frames
+Only specific case LF0 RMSE: 82.259252 in 787 frames
+2017-05-03 09:54:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.0 0.0 0.2
+All LF0 RMSE: 103.112351 in 53294 frames
+Only specific case LF0 RMSE: 82.065065 in 787 frames
+2017-05-03 09:54:58
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.0 0.0 0.4
+All LF0 RMSE: 103.160886 in 53294 frames
+Only specific case LF0 RMSE: 83.162878 in 787 frames
+2017-05-03 09:55:06
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.0 0.2 0.2
+All LF0 RMSE: 103.109528 in 53294 frames
+Only specific case LF0 RMSE: 82.258446 in 787 frames
+2017-05-03 09:55:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.8 0.0 0.2
+All LF0 RMSE: 103.051215 in 53294 frames
+Only specific case LF0 RMSE: 82.087553 in 787 frames
+2017-05-03 09:55:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.8 0.0 0.4
+All LF0 RMSE: 103.099604 in 53294 frames
+Only specific case LF0 RMSE: 83.184503 in 787 frames
+2017-05-03 09:55:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.8 0.2 0.2
+All LF0 RMSE: 103.048272 in 53294 frames
+Only specific case LF0 RMSE: 82.282740 in 787 frames
+2017-05-03 09:55:39
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.8 0.0 0.2
+All LF0 RMSE: 103.050797 in 53294 frames
+Only specific case LF0 RMSE: 82.086820 in 787 frames
+2017-05-03 09:55:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.8 0.0 0.4
+All LF0 RMSE: 103.099178 in 53294 frames
+Only specific case LF0 RMSE: 83.183779 in 787 frames
+2017-05-03 09:55:55
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.8 0.2 0.2
+All LF0 RMSE: 103.047846 in 53294 frames
+Only specific case LF0 RMSE: 82.281921 in 787 frames
+2017-05-03 09:56:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.8 0.0 0.2
+All LF0 RMSE: 103.050434 in 53294 frames
+Only specific case LF0 RMSE: 82.086110 in 787 frames
+2017-05-03 09:56:12
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.8 0.0 0.4
+All LF0 RMSE: 103.098808 in 53294 frames
+Only specific case LF0 RMSE: 83.183078 in 787 frames
+2017-05-03 09:56:20
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.8 0.2 0.2
+All LF0 RMSE: 103.047477 in 53294 frames
+Only specific case LF0 RMSE: 82.281127 in 787 frames
+2017-05-03 09:56:28
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.8 0.0 0.2
+All LF0 RMSE: 103.050120 in 53294 frames
+Only specific case LF0 RMSE: 82.085421 in 787 frames
+2017-05-03 09:56:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.8 0.0 0.4
+All LF0 RMSE: 103.098485 in 53294 frames
+Only specific case LF0 RMSE: 83.182397 in 787 frames
+2017-05-03 09:56:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.8 0.2 0.2
+All LF0 RMSE: 103.047155 in 53294 frames
+Only specific case LF0 RMSE: 82.280357 in 787 frames
+2017-05-03 09:56:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.8 0.0 0.2
+All LF0 RMSE: 103.049848 in 53294 frames
+Only specific case LF0 RMSE: 82.084751 in 787 frames
+2017-05-03 09:57:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.8 0.0 0.4
+All LF0 RMSE: 103.098206 in 53294 frames
+Only specific case LF0 RMSE: 83.181735 in 787 frames
+2017-05-03 09:57:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.8 0.2 0.2
+All LF0 RMSE: 103.046876 in 53294 frames
+Only specific case LF0 RMSE: 82.279610 in 787 frames
+2017-05-03 09:57:17
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.8 0.0 0.2
+All LF0 RMSE: 103.049612 in 53294 frames
+Only specific case LF0 RMSE: 82.084100 in 787 frames
+2017-05-03 09:57:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.8 0.0 0.4
+All LF0 RMSE: 103.097962 in 53294 frames
+Only specific case LF0 RMSE: 83.181092 in 787 frames
+2017-05-03 09:57:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.8 0.2 0.2
+All LF0 RMSE: 103.046634 in 53294 frames
+Only specific case LF0 RMSE: 82.278883 in 787 frames
+2017-05-03 09:57:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.8 0.0 0.2
+All LF0 RMSE: 103.049408 in 53294 frames
+Only specific case LF0 RMSE: 82.083466 in 787 frames
+2017-05-03 09:57:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.8 0.0 0.4
+All LF0 RMSE: 103.097752 in 53294 frames
+Only specific case LF0 RMSE: 83.180467 in 787 frames
+2017-05-03 09:57:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.8 0.2 0.2
+All LF0 RMSE: 103.046424 in 53294 frames
+Only specific case LF0 RMSE: 82.278176 in 787 frames
+2017-05-03 09:58:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.8 0.0 0.2
+All LF0 RMSE: 103.049233 in 53294 frames
+Only specific case LF0 RMSE: 82.082848 in 787 frames
+2017-05-03 09:58:15
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.8 0.0 0.4
+All LF0 RMSE: 103.097570 in 53294 frames
+Only specific case LF0 RMSE: 83.179857 in 787 frames
+2017-05-03 09:58:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.8 0.2 0.2
+All LF0 RMSE: 103.046243 in 53294 frames
+Only specific case LF0 RMSE: 82.277488 in 787 frames
+2017-05-03 09:58:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.8 0.0 0.2
+All LF0 RMSE: 103.049082 in 53294 frames
+Only specific case LF0 RMSE: 82.082246 in 787 frames
+2017-05-03 09:58:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.8 0.0 0.4
+All LF0 RMSE: 103.097413 in 53294 frames
+Only specific case LF0 RMSE: 83.179263 in 787 frames
+2017-05-03 09:58:48
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.8 0.2 0.2
+All LF0 RMSE: 103.046087 in 53294 frames
+Only specific case LF0 RMSE: 82.276818 in 787 frames
+2017-05-03 09:58:56
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.8 0.0 0.2
+All LF0 RMSE: 103.048954 in 53294 frames
+Only specific case LF0 RMSE: 82.081659 in 787 frames
+2017-05-03 09:59:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.8 0.0 0.4
+All LF0 RMSE: 103.097278 in 53294 frames
+Only specific case LF0 RMSE: 83.178684 in 787 frames
+2017-05-03 09:59:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.8 0.2 0.2
+All LF0 RMSE: 103.045953 in 53294 frames
+Only specific case LF0 RMSE: 82.276165 in 787 frames
+2017-05-03 09:59:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.8 0.0 0.2
+All LF0 RMSE: 103.048845 in 53294 frames
+Only specific case LF0 RMSE: 82.081086 in 787 frames
+2017-05-03 09:59:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.8 0.0 0.4
+All LF0 RMSE: 103.097163 in 53294 frames
+Only specific case LF0 RMSE: 83.178120 in 787 frames
+2017-05-03 09:59:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.8 0.2 0.2
+All LF0 RMSE: 103.045839 in 53294 frames
+Only specific case LF0 RMSE: 82.275527 in 787 frames
+2017-05-03 09:59:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.6 0.0 0.2
+All LF0 RMSE: 103.004313 in 53294 frames
+Only specific case LF0 RMSE: 82.101769 in 787 frames
+2017-05-03 09:59:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.6 0.0 0.4
+All LF0 RMSE: 103.052467 in 53294 frames
+Only specific case LF0 RMSE: 83.198011 in 787 frames
+2017-05-03 10:00:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.6 0.2 0.2
+All LF0 RMSE: 103.001171 in 53294 frames
+Only specific case LF0 RMSE: 82.297794 in 787 frames
+2017-05-03 10:00:15
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.6 0.0 0.2
+All LF0 RMSE: 103.004239 in 53294 frames
+Only specific case LF0 RMSE: 82.101377 in 787 frames
+2017-05-03 10:00:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.6 0.0 0.4
+All LF0 RMSE: 103.052384 in 53294 frames
+Only specific case LF0 RMSE: 83.197613 in 787 frames
+2017-05-03 10:00:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.6 0.2 0.2
+All LF0 RMSE: 103.001090 in 53294 frames
+Only specific case LF0 RMSE: 82.297352 in 787 frames
+2017-05-03 10:00:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.6 0.0 0.2
+All LF0 RMSE: 103.004184 in 53294 frames
+Only specific case LF0 RMSE: 82.100973 in 787 frames
+2017-05-03 10:00:51
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.6 0.0 0.4
+All LF0 RMSE: 103.052320 in 53294 frames
+Only specific case LF0 RMSE: 83.197206 in 787 frames
+2017-05-03 10:00:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.6 0.2 0.2
+All LF0 RMSE: 103.001028 in 53294 frames
+Only specific case LF0 RMSE: 82.296899 in 787 frames
+2017-05-03 10:01:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.6 0.0 0.2
+All LF0 RMSE: 103.004145 in 53294 frames
+Only specific case LF0 RMSE: 82.100562 in 787 frames
+2017-05-03 10:01:17
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.6 0.0 0.4
+All LF0 RMSE: 103.052274 in 53294 frames
+Only specific case LF0 RMSE: 83.196792 in 787 frames
+2017-05-03 10:01:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.6 0.2 0.2
+All LF0 RMSE: 103.000983 in 53294 frames
+Only specific case LF0 RMSE: 82.296438 in 787 frames
+2017-05-03 10:01:35
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.6 0.0 0.2
+All LF0 RMSE: 103.004123 in 53294 frames
+Only specific case LF0 RMSE: 82.100145 in 787 frames
+2017-05-03 10:01:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.6 0.0 0.4
+All LF0 RMSE: 103.052245 in 53294 frames
+Only specific case LF0 RMSE: 83.196373 in 787 frames
+2017-05-03 10:01:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.6 0.2 0.2
+All LF0 RMSE: 103.000955 in 53294 frames
+Only specific case LF0 RMSE: 82.295972 in 787 frames
+2017-05-03 10:02:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.6 0.0 0.2
+All LF0 RMSE: 103.004116 in 53294 frames
+Only specific case LF0 RMSE: 82.099725 in 787 frames
+2017-05-03 10:02:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.6 0.0 0.4
+All LF0 RMSE: 103.052230 in 53294 frames
+Only specific case LF0 RMSE: 83.195951 in 787 frames
+2017-05-03 10:02:17
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.6 0.2 0.2
+All LF0 RMSE: 103.000941 in 53294 frames
+Only specific case LF0 RMSE: 82.295502 in 787 frames
+2017-05-03 10:02:25
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.6 0.0 0.2
+All LF0 RMSE: 103.004123 in 53294 frames
+Only specific case LF0 RMSE: 82.099303 in 787 frames
+2017-05-03 10:02:33
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.6 0.0 0.4
+All LF0 RMSE: 103.052230 in 53294 frames
+Only specific case LF0 RMSE: 83.195529 in 787 frames
+2017-05-03 10:02:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.6 0.2 0.2
+All LF0 RMSE: 103.000942 in 53294 frames
+Only specific case LF0 RMSE: 82.295031 in 787 frames
+2017-05-03 10:02:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.6 0.0 0.2
+All LF0 RMSE: 103.004141 in 53294 frames
+Only specific case LF0 RMSE: 82.098881 in 787 frames
+2017-05-03 10:02:58
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.6 0.0 0.4
+All LF0 RMSE: 103.052241 in 53294 frames
+Only specific case LF0 RMSE: 83.195107 in 787 frames
+2017-05-03 10:03:06
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.6 0.2 0.2
+All LF0 RMSE: 103.000954 in 53294 frames
+Only specific case LF0 RMSE: 82.294561 in 787 frames
+2017-05-03 10:03:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.6 0.0 0.2
+All LF0 RMSE: 103.004170 in 53294 frames
+Only specific case LF0 RMSE: 82.098459 in 787 frames
+2017-05-03 10:03:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.6 0.0 0.4
+All LF0 RMSE: 103.052263 in 53294 frames
+Only specific case LF0 RMSE: 83.194686 in 787 frames
+2017-05-03 10:03:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.6 0.2 0.2
+All LF0 RMSE: 103.000977 in 53294 frames
+Only specific case LF0 RMSE: 82.294091 in 787 frames
+2017-05-03 10:03:39
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.6 0.0 0.2
+All LF0 RMSE: 103.004208 in 53294 frames
+Only specific case LF0 RMSE: 82.098039 in 787 frames
+2017-05-03 10:03:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.6 0.0 0.4
+All LF0 RMSE: 103.052295 in 53294 frames
+Only specific case LF0 RMSE: 83.194267 in 787 frames
+2017-05-03 10:03:56
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.6 0.2 0.2
+All LF0 RMSE: 103.001011 in 53294 frames
+Only specific case LF0 RMSE: 82.293623 in 787 frames
+2017-05-03 10:04:04
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.6 0.0 0.2
+All LF0 RMSE: 103.004255 in 53294 frames
+Only specific case LF0 RMSE: 82.097621 in 787 frames
+2017-05-03 10:04:12
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.6 0.0 0.4
+All LF0 RMSE: 103.052336 in 53294 frames
+Only specific case LF0 RMSE: 83.193851 in 787 frames
+2017-05-03 10:04:20
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.6 0.2 0.2
+All LF0 RMSE: 103.001052 in 53294 frames
+Only specific case LF0 RMSE: 82.293159 in 787 frames
+2017-05-03 10:04:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.4 0.0 0.2
+All LF0 RMSE: 102.978529 in 53294 frames
+Only specific case LF0 RMSE: 82.116468 in 787 frames
+2017-05-03 10:04:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.2 0.0 0.2
+All LF0 RMSE: 102.975764 in 53294 frames
+Only specific case LF0 RMSE: 82.131675 in 787 frames
+2017-05-03 10:04:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.0 0.0 0.2
+All LF0 RMSE: 102.998076 in 53294 frames
+Only specific case LF0 RMSE: 82.147416 in 787 frames
+2017-05-03 10:04:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 0.2 0.0
+All LF0 RMSE: 102.975140 in 53294 frames
+Only specific case LF0 RMSE: 82.460509 in 787 frames
+2017-05-03 10:05:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.2 0.0 0.0
+All LF0 RMSE: 102.955949 in 53294 frames
+Only specific case LF0 RMSE: 82.249618 in 787 frames
+2017-05-03 10:05:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.2 0.2 0.0
+All LF0 RMSE: 102.952756 in 53294 frames
+Only specific case LF0 RMSE: 82.443640 in 787 frames
+2017-05-03 10:05:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.4 0.0 0.0
+All LF0 RMSE: 102.958567 in 53294 frames
+Only specific case LF0 RMSE: 82.234220 in 787 frames
+2017-05-03 10:05:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.4 0.2 0.0
+All LF0 RMSE: 102.955602 in 53294 frames
+Only specific case LF0 RMSE: 82.427346 in 787 frames
+2017-05-03 10:05:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.6 0.0 0.0
+All LF0 RMSE: 102.984353 in 53294 frames
+Only specific case LF0 RMSE: 82.219339 in 787 frames
+2017-05-03 10:05:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.6 0.2 0.0
+All LF0 RMSE: 102.981601 in 53294 frames
+Only specific case LF0 RMSE: 82.411601 in 787 frames
+2017-05-03 10:05:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.8 0.0 0.0
+All LF0 RMSE: 103.031388 in 53294 frames
+Only specific case LF0 RMSE: 82.204948 in 787 frames
+2017-05-03 10:06:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.8 0.2 0.0
+All LF0 RMSE: 103.028834 in 53294 frames
+Only specific case LF0 RMSE: 82.396376 in 787 frames
+2017-05-03 10:06:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.0 0.0 0.0
+All LF0 RMSE: 103.097896 in 53294 frames
+Only specific case LF0 RMSE: 82.191025 in 787 frames
+2017-05-03 10:06:17
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.0 0.2 0.0
+All LF0 RMSE: 103.095527 in 53294 frames
+Only specific case LF0 RMSE: 82.381647 in 787 frames
+2017-05-03 10:06:25
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.2 0.0 0.0
+All LF0 RMSE: 103.182235 in 53294 frames
+Only specific case LF0 RMSE: 82.177546 in 787 frames
+2017-05-03 10:06:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.2 0.2 0.0
+All LF0 RMSE: 103.180039 in 53294 frames
+Only specific case LF0 RMSE: 82.367389 in 787 frames
+2017-05-03 10:06:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.4 0.0 0.0
+All LF0 RMSE: 103.282892 in 53294 frames
+Only specific case LF0 RMSE: 82.164491 in 787 frames
+2017-05-03 10:06:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.4 0.2 0.0
+All LF0 RMSE: 103.280855 in 53294 frames
+Only specific case LF0 RMSE: 82.353582 in 787 frames
+2017-05-03 10:06:58
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.6 0.0 0.0
+All LF0 RMSE: 103.398463 in 53294 frames
+Only specific case LF0 RMSE: 82.151841 in 787 frames
+2017-05-03 10:07:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.6 0.2 0.0
+All LF0 RMSE: 103.396576 in 53294 frames
+Only specific case LF0 RMSE: 82.340203 in 787 frames
+2017-05-03 10:07:15
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.8 0.0 0.0
+All LF0 RMSE: 103.527654 in 53294 frames
+Only specific case LF0 RMSE: 82.139577 in 787 frames
+2017-05-03 10:07:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.8 0.2 0.0
+All LF0 RMSE: 103.525907 in 53294 frames
+Only specific case LF0 RMSE: 82.327234 in 787 frames
+2017-05-03 10:07:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.0 0.0 0.0
+All LF0 RMSE: 103.669270 in 53294 frames
+Only specific case LF0 RMSE: 82.127682 in 787 frames
+2017-05-03 10:07:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.0 0.2 0.0
+All LF0 RMSE: 103.667652 in 53294 frames
+Only specific case LF0 RMSE: 82.314657 in 787 frames
+2017-05-03 10:07:48
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.2 0.0 0.0
+All LF0 RMSE: 103.822202 in 53294 frames
+Only specific case LF0 RMSE: 82.116139 in 787 frames
+2017-05-03 10:07:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 2.2 0.2 0.0
+All LF0 RMSE: 103.820706 in 53294 frames
+Only specific case LF0 RMSE: 82.302452 in 787 frames
+2017-05-03 10:08:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.2 0.0 0.0
+All LF0 RMSE: 103.816977 in 53294 frames
+Only specific case LF0 RMSE: 82.112926 in 787 frames
+2017-05-03 10:08:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.2 0.2 0.0
+All LF0 RMSE: 103.815469 in 53294 frames
+Only specific case LF0 RMSE: 82.298891 in 787 frames
+2017-05-03 10:08:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.2 0.0 0.0
+All LF0 RMSE: 103.812559 in 53294 frames
+Only specific case LF0 RMSE: 82.109985 in 787 frames
+2017-05-03 10:08:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.2 0.2 0.0
+All LF0 RMSE: 103.811041 in 53294 frames
+Only specific case LF0 RMSE: 82.295632 in 787 frames
+2017-05-03 10:08:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.2 0.0 0.0
+All LF0 RMSE: 103.808743 in 53294 frames
+Only specific case LF0 RMSE: 82.107280 in 787 frames
+2017-05-03 10:08:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.2 0.2 0.0
+All LF0 RMSE: 103.807215 in 53294 frames
+Only specific case LF0 RMSE: 82.292635 in 787 frames
+2017-05-03 10:08:56
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.2 0.0 0.0
+All LF0 RMSE: 103.805393 in 53294 frames
+Only specific case LF0 RMSE: 82.104779 in 787 frames
+2017-05-03 10:09:04
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.2 0.2 0.0
+All LF0 RMSE: 103.803856 in 53294 frames
+Only specific case LF0 RMSE: 82.289864 in 787 frames
+2017-05-03 10:09:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.2 0.0 0.0
+All LF0 RMSE: 103.802416 in 53294 frames
+Only specific case LF0 RMSE: 82.102458 in 787 frames
+2017-05-03 10:09:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.2 0.2 0.0
+All LF0 RMSE: 103.800871 in 53294 frames
+Only specific case LF0 RMSE: 82.287292 in 787 frames
+2017-05-03 10:09:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.2 0.0 0.0
+All LF0 RMSE: 103.799747 in 53294 frames
+Only specific case LF0 RMSE: 82.100294 in 787 frames
+2017-05-03 10:09:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.2 0.2 0.0
+All LF0 RMSE: 103.798192 in 53294 frames
+Only specific case LF0 RMSE: 82.284895 in 787 frames
+2017-05-03 10:09:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.2 0.0 0.0
+All LF0 RMSE: 103.797333 in 53294 frames
+Only specific case LF0 RMSE: 82.098271 in 787 frames
+2017-05-03 10:09:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.2 0.2 0.0
+All LF0 RMSE: 103.795771 in 53294 frames
+Only specific case LF0 RMSE: 82.282653 in 787 frames
+2017-05-03 10:10:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.2 0.0 0.0
+All LF0 RMSE: 103.795137 in 53294 frames
+Only specific case LF0 RMSE: 82.096372 in 787 frames
+2017-05-03 10:10:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.2 0.2 0.0
+All LF0 RMSE: 103.793567 in 53294 frames
+Only specific case LF0 RMSE: 82.280550 in 787 frames
+2017-05-03 10:10:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.2 0.0 0.0
+All LF0 RMSE: 103.793128 in 53294 frames
+Only specific case LF0 RMSE: 82.094585 in 787 frames
+2017-05-03 10:10:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.2 0.2 0.0
+All LF0 RMSE: 103.791551 in 53294 frames
+Only specific case LF0 RMSE: 82.278571 in 787 frames
+2017-05-03 10:10:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.2 0.0 0.0
+All LF0 RMSE: 103.791282 in 53294 frames
+Only specific case LF0 RMSE: 82.092899 in 787 frames
+2017-05-03 10:10:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.2 0.2 0.0
+All LF0 RMSE: 103.789698 in 53294 frames
+Only specific case LF0 RMSE: 82.276704 in 787 frames
+2017-05-03 10:10:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.2 0.0 0.0
+All LF0 RMSE: 103.789579 in 53294 frames
+Only specific case LF0 RMSE: 82.091303 in 787 frames
+2017-05-03 10:11:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.2 0.2 0.0
+All LF0 RMSE: 103.787988 in 53294 frames
+Only specific case LF0 RMSE: 82.274938 in 787 frames
+2017-05-03 10:11:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.0 0.0 0.0
+All LF0 RMSE: 103.664864 in 53294 frames
+Only specific case LF0 RMSE: 82.124794 in 787 frames
+2017-05-03 10:11:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 2.0 0.2 0.0
+All LF0 RMSE: 103.663236 in 53294 frames
+Only specific case LF0 RMSE: 82.311455 in 787 frames
+2017-05-03 10:11:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.0 0.0 0.0
+All LF0 RMSE: 103.661128 in 53294 frames
+Only specific case LF0 RMSE: 82.122147 in 787 frames
+2017-05-03 10:11:35
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 2.0 0.2 0.0
+All LF0 RMSE: 103.659490 in 53294 frames
+Only specific case LF0 RMSE: 82.308520 in 787 frames
+2017-05-03 10:11:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.0 0.0 0.0
+All LF0 RMSE: 103.657893 in 53294 frames
+Only specific case LF0 RMSE: 82.119707 in 787 frames
+2017-05-03 10:11:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 2.0 0.2 0.0
+All LF0 RMSE: 103.656246 in 53294 frames
+Only specific case LF0 RMSE: 82.305816 in 787 frames
+2017-05-03 10:12:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.0 0.0 0.0
+All LF0 RMSE: 103.655051 in 53294 frames
+Only specific case LF0 RMSE: 82.117448 in 787 frames
+2017-05-03 10:12:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 2.0 0.2 0.0
+All LF0 RMSE: 103.653395 in 53294 frames
+Only specific case LF0 RMSE: 82.303312 in 787 frames
+2017-05-03 10:12:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.0 0.0 0.0
+All LF0 RMSE: 103.652524 in 53294 frames
+Only specific case LF0 RMSE: 82.115346 in 787 frames
+2017-05-03 10:12:24
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.0 0.2 0.0
+All LF0 RMSE: 103.650860 in 53294 frames
+Only specific case LF0 RMSE: 82.300983 in 787 frames
+2017-05-03 10:12:33
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.0 0.0 0.0
+All LF0 RMSE: 103.650256 in 53294 frames
+Only specific case LF0 RMSE: 82.113385 in 787 frames
+2017-05-03 10:12:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 2.0 0.2 0.0
+All LF0 RMSE: 103.648584 in 53294 frames
+Only specific case LF0 RMSE: 82.298809 in 787 frames
+2017-05-03 10:12:49
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.0 0.0 0.0
+All LF0 RMSE: 103.648207 in 53294 frames
+Only specific case LF0 RMSE: 82.111547 in 787 frames
+2017-05-03 10:12:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 2.0 0.2 0.0
+All LF0 RMSE: 103.646527 in 53294 frames
+Only specific case LF0 RMSE: 82.296773 in 787 frames
+2017-05-03 10:13:06
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.0 0.0 0.0
+All LF0 RMSE: 103.646342 in 53294 frames
+Only specific case LF0 RMSE: 82.109819 in 787 frames
+2017-05-03 10:13:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 2.0 0.2 0.0
+All LF0 RMSE: 103.644655 in 53294 frames
+Only specific case LF0 RMSE: 82.294859 in 787 frames
+2017-05-03 10:13:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.0 0.0 0.0
+All LF0 RMSE: 103.644638 in 53294 frames
+Only specific case LF0 RMSE: 82.108191 in 787 frames
+2017-05-03 10:13:30
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 2.0 0.2 0.0
+All LF0 RMSE: 103.642944 in 53294 frames
+Only specific case LF0 RMSE: 82.293055 in 787 frames
+2017-05-03 10:13:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.0 0.0 0.0
+All LF0 RMSE: 103.643072 in 53294 frames
+Only specific case LF0 RMSE: 82.106652 in 787 frames
+2017-05-03 10:13:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 2.0 0.2 0.0
+All LF0 RMSE: 103.641372 in 53294 frames
+Only specific case LF0 RMSE: 82.291351 in 787 frames
+2017-05-03 10:13:55
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.0 0.0 0.0
+All LF0 RMSE: 103.641629 in 53294 frames
+Only specific case LF0 RMSE: 82.105194 in 787 frames
+2017-05-03 10:14:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 2.0 0.2 0.0
+All LF0 RMSE: 103.639922 in 53294 frames
+Only specific case LF0 RMSE: 82.289737 in 787 frames
+2017-05-03 10:14:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.8 0.0 0.0
+All LF0 RMSE: 103.524037 in 53294 frames
+Only specific case LF0 RMSE: 82.137023 in 787 frames
+2017-05-03 10:14:20
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.8 0.2 0.0
+All LF0 RMSE: 103.522279 in 53294 frames
+Only specific case LF0 RMSE: 82.324402 in 787 frames
+2017-05-03 10:14:28
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.8 0.0 0.0
+All LF0 RMSE: 103.520958 in 53294 frames
+Only specific case LF0 RMSE: 82.134676 in 787 frames
+2017-05-03 10:14:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.8 0.2 0.0
+All LF0 RMSE: 103.519192 in 53294 frames
+Only specific case LF0 RMSE: 82.321799 in 787 frames
+2017-05-03 10:14:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.8 0.0 0.0
+All LF0 RMSE: 103.518287 in 53294 frames
+Only specific case LF0 RMSE: 82.132508 in 787 frames
+2017-05-03 10:14:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.8 0.2 0.0
+All LF0 RMSE: 103.516512 in 53294 frames
+Only specific case LF0 RMSE: 82.319395 in 787 frames
+2017-05-03 10:15:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.8 0.0 0.0
+All LF0 RMSE: 103.515937 in 53294 frames
+Only specific case LF0 RMSE: 82.130496 in 787 frames
+2017-05-03 10:15:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.8 0.2 0.0
+All LF0 RMSE: 103.514154 in 53294 frames
+Only specific case LF0 RMSE: 82.317164 in 787 frames
+2017-05-03 10:15:17
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.8 0.0 0.0
+All LF0 RMSE: 103.513847 in 53294 frames
+Only specific case LF0 RMSE: 82.128620 in 787 frames
+2017-05-03 10:15:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.8 0.2 0.0
+All LF0 RMSE: 103.512055 in 53294 frames
+Only specific case LF0 RMSE: 82.315084 in 787 frames
+2017-05-03 10:15:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.8 0.0 0.0
+All LF0 RMSE: 103.511971 in 53294 frames
+Only specific case LF0 RMSE: 82.126865 in 787 frames
+2017-05-03 10:15:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.8 0.2 0.0
+All LF0 RMSE: 103.510172 in 53294 frames
+Only specific case LF0 RMSE: 82.313139 in 787 frames
+2017-05-03 10:15:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.8 0.0 0.0
+All LF0 RMSE: 103.510276 in 53294 frames
+Only specific case LF0 RMSE: 82.125217 in 787 frames
+2017-05-03 10:15:58
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.8 0.2 0.0
+All LF0 RMSE: 103.508469 in 53294 frames
+Only specific case LF0 RMSE: 82.311312 in 787 frames
+2017-05-03 10:16:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.8 0.0 0.0
+All LF0 RMSE: 103.508735 in 53294 frames
+Only specific case LF0 RMSE: 82.123664 in 787 frames
+2017-05-03 10:16:15
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.8 0.2 0.0
+All LF0 RMSE: 103.506921 in 53294 frames
+Only specific case LF0 RMSE: 82.309592 in 787 frames
+2017-05-03 10:16:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.8 0.0 0.0
+All LF0 RMSE: 103.507328 in 53294 frames
+Only specific case LF0 RMSE: 82.122198 in 787 frames
+2017-05-03 10:16:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.8 0.2 0.0
+All LF0 RMSE: 103.505507 in 53294 frames
+Only specific case LF0 RMSE: 82.307968 in 787 frames
+2017-05-03 10:16:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.8 0.0 0.0
+All LF0 RMSE: 103.506036 in 53294 frames
+Only specific case LF0 RMSE: 82.120810 in 787 frames
+2017-05-03 10:16:48
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.8 0.2 0.0
+All LF0 RMSE: 103.504210 in 53294 frames
+Only specific case LF0 RMSE: 82.306430 in 787 frames
+2017-05-03 10:16:56
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.8 0.0 0.0
+All LF0 RMSE: 103.504847 in 53294 frames
+Only specific case LF0 RMSE: 82.119492 in 787 frames
+2017-05-03 10:17:04
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.8 0.2 0.0
+All LF0 RMSE: 103.503014 in 53294 frames
+Only specific case LF0 RMSE: 82.304970 in 787 frames
+2017-05-03 10:17:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.6 0.0 0.0
+All LF0 RMSE: 103.395593 in 53294 frames
+Only specific case LF0 RMSE: 82.149630 in 787 frames
+2017-05-03 10:17:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.6 0.2 0.0
+All LF0 RMSE: 103.393697 in 53294 frames
+Only specific case LF0 RMSE: 82.337749 in 787 frames
+2017-05-03 10:17:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.6 0.0 0.0
+All LF0 RMSE: 103.393142 in 53294 frames
+Only specific case LF0 RMSE: 82.147591 in 787 frames
+2017-05-03 10:17:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.6 0.2 0.0
+All LF0 RMSE: 103.391237 in 53294 frames
+Only specific case LF0 RMSE: 82.335487 in 787 frames
+2017-05-03 10:17:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.6 0.0 0.0
+All LF0 RMSE: 103.391010 in 53294 frames
+Only specific case LF0 RMSE: 82.145701 in 787 frames
+2017-05-03 10:17:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.6 0.2 0.0
+All LF0 RMSE: 103.389097 in 53294 frames
+Only specific case LF0 RMSE: 82.333391 in 787 frames
+2017-05-03 10:18:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.6 0.0 0.0
+All LF0 RMSE: 103.389133 in 53294 frames
+Only specific case LF0 RMSE: 82.143941 in 787 frames
+2017-05-03 10:18:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.6 0.2 0.0
+All LF0 RMSE: 103.387211 in 53294 frames
+Only specific case LF0 RMSE: 82.331439 in 787 frames
+2017-05-03 10:18:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.6 0.0 0.0
+All LF0 RMSE: 103.387462 in 53294 frames
+Only specific case LF0 RMSE: 82.142296 in 787 frames
+2017-05-03 10:18:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.6 0.2 0.0
+All LF0 RMSE: 103.385533 in 53294 frames
+Only specific case LF0 RMSE: 82.329615 in 787 frames
+2017-05-03 10:18:35
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.6 0.0 0.0
+All LF0 RMSE: 103.385963 in 53294 frames
+Only specific case LF0 RMSE: 82.140752 in 787 frames
+2017-05-03 10:18:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.6 0.2 0.0
+All LF0 RMSE: 103.384027 in 53294 frames
+Only specific case LF0 RMSE: 82.327903 in 787 frames
+2017-05-03 10:18:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.6 0.0 0.0
+All LF0 RMSE: 103.384610 in 53294 frames
+Only specific case LF0 RMSE: 82.139298 in 787 frames
+2017-05-03 10:19:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.6 0.2 0.0
+All LF0 RMSE: 103.382667 in 53294 frames
+Only specific case LF0 RMSE: 82.326291 in 787 frames
+2017-05-03 10:19:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.6 0.0 0.0
+All LF0 RMSE: 103.383382 in 53294 frames
+Only specific case LF0 RMSE: 82.137925 in 787 frames
+2017-05-03 10:19:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.6 0.2 0.0
+All LF0 RMSE: 103.381432 in 53294 frames
+Only specific case LF0 RMSE: 82.324769 in 787 frames
+2017-05-03 10:19:25
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.6 0.0 0.0
+All LF0 RMSE: 103.382261 in 53294 frames
+Only specific case LF0 RMSE: 82.136625 in 787 frames
+2017-05-03 10:19:33
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.6 0.2 0.0
+All LF0 RMSE: 103.380305 in 53294 frames
+Only specific case LF0 RMSE: 82.323328 in 787 frames
+2017-05-03 10:19:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.6 0.0 0.0
+All LF0 RMSE: 103.381235 in 53294 frames
+Only specific case LF0 RMSE: 82.135390 in 787 frames
+2017-05-03 10:19:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.6 0.2 0.0
+All LF0 RMSE: 103.379273 in 53294 frames
+Only specific case LF0 RMSE: 82.321960 in 787 frames
+2017-05-03 10:19:58
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.6 0.0 0.0
+All LF0 RMSE: 103.380292 in 53294 frames
+Only specific case LF0 RMSE: 82.134215 in 787 frames
+2017-05-03 10:20:06
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.6 0.2 0.0
+All LF0 RMSE: 103.378323 in 53294 frames
+Only specific case LF0 RMSE: 82.320659 in 787 frames
+2017-05-03 10:20:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.4 0.0 0.0
+All LF0 RMSE: 103.280721 in 53294 frames
+Only specific case LF0 RMSE: 82.162631 in 787 frames
+2017-05-03 10:20:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.4 0.2 0.0
+All LF0 RMSE: 103.278676 in 53294 frames
+Only specific case LF0 RMSE: 82.351516 in 787 frames
+2017-05-03 10:20:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.4 0.0 0.0
+All LF0 RMSE: 103.278859 in 53294 frames
+Only specific case LF0 RMSE: 82.160907 in 787 frames
+2017-05-03 10:20:39
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.4 0.2 0.0
+All LF0 RMSE: 103.276806 in 53294 frames
+Only specific case LF0 RMSE: 82.349603 in 787 frames
+2017-05-03 10:20:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.4 0.0 0.0
+All LF0 RMSE: 103.277236 in 53294 frames
+Only specific case LF0 RMSE: 82.159303 in 787 frames
+2017-05-03 10:20:56
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.4 0.2 0.0
+All LF0 RMSE: 103.275175 in 53294 frames
+Only specific case LF0 RMSE: 82.347822 in 787 frames
+2017-05-03 10:21:04
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.4 0.0 0.0
+All LF0 RMSE: 103.275806 in 53294 frames
+Only specific case LF0 RMSE: 82.157802 in 787 frames
+2017-05-03 10:21:12
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.4 0.2 0.0
+All LF0 RMSE: 103.273737 in 53294 frames
+Only specific case LF0 RMSE: 82.346157 in 787 frames
+2017-05-03 10:21:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.4 0.0 0.0
+All LF0 RMSE: 103.274533 in 53294 frames
+Only specific case LF0 RMSE: 82.156393 in 787 frames
+2017-05-03 10:21:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.4 0.2 0.0
+All LF0 RMSE: 103.272457 in 53294 frames
+Only specific case LF0 RMSE: 82.344593 in 787 frames
+2017-05-03 10:21:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.4 0.0 0.0
+All LF0 RMSE: 103.273393 in 53294 frames
+Only specific case LF0 RMSE: 82.155065 in 787 frames
+2017-05-03 10:21:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.4 0.2 0.0
+All LF0 RMSE: 103.271310 in 53294 frames
+Only specific case LF0 RMSE: 82.343121 in 787 frames
+2017-05-03 10:21:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.4 0.0 0.0
+All LF0 RMSE: 103.272366 in 53294 frames
+Only specific case LF0 RMSE: 82.153810 in 787 frames
+2017-05-03 10:22:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.4 0.2 0.0
+All LF0 RMSE: 103.270276 in 53294 frames
+Only specific case LF0 RMSE: 82.341729 in 787 frames
+2017-05-03 10:22:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.4 0.0 0.0
+All LF0 RMSE: 103.271435 in 53294 frames
+Only specific case LF0 RMSE: 82.152620 in 787 frames
+2017-05-03 10:22:18
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.4 0.2 0.0
+All LF0 RMSE: 103.269338 in 53294 frames
+Only specific case LF0 RMSE: 82.340409 in 787 frames
+2017-05-03 10:22:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.4 0.0 0.0
+All LF0 RMSE: 103.270588 in 53294 frames
+Only specific case LF0 RMSE: 82.151489 in 787 frames
+2017-05-03 10:22:35
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.4 0.2 0.0
+All LF0 RMSE: 103.268485 in 53294 frames
+Only specific case LF0 RMSE: 82.339156 in 787 frames
+2017-05-03 10:22:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.4 0.0 0.0
+All LF0 RMSE: 103.269815 in 53294 frames
+Only specific case LF0 RMSE: 82.150412 in 787 frames
+2017-05-03 10:22:51
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.4 0.2 0.0
+All LF0 RMSE: 103.267706 in 53294 frames
+Only specific case LF0 RMSE: 82.337962 in 787 frames
+2017-05-03 10:22:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.4 0.0 0.0
+All LF0 RMSE: 103.269107 in 53294 frames
+Only specific case LF0 RMSE: 82.149383 in 787 frames
+2017-05-03 10:23:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.4 0.2 0.0
+All LF0 RMSE: 103.266992 in 53294 frames
+Only specific case LF0 RMSE: 82.336822 in 787 frames
+2017-05-03 10:23:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.2 0.0 0.0
+All LF0 RMSE: 103.180705 in 53294 frames
+Only specific case LF0 RMSE: 82.176046 in 787 frames
+2017-05-03 10:23:24
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.2 0.2 0.0
+All LF0 RMSE: 103.178500 in 53294 frames
+Only specific case LF0 RMSE: 82.365722 in 787 frames
+2017-05-03 10:23:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.2 0.0 0.0
+All LF0 RMSE: 103.179386 in 53294 frames
+Only specific case LF0 RMSE: 82.174646 in 787 frames
+2017-05-03 10:23:41
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.2 0.2 0.0
+All LF0 RMSE: 103.177173 in 53294 frames
+Only specific case LF0 RMSE: 82.364167 in 787 frames
+2017-05-03 10:23:49
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.2 0.0 0.0
+All LF0 RMSE: 103.178235 in 53294 frames
+Only specific case LF0 RMSE: 82.173334 in 787 frames
+2017-05-03 10:23:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.2 0.2 0.0
+All LF0 RMSE: 103.176014 in 53294 frames
+Only specific case LF0 RMSE: 82.362709 in 787 frames
+2017-05-03 10:24:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.2 0.0 0.0
+All LF0 RMSE: 103.177220 in 53294 frames
+Only specific case LF0 RMSE: 82.172098 in 787 frames
+2017-05-03 10:24:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.2 0.2 0.0
+All LF0 RMSE: 103.174992 in 53294 frames
+Only specific case LF0 RMSE: 82.361337 in 787 frames
+2017-05-03 10:24:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.2 0.0 0.0
+All LF0 RMSE: 103.176319 in 53294 frames
+Only specific case LF0 RMSE: 82.170931 in 787 frames
+2017-05-03 10:24:30
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.2 0.2 0.0
+All LF0 RMSE: 103.174084 in 53294 frames
+Only specific case LF0 RMSE: 82.360041 in 787 frames
+2017-05-03 10:24:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.2 0.0 0.0
+All LF0 RMSE: 103.175514 in 53294 frames
+Only specific case LF0 RMSE: 82.169824 in 787 frames
+2017-05-03 10:24:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.2 0.2 0.0
+All LF0 RMSE: 103.173272 in 53294 frames
+Only specific case LF0 RMSE: 82.358813 in 787 frames
+2017-05-03 10:24:55
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.2 0.0 0.0
+All LF0 RMSE: 103.174791 in 53294 frames
+Only specific case LF0 RMSE: 82.168772 in 787 frames
+2017-05-03 10:25:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.2 0.2 0.0
+All LF0 RMSE: 103.172542 in 53294 frames
+Only specific case LF0 RMSE: 82.357646 in 787 frames
+2017-05-03 10:25:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.2 0.0 0.0
+All LF0 RMSE: 103.174139 in 53294 frames
+Only specific case LF0 RMSE: 82.167770 in 787 frames
+2017-05-03 10:25:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.2 0.2 0.0
+All LF0 RMSE: 103.171884 in 53294 frames
+Only specific case LF0 RMSE: 82.356535 in 787 frames
+2017-05-03 10:25:28
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.2 0.0 0.0
+All LF0 RMSE: 103.173549 in 53294 frames
+Only specific case LF0 RMSE: 82.166812 in 787 frames
+2017-05-03 10:25:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.2 0.2 0.0
+All LF0 RMSE: 103.171288 in 53294 frames
+Only specific case LF0 RMSE: 82.355473 in 787 frames
+2017-05-03 10:25:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.2 0.0 0.0
+All LF0 RMSE: 103.173013 in 53294 frames
+Only specific case LF0 RMSE: 82.165895 in 787 frames
+2017-05-03 10:25:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.2 0.2 0.0
+All LF0 RMSE: 103.170747 in 53294 frames
+Only specific case LF0 RMSE: 82.354456 in 787 frames
+2017-05-03 10:26:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.2 0.0 0.0
+All LF0 RMSE: 103.172526 in 53294 frames
+Only specific case LF0 RMSE: 82.165015 in 787 frames
+2017-05-03 10:26:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.2 0.2 0.0
+All LF0 RMSE: 103.170254 in 53294 frames
+Only specific case LF0 RMSE: 82.353482 in 787 frames
+2017-05-03 10:26:17
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.0 0.0 0.0
+All LF0 RMSE: 103.096935 in 53294 frames
+Only specific case LF0 RMSE: 82.189894 in 787 frames
+2017-05-03 10:26:25
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 1.0 0.2 0.0
+All LF0 RMSE: 103.094559 in 53294 frames
+Only specific case LF0 RMSE: 82.380388 in 787 frames
+2017-05-03 10:26:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.0 0.0 0.0
+All LF0 RMSE: 103.096104 in 53294 frames
+Only specific case LF0 RMSE: 82.188826 in 787 frames
+2017-05-03 10:26:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 1.0 0.2 0.0
+All LF0 RMSE: 103.093720 in 53294 frames
+Only specific case LF0 RMSE: 82.379200 in 787 frames
+2017-05-03 10:26:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.0 0.0 0.0
+All LF0 RMSE: 103.095379 in 53294 frames
+Only specific case LF0 RMSE: 82.187813 in 787 frames
+2017-05-03 10:26:58
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 1.0 0.2 0.0
+All LF0 RMSE: 103.092987 in 53294 frames
+Only specific case LF0 RMSE: 82.378074 in 787 frames
+2017-05-03 10:27:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.0 0.0 0.0
+All LF0 RMSE: 103.094741 in 53294 frames
+Only specific case LF0 RMSE: 82.186850 in 787 frames
+2017-05-03 10:27:15
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 1.0 0.2 0.0
+All LF0 RMSE: 103.092342 in 53294 frames
+Only specific case LF0 RMSE: 82.377003 in 787 frames
+2017-05-03 10:27:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.0 0.0 0.0
+All LF0 RMSE: 103.094178 in 53294 frames
+Only specific case LF0 RMSE: 82.185930 in 787 frames
+2017-05-03 10:27:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.0 0.2 0.0
+All LF0 RMSE: 103.091772 in 53294 frames
+Only specific case LF0 RMSE: 82.375981 in 787 frames
+2017-05-03 10:27:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.0 0.0 0.0
+All LF0 RMSE: 103.093679 in 53294 frames
+Only specific case LF0 RMSE: 82.185050 in 787 frames
+2017-05-03 10:27:48
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 1.0 0.2 0.0
+All LF0 RMSE: 103.091267 in 53294 frames
+Only specific case LF0 RMSE: 82.375004 in 787 frames
+2017-05-03 10:27:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.0 0.0 0.0
+All LF0 RMSE: 103.093235 in 53294 frames
+Only specific case LF0 RMSE: 82.184206 in 787 frames
+2017-05-03 10:28:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 1.0 0.2 0.0
+All LF0 RMSE: 103.090816 in 53294 frames
+Only specific case LF0 RMSE: 82.374067 in 787 frames
+2017-05-03 10:28:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.0 0.0 0.0
+All LF0 RMSE: 103.092838 in 53294 frames
+Only specific case LF0 RMSE: 82.183395 in 787 frames
+2017-05-03 10:28:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 1.0 0.2 0.0
+All LF0 RMSE: 103.090414 in 53294 frames
+Only specific case LF0 RMSE: 82.373167 in 787 frames
+2017-05-03 10:28:30
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.0 0.0 0.0
+All LF0 RMSE: 103.092484 in 53294 frames
+Only specific case LF0 RMSE: 82.182614 in 787 frames
+2017-05-03 10:28:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 1.0 0.2 0.0
+All LF0 RMSE: 103.090054 in 53294 frames
+Only specific case LF0 RMSE: 82.372302 in 787 frames
+2017-05-03 10:28:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.0 0.0 0.0
+All LF0 RMSE: 103.092167 in 53294 frames
+Only specific case LF0 RMSE: 82.181861 in 787 frames
+2017-05-03 10:28:55
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 1.0 0.2 0.0
+All LF0 RMSE: 103.089732 in 53294 frames
+Only specific case LF0 RMSE: 82.371467 in 787 frames
+2017-05-03 10:29:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.0 0.0 0.0
+All LF0 RMSE: 103.091883 in 53294 frames
+Only specific case LF0 RMSE: 82.181135 in 787 frames
+2017-05-03 10:29:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 1.0 0.2 0.0
+All LF0 RMSE: 103.089442 in 53294 frames
+Only specific case LF0 RMSE: 82.370662 in 787 frames
+2017-05-03 10:29:20
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.8 0.0 0.0
+All LF0 RMSE: 103.030915 in 53294 frames
+Only specific case LF0 RMSE: 82.204197 in 787 frames
+2017-05-03 10:29:28
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.8 0.2 0.0
+All LF0 RMSE: 103.028353 in 53294 frames
+Only specific case LF0 RMSE: 82.395537 in 787 frames
+2017-05-03 10:29:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.8 0.0 0.0
+All LF0 RMSE: 103.030505 in 53294 frames
+Only specific case LF0 RMSE: 82.203469 in 787 frames
+2017-05-03 10:29:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.8 0.2 0.0
+All LF0 RMSE: 103.027937 in 53294 frames
+Only specific case LF0 RMSE: 82.394726 in 787 frames
+2017-05-03 10:29:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.8 0.0 0.0
+All LF0 RMSE: 103.030151 in 53294 frames
+Only specific case LF0 RMSE: 82.202764 in 787 frames
+2017-05-03 10:30:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.8 0.2 0.0
+All LF0 RMSE: 103.027575 in 53294 frames
+Only specific case LF0 RMSE: 82.393940 in 787 frames
+2017-05-03 10:30:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.8 0.0 0.0
+All LF0 RMSE: 103.029845 in 53294 frames
+Only specific case LF0 RMSE: 82.202078 in 787 frames
+2017-05-03 10:30:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.8 0.2 0.0
+All LF0 RMSE: 103.027262 in 53294 frames
+Only specific case LF0 RMSE: 82.393177 in 787 frames
+2017-05-03 10:30:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.8 0.0 0.0
+All LF0 RMSE: 103.029580 in 53294 frames
+Only specific case LF0 RMSE: 82.201412 in 787 frames
+2017-05-03 10:30:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.8 0.2 0.0
+All LF0 RMSE: 103.026991 in 53294 frames
+Only specific case LF0 RMSE: 82.392436 in 787 frames
+2017-05-03 10:30:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.8 0.0 0.0
+All LF0 RMSE: 103.029351 in 53294 frames
+Only specific case LF0 RMSE: 82.200764 in 787 frames
+2017-05-03 10:30:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.8 0.2 0.0
+All LF0 RMSE: 103.026756 in 53294 frames
+Only specific case LF0 RMSE: 82.391716 in 787 frames
+2017-05-03 10:31:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.8 0.0 0.0
+All LF0 RMSE: 103.029155 in 53294 frames
+Only specific case LF0 RMSE: 82.200133 in 787 frames
+2017-05-03 10:31:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.8 0.2 0.0
+All LF0 RMSE: 103.026554 in 53294 frames
+Only specific case LF0 RMSE: 82.391015 in 787 frames
+2017-05-03 10:31:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.8 0.0 0.0
+All LF0 RMSE: 103.028986 in 53294 frames
+Only specific case LF0 RMSE: 82.199518 in 787 frames
+2017-05-03 10:31:28
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.8 0.2 0.0
+All LF0 RMSE: 103.026379 in 53294 frames
+Only specific case LF0 RMSE: 82.390332 in 787 frames
+2017-05-03 10:31:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.8 0.0 0.0
+All LF0 RMSE: 103.028842 in 53294 frames
+Only specific case LF0 RMSE: 82.198918 in 787 frames
+2017-05-03 10:31:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.8 0.2 0.0
+All LF0 RMSE: 103.026230 in 53294 frames
+Only specific case LF0 RMSE: 82.389667 in 787 frames
+2017-05-03 10:31:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.8 0.0 0.0
+All LF0 RMSE: 103.028721 in 53294 frames
+Only specific case LF0 RMSE: 82.198334 in 787 frames
+2017-05-03 10:32:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.8 0.2 0.0
+All LF0 RMSE: 103.026103 in 53294 frames
+Only specific case LF0 RMSE: 82.389018 in 787 frames
+2017-05-03 10:32:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.8 0.0 0.0
+All LF0 RMSE: 103.028618 in 53294 frames
+Only specific case LF0 RMSE: 82.197763 in 787 frames
+2017-05-03 10:32:18
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.8 0.2 0.0
+All LF0 RMSE: 103.025995 in 53294 frames
+Only specific case LF0 RMSE: 82.388386 in 787 frames
+2017-05-03 10:32:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.6 0.0 0.0
+All LF0 RMSE: 102.984270 in 53294 frames
+Only specific case LF0 RMSE: 82.218977 in 787 frames
+2017-05-03 10:32:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.6 0.2 0.0
+All LF0 RMSE: 102.981510 in 53294 frames
+Only specific case LF0 RMSE: 82.411194 in 787 frames
+2017-05-03 10:32:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.6 0.0 0.0
+All LF0 RMSE: 102.984204 in 53294 frames
+Only specific case LF0 RMSE: 82.218599 in 787 frames
+2017-05-03 10:32:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.4 0.6 0.2 0.0
+All LF0 RMSE: 102.981438 in 53294 frames
+Only specific case LF0 RMSE: 82.410769 in 787 frames
+2017-05-03 10:32:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.6 0.0 0.0
+All LF0 RMSE: 102.984157 in 53294 frames
+Only specific case LF0 RMSE: 82.218208 in 787 frames
+2017-05-03 10:33:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.6 0.2 0.0
+All LF0 RMSE: 102.981384 in 53294 frames
+Only specific case LF0 RMSE: 82.410331 in 787 frames
+2017-05-03 10:33:15
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.6 0.0 0.0
+All LF0 RMSE: 102.984127 in 53294 frames
+Only specific case LF0 RMSE: 82.217808 in 787 frames
+2017-05-03 10:33:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.8 0.6 0.2 0.0
+All LF0 RMSE: 102.981347 in 53294 frames
+Only specific case LF0 RMSE: 82.409885 in 787 frames
+2017-05-03 10:33:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.6 0.0 0.0
+All LF0 RMSE: 102.984112 in 53294 frames
+Only specific case LF0 RMSE: 82.217402 in 787 frames
+2017-05-03 10:33:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.6 0.2 0.0
+All LF0 RMSE: 102.981327 in 53294 frames
+Only specific case LF0 RMSE: 82.409431 in 787 frames
+2017-05-03 10:33:48
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.6 0.0 0.0
+All LF0 RMSE: 102.984113 in 53294 frames
+Only specific case LF0 RMSE: 82.216991 in 787 frames
+2017-05-03 10:33:56
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.6 0.2 0.0
+All LF0 RMSE: 102.981321 in 53294 frames
+Only specific case LF0 RMSE: 82.408974 in 787 frames
+2017-05-03 10:34:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.6 0.0 0.0
+All LF0 RMSE: 102.984126 in 53294 frames
+Only specific case LF0 RMSE: 82.216578 in 787 frames
+2017-05-03 10:34:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.4 0.6 0.2 0.0
+All LF0 RMSE: 102.981329 in 53294 frames
+Only specific case LF0 RMSE: 82.408514 in 787 frames
+2017-05-03 10:34:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.6 0.0 0.0
+All LF0 RMSE: 102.984151 in 53294 frames
+Only specific case LF0 RMSE: 82.216163 in 787 frames
+2017-05-03 10:34:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.6 0.6 0.2 0.0
+All LF0 RMSE: 102.981348 in 53294 frames
+Only specific case LF0 RMSE: 82.408054 in 787 frames
+2017-05-03 10:34:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.6 0.0 0.0
+All LF0 RMSE: 102.984187 in 53294 frames
+Only specific case LF0 RMSE: 82.215749 in 787 frames
+2017-05-03 10:34:46
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.8 0.6 0.2 0.0
+All LF0 RMSE: 102.981378 in 53294 frames
+Only specific case LF0 RMSE: 82.407594 in 787 frames
+2017-05-03 10:34:54
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.6 0.0 0.0
+All LF0 RMSE: 102.984232 in 53294 frames
+Only specific case LF0 RMSE: 82.215336 in 787 frames
+2017-05-03 10:35:02
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.6 0.2 0.0
+All LF0 RMSE: 102.981418 in 53294 frames
+Only specific case LF0 RMSE: 82.407136 in 787 frames
+2017-05-03 10:35:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.6 0.0 0.0
+All LF0 RMSE: 102.984285 in 53294 frames
+Only specific case LF0 RMSE: 82.214924 in 787 frames
+2017-05-03 10:35:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.6 0.2 0.0
+All LF0 RMSE: 102.981466 in 53294 frames
+Only specific case LF0 RMSE: 82.406680 in 787 frames
+2017-05-03 10:35:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.4 0.0 0.0
+All LF0 RMSE: 102.958759 in 53294 frames
+Only specific case LF0 RMSE: 82.234259 in 787 frames
+2017-05-03 10:35:35
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.2 0.0 0.0
+All LF0 RMSE: 102.956286 in 53294 frames
+Only specific case LF0 RMSE: 82.250067 in 787 frames
+2017-05-03 10:35:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.2 0.0 0.0 0.0
+All LF0 RMSE: 102.978909 in 53294 frames
+Only specific case LF0 RMSE: 82.266430 in 787 frames
+{'1.0:1.8:0.6:0.2:0.0:': 82.407594192419367, '1.0:0.2:2.0:0.0:0.2:': 82.011195986682523, '1.0:2.2:0.8:0.0:0.0:': 82.197762768756064, '1.0:2.0:2.0:0.2:0.2:': 82.182053383553665, '1.0:0.8:0.6:0.2:0.2:': 82.296438452672732, '1.0:0.8:2.0:0.0:0.0:': 82.117447595066139, '1.0:2.2:1.0:0.2:0.0:': 82.370661917038902, '1.0:1.6:1.8:0.0:0.2:': 82.009791011166257, '1.0:0.2:1.0:0.0:0.2:': 82.073796622210324, '1.0:0.6:1.0:0.0:0.0:': 82.187813226693123, '1.0:0.0:1.6:0.0:0.4:': 83.136761745835514, '1.0:2.0:0.8:0.2:0.2:': 82.276164540561581, '1.0:0.6:1.8:0.0:0.0:': 82.1325082243563, '1.0:1.4:1.4:0.0:0.0:': 82.153810143735569, '1.0:1.8:1.4:0.2:0.0:': 82.339155773919941, '1.0:1.0:1.4:0.0:0.0:': 82.156393155174811, '1.0:0.8:1.6:0.0:0.0:': 82.143941266988634, '1.0:0.6:0.6:0.0:0.2:': 82.100973347514909, '1.0:1.2:1.2:0.0:0.0:': 82.169824247010865, '1.0:0.0:1.2:0.0:0.0:': 82.177545899717316, '1.0:2.0:1.0:0.0:0.4:': 83.163588045721355, '1.0:0.6:2.0:0.0:0.4:': 83.107120529671604, '1.0:1.8:2.2:0.2:0.2:': 82.169785067877328, '1.0:0.2:0.8:0.2:0.0:': 82.395537427956512, '1.0:1.2:0.8:0.0:0.0:': 82.200764034858523, '1.0:1.2:1.0:0.0:0.0:': 82.185049713813612, '1.0:1.6:2.2:0.0:0.0:': 82.096371695923651, '1.0:1.2:1.4:0.0:0.2:': 82.040098310389922, '1.0:1.8:2.0:0.2:0.2:': 82.183738800364878, '1.0:1.0:2.0:0.2:0.0:': 82.300983059336971, '1.0:1.4:1.8:0.0:0.4:': 83.111857482142781, '1.0:1.8:1.4:0.0:0.0:': 82.151489117303328, '1.0:0.2:0.4:0.0:0.2:': 82.116467768823767, '1.0:0.2:1.8:0.0:0.2:': 82.02295428953316, '1.0:1.8:0.6:0.0:0.4:': 83.194685829900692, '1.0:0.8:1.8:0.0:0.2:': 82.016525552658408, '1.0:2.2:2.2:0.0:0.2:': 81.978516712179243, '1.0:0.8:2.2:0.0:0.2:': 81.99177757771082, '1.0:2.0:1.6:0.2:0.0:': 82.321960115757435, '1.0:0.0:0.6:0.0:0.0:': 82.21933874726912, '1.0:1.0:1.8:0.0:0.4:': 83.115111349068982, '1.0:0.8:0.8:0.0:0.2:': 82.085421092631378, '1.0:1.4:1.6:0.0:0.0:': 82.139298193844823, '1.0:1.8:1.0:0.0:0.2:': 82.066540191121732, '1.0:2.0:1.4:0.0:0.0:': 82.150411566853066, '1.0:1.0:1.0:0.2:0.2:': 82.263768082388495, '1.0:2.2:1.2:0.2:0.2:': 82.24188890034975, '1.0:0.6:0.8:0.0:0.2:': 82.086110353482425, '1.0:1.0:2.2:0.0:0.0:': 82.102457899287685, '1.0:0.2:0.0:0.0:0.0:': 82.266430008524338, '1.0:0.6:1.2:0.2:0.2:': 82.251078309026141, '1.0:1.6:1.2:0.2:0.2:': 82.244930675084291, '1.0:0.0:1.8:0.0:0.0:': 82.139577128095283, '1.0:1.4:1.2:0.0:0.4:': 83.15174432847401, '1.0:0.4:0.6:0.2:0.0:': 82.410768880168135, '1.0:1.6:1.0:0.2:0.2:': 82.26095307794229, '1.0:2.0:0.6:0.0:0.0:': 82.215335824722288, '1.0:1.0:1.0:0.0:0.0:': 82.185929762299665, '1.0:2.0:1.0:0.2:0.2:': 82.259251762269727, '1.0:0.4:0.8:0.2:0.2:': 82.281920955796451, '1.0:2.0:2.2:0.0:0.0:': 82.092898518561256, '1.0:0.8:1.6:0.2:0.0:': 82.331439040882458, '1.0:1.4:1.8:0.2:0.2:': 82.201415439357859, '1.0:0.8:1.4:0.0:0.4:': 83.141884279888373, '1.0:1.2:1.2:0.0:0.2:': 82.054308685527346, '1.0:1.6:2.2:0.0:0.2:': 81.983506397310009, '1.0:0.4:2.0:0.0:0.0:': 82.122146759600369, '1.0:1.4:0.6:0.2:0.2:': 82.295031444844412, '1.0:0.0:1.4:0.0:0.4:': 83.148309708239182, '1.0:2.0:1.6:0.0:0.2:': 82.021020579625102, '1.0:2.0:2.2:0.2:0.2:': 82.167940440176793, '1.0:0.4:1.2:0.2:0.2:': 82.252528577062307, '1.0:2.2:1.0:0.0:0.2:': 82.065064832893867, '1.0:0.0:1.6:0.0:0.0:': 82.151841150795676, '1.0:0.0:0.8:0.0:0.4:': 83.185251098554218, '1.0:0.8:0.6:0.0:0.2:': 82.100562032040926, '1.0:1.4:2.2:0.0:0.4:': 83.087183849143571, '1.0:0.2:1.6:0.0:0.0:': 82.149629560303012, '1.0:0.0:0.0:0.0:0.4:': 83.240621584984794, '1.0:1.2:0.6:0.0:0.0:': 82.216990925566137, '1.0:2.0:0.6:0.2:0.0:': 82.40713597534554, '1.0:1.8:0.8:0.0:0.0:': 82.198918403874842, '1.0:0.4:1.0:0.0:0.2:': 82.072732567249304, '1.0:1.4:1.0:0.0:0.2:': 82.068127264250123, '1.0:0.0:1.0:0.0:0.2:': 82.074922856616183, '1.0:2.2:1.8:0.2:0.2:': 82.195137245600918, '1.0:1.4:0.8:0.0:0.4:': 83.18046657659842, '1.0:0.4:1.0:0.0:0.0:': 82.18882600452261, '1.0:0.0:2.0:0.2:0.0:': 82.314656565454484, '1.0:0.6:2.2:0.0:0.0:': 82.107279985146192, '1.0:1.2:1.4:0.2:0.0:': 82.343120525657142, '1.0:0.8:1.0:0.2:0.2:': 82.264790106484583, '1.0:0.2:1.4:0.2:0.2:': 82.24041910572258, '1.0:1.4:0.8:0.2:0.0:': 82.391014606002187, '1.0:1.0:1.4:0.0:0.4:': 83.140528704417321, '1.0:0.4:1.6:0.0:0.0:': 82.147590574048607, '1.0:0.2:1.8:0.2:0.0:': 82.324401852323078, '1.0:0.2:1.4:0.0:0.2:': 82.047578055930529, '1.0:0.6:1.6:0.2:0.0:': 82.333390672191214, '1.0:0.4:2.2:0.0:0.0:': 82.109985136790073, '1.0:2.2:2.0:0.0:0.4:': 83.093272334170294, '1.0:1.8:1.4:0.0:0.4:': 83.135805309484226, '1.0:1.2:0.8:0.0:0.4:': 83.181092349739842, '1.0:1.8:0.6:0.0:0.0:': 82.215749024764918, '1.0:0.8:1.2:0.0:0.2:': 82.056564655769151, '1.0:1.6:1.4:0.0:0.4:': 83.136895451798352, '1.0:1.2:2.0:0.2:0.2:': 82.18942591223221, '1.0:2.2:1.4:0.2:0.0:': 82.33682203797494, '1.0:2.2:0.8:0.2:0.2:': 82.275527431469541, '1.0:2.2:2.2:0.2:0.2:': 82.166195397528526, '1.0:1.8:0.8:0.2:0.0:': 82.389666901110715, '1.0:0.4:0.8:0.2:0.0:': 82.394726066363077, '1.0:0.0:0.6:0.0:0.4:': 83.198394734915055, '1.0:1.2:1.6:0.0:0.4:': 83.12614684184804, '1.0:0.0:1.2:0.0:0.4:': 83.160228394693632, '1.0:2.0:0.8:0.0:0.2:': 82.081658810686818, '1.0:2.2:0.6:0.2:0.0:': 82.406680182596432, '1.0:1.4:1.4:0.2:0.2:': 82.230707914232696, '1.0:0.0:1.4:0.0:0.0:': 82.164491281310461, '1.0:1.0:1.6:0.2:0.0:': 82.32961459222615, '1.0:1.2:2.2:0.0:0.2:': 81.987366177399295, '1.0:1.2:1.8:0.0:0.4:': 83.113433568486144, '1.0:1.6:1.2:0.2:0.0:': 82.356534598857522, '1.0:1.8:2.2:0.0:0.0:': 82.094584719863761, '1.0:1.0:1.8:0.0:0.0:': 82.128619942964974, '1.0:1.0:2.2:0.0:0.4:': 83.091171245025848, '1.0:1.0:0.6:0.0:0.4:': 83.196372728216119, '1.0:1.8:2.0:0.0:0.2:': 81.994852742969087, '1.0:0.0:1.8:0.0:0.4:': 83.125567600256431, '1.0:1.0:2.0:0.0:0.2:': 82.001900201273031, '1.0:0.4:2.0:0.0:0.4:': 83.109444047321446, '1.0:1.2:0.6:0.0:0.2:': 82.099724989452952, '1.0:1.8:1.8:0.2:0.0:': 82.307968014708962, '1.0:1.4:2.0:0.0:0.2:': 81.998158659650372, '1.0:1.0:0.8:0.0:0.4:': 83.181735407809228, '1.0:0.0:0.0:0.2:0.0:': 82.460509440084365, '1.0:0.0:0.8:0.0:0.0:': 82.204948109788191, '1.0:1.8:0.8:0.0:0.4:': 83.179263383693922, '1.0:2.2:1.6:0.0:0.4:': 83.119871556706599, '1.0:0.2:0.6:0.0:0.0:': 82.218977071366297, '1.0:0.2:2.2:0.2:0.0:': 82.298891003000563, '1.0:1.8:2.0:0.2:0.0:': 82.293055444269484, '1.0:1.6:0.6:0.2:0.2:': 82.294560512955371, '1.0:1.0:0.8:0.2:0.0:': 82.392436015910505, '1.0:0.8:2.0:0.2:0.0:': 82.303311705749252, '1.0:2.2:1.2:0.0:0.0:': 82.165015494265489, '1.0:2.0:0.6:0.0:0.4:': 83.194267022015211, '1.0:1.4:1.2:0.2:0.0:': 82.357646498607295, '1.0:1.8:1.0:0.2:0.2:': 82.260086757395513, '1.0:1.4:2.2:0.0:0.0:': 82.098270559822353, '1.0:1.8:1.2:0.2:0.2:': 82.243872687540716, '1.0:0.0:0.4:0.0:0.4:': 83.211988537906691, '1.0:0.2:1.6:0.2:0.2:': 82.227185679540355, '1.0:0.6:2.2:0.0:0.4:': 83.0957590263626, '1.0:1.6:1.0:0.0:0.2:': 82.067318646188468, '1.0:1.4:2.2:0.2:0.2:': 82.173816607507604, '1.0:1.0:1.6:0.0:0.0:': 82.142296065416303, '1.0:0.4:1.6:0.0:0.4:': 83.132697141868761, '1.0:1.4:0.8:0.0:0.0:': 82.20013290716652, '1.0:0.4:1.8:0.0:0.4:': 83.120894275216756, '1.0:2.2:2.0:0.0:0.0:': 82.105193877828754, '1.0:1.2:1.0:0.2:0.0:': 82.375003881916143, '1.0:0.0:2.0:0.0:0.0:': 82.127681924718928, '1.0:0.6:1.4:0.2:0.0:': 82.347821798747617, '1.0:0.4:2.2:0.0:0.4:': 83.098331000164322, '1.0:1.8:2.2:0.0:0.2:': 81.981747448633769, '1.0:2.2:2.0:0.2:0.2:': 82.180456522808882, '1.0:0.2:0.6:0.2:0.0:': 82.41119350344249, '1.0:1.4:1.6:0.2:0.0:': 82.32629101301535, '1.0:1.0:0.8:0.0:0.2:': 82.084751301241013, '1.0:0.0:1.0:0.2:0.2:': 82.269433345296818, '1.0:0.2:0.2:0.0:0.0:': 82.250067009364997, '1.0:1.2:2.2:0.2:0.0:': 82.284895033040485, '1.0:1.0:1.2:0.2:0.2:': 82.248423154888229, '1.0:0.6:1.8:0.2:0.2:': 82.209408785894055, '1.0:2.2:2.0:0.2:0.0:': 82.289736538448636, '1.0:0.0:0.4:0.2:0.2:': 82.313353045433786, '1.0:0.0:1.2:0.2:0.2:': 82.2557334476016, '1.0:0.6:1.2:0.0:0.2:': 82.057789913859807, '1.0:1.6:1.4:0.2:0.0:': 82.340409387903165, '1.0:1.2:1.8:0.0:0.0:': 82.126864671587498, '1.0:0.0:1.8:0.2:0.0:': 82.327234466051635, '1.0:0.4:1.0:0.2:0.0:': 82.379200109609627, '1.0:0.0:2.2:0.2:0.2:': 82.193348053189155, '1.0:0.6:2.0:0.0:0.2:': 82.006191875675441, '1.0:1.2:1.6:0.2:0.2:': 82.217437456448025, '1.0:1.8:1.8:0.0:0.2:': 82.008344733532539, '1.0:0.0:2.2:0.0:0.4:': 83.104178094401206, '1.0:2.2:1.8:0.0:0.0:': 82.11949169048232, '1.0:2.2:1.4:0.0:0.2:': 82.034472924953803, '1.0:0.6:1.4:0.0:0.0:': 82.159302879589049, '1.0:0.2:0.8:0.0:0.2:': 82.087552754637485, '1.0:0.4:2.2:0.2:0.2:': 82.18662380332195, '1.0:1.4:1.8:0.0:0.2:': 82.011321857984228, '1.0:0.6:0.8:0.2:0.0:': 82.393939841181151, '1.0:2.0:1.8:0.2:0.0:': 82.306430006655006, '1.0:0.4:1.2:0.2:0.0:': 82.364166635577163, '1.0:0.4:1.4:0.0:0.0:': 82.160907437172042, '1.0:1.6:2.2:0.2:0.0:': 82.280550227957619, '1.0:0.8:1.4:0.2:0.0:': 82.346156545008967, '1.0:1.2:1.8:0.2:0.0:': 82.31313887667163, '1.0:0.4:1.2:0.0:0.2:': 82.059091063696798, '1.0:1.4:0.6:0.0:0.2:': 82.099302992415232, '1.0:1.6:0.8:0.2:0.2:': 82.277488104592464, '1.0:2.2:1.6:0.0:0.0:': 82.134214962570496, '1.0:0.2:0.6:0.0:0.4:': 83.198010759917892, '1.0:1.6:2.2:0.0:0.4:': 83.085374498869626, '1.0:2.0:1.4:0.2:0.2:': 82.226965787429336, '1.0:1.6:0.8:0.0:0.2:': 82.082848006766852, '1.0:0.8:2.2:0.2:0.0:': 82.289864014218196, '1.0:1.0:0.6:0.0:0.0:': 82.217401652072638, '1.0:2.2:0.6:0.0:0.2:': 82.097621234184061, '1.0:2.2:1.2:0.0:0.4:': 83.148102809481728, '1.0:1.8:1.6:0.0:0.2:': 82.022240649295512, '1.0:1.0:1.6:0.0:0.4:': 83.12762702153006, '1.0:0.0:1.4:0.2:0.0:': 82.353581961006171, '1.0:1.4:1.6:0.0:0.2:': 82.024881705245434, '1.0:1.6:1.6:0.0:0.4:': 83.123434707347613, '1.0:2.0:1.2:0.2:0.2:': 82.242860012426874, '1.0:1.6:1.8:0.0:0.0:': 82.123664296561287, '1.0:2.0:0.6:0.2:0.2:': 82.29362334339045, '1.0:2.0:1.8:0.0:0.0:': 82.120809641707837, '1.0:1.8:1.6:0.2:0.0:': 82.323328038414033, '1.0:1.2:1.2:0.2:0.0:': 82.358813459485503, '1.0:0.4:0.6:0.0:0.2:': 82.101376630689231, '1.0:1.0:2.2:0.2:0.0:': 82.28729196983555, '1.0:0.4:1.8:0.0:0.0:': 82.134676299205267, '1.0:1.2:0.8:0.2:0.0:': 82.391715602515006, '1.0:0.8:1.8:0.2:0.0:': 82.317163924822211, '1.0:2.0:2.0:0.2:0.0:': 82.291351046343422, '1.0:0.0:0.8:0.2:0.2:': 82.283587792225148, '1.0:1.8:0.6:0.2:0.2:': 82.294090823735587, '1.0:0.2:2.0:0.2:0.2:': 82.201912197853318, '1.0:0.4:1.8:0.2:0.2:': 82.211784686382984, '1.0:1.2:1.6:0.0:0.0:': 82.140752068648823, '1.0:1.2:1.4:0.0:0.0:': 82.15506535109445, '1.0:0.2:1.4:0.0:0.4:': 83.146524135243553, '1.0:0.2:2.0:0.0:0.4:': 83.111963907851774, '1.0:2.2:0.8:0.0:0.2:': 82.08108593425176, '1.0:1.0:1.2:0.0:0.2:': 82.055406653539777, '1.0:0.0:0.6:0.2:0.0:': 82.411600816776655, '1.0:0.8:1.0:0.0:0.0:': 82.186849508832296, '1.0:1.8:1.2:0.0:0.2:': 82.051318409726235, '1.0:0.2:1.0:0.0:0.0:': 82.189893965820033, '1.0:2.0:2.0:0.0:0.0:': 82.10665184318097, '1.0:2.0:1.0:0.0:0.2:': 82.06578959319026, '1.0:1.6:1.2:0.0:0.0:': 82.167769660816418, '1.0:1.4:1.4:0.0:0.2:': 82.038856252884116, '1.0:0.6:0.6:0.2:0.2:': 82.296899495100092, '1.0:0.4:1.4:0.0:0.4:': 83.144869058915944, '1.0:1.0:1.4:0.0:0.2:': 82.041411872187254, '1.0:0.6:1.4:0.0:0.4:': 83.143327161528731, '1.0:1.2:1.6:0.0:0.2:': 82.026317356981238, '1.0:0.6:0.6:0.0:0.4:': 83.197205811775632, '1.0:0.8:1.6:0.0:0.2:': 82.029465329405056, '1.0:1.8:1.4:0.0:0.2:': 82.036558751080975, '1.0:1.8:2.2:0.2:0.0:': 82.278571214350521, '1.0:0.4:2.0:0.2:0.0:': 82.308520268830179, '1.0:1.2:2.0:0.0:0.0:': 82.113384572619523, '1.0:0.2:0.8:0.2:0.2:': 82.282740456303387, '1.0:0.0:2.0:0.0:0.2:': 82.014035623495943, '1.0:1.6:2.0:0.0:0.0:': 82.109819104588823, '1.0:0.0:0.2:0.0:0.2:': 82.131261741670414, '1.0:1.0:2.0:0.2:0.2:': 82.191573542648797, '1.0:0.2:1.0:0.2:0.0:': 82.380388265228731, '1.0:0.2:0.4:0.0:0.0:': 82.23425853048748, '1.0:0.2:1.8:0.0:0.0:': 82.137023171432489, '1.0:0.2:1.2:0.0:0.0:': 82.176045663471015, '1.0:1.6:2.0:0.0:0.2:': 81.996457044426393, '1.0:0.0:0.2:0.2:0.0:': 82.443639659949739, '1.0:2.2:1.6:0.2:0.0:': 82.320658680974475, '1.0:2.0:1.2:0.0:0.0:': 82.165894906745521, '1.0:1.0:1.0:0.2:0.0:': 82.375981072707589, '1.0:1.0:1.8:0.2:0.2:': 82.205146813584435, '1.0:1.6:2.0:0.2:0.2:': 82.185521977225378, '1.0:2.0:0.8:0.0:0.4:': 83.178684430999866, '1.0:2.2:2.2:0.0:0.4:': 83.080541461166789, '1.0:0.0:2.2:0.0:0.0:': 82.116139264087252, '1.0:2.2:1.8:0.0:0.4:': 83.106376846583501, '1.0:0.8:2.2:0.0:0.4:': 83.093380457850472, '1.0:0.8:0.8:0.0:0.4:': 83.182396762942105, '1.0:1.6:1.6:0.2:0.2:': 82.214332037750054, '1.0:1.8:1.0:0.0:0.4:': 83.164323684954823, '1.0:1.0:1.0:0.0:0.2:': 82.069846016439456, '1.0:0.6:0.8:0.2:0.2:': 82.281127147212857, '1.0:1.0:2.2:0.0:0.2:': 81.989494507840021, '1.0:0.6:2.0:0.2:0.2:': 82.196346225633533, '1.0:0.6:1.2:0.2:0.0:': 82.362708960569378, '1.0:0.6:2.2:0.2:0.2:': 82.183667203343816, '1.0:0.0:1.8:0.0:0.2:': 82.025468253370377, '1.0:1.4:1.2:0.0:0.2:': 82.053264657121858, '1.0:2.0:1.8:0.0:0.4:': 83.107639385169293, '1.0:1.6:1.6:0.0:0.0:': 82.137925039143141, '1.0:2.0:0.6:0.0:0.2:': 82.098038890330329, '1.0:2.0:1.6:0.0:0.4:': 83.121000411224259, '1.0:1.2:0.6:0.2:0.2:': 82.295502435453585, '1.0:1.4:2.0:0.0:0.4:': 83.099340045438595, '1.0:1.6:0.6:0.0:0.0:': 82.216163294213715, '1.0:0.8:1.6:0.2:0.2:': 82.220940163958744, '1.0:1.0:0.6:0.2:0.0:': 82.409431345551553, '1.0:1.4:1.8:0.2:0.0:': 82.311312413135283, '1.0:0.8:1.6:0.0:0.4:': 83.129203405805427, '1.0:1.2:1.2:0.0:0.4:': 83.152763141864313, '1.0:0.4:0.6:0.2:0.2:': 82.297352436039446, '1.0:1.8:1.2:0.0:0.0:': 82.166811831916817, '1.0:0.6:1.0:0.2:0.0:': 82.378073921093247, '1.0:0.4:1.6:0.2:0.2:': 82.224947279452365, '1.0:0.6:1.6:0.0:0.0:': 82.145700842071889, '1.0:1.4:2.0:0.2:0.0:': 82.296772826372589, '1.0:0.4:0.8:0.0:0.0:': 82.203469351276425, '1.0:0.8:0.6:0.0:0.0:': 82.217808067067239, '1.0:0.2:1.0:0.0:0.4:': 83.171433005462362, '1.0:0.6:1.0:0.0:0.2:': 82.071723317251667, '1.0:0.8:2.0:0.0:0.2:': 82.003968505301572, '1.0:2.2:1.0:0.2:0.2:': 82.258445810137616, '1.0:1.6:1.8:0.0:0.4:': 83.110372333653146, '1.0:0.2:1.6:0.0:0.2:': 82.035075987795281, '1.0:0.2:2.2:0.0:0.2:': 81.999785094793737, '1.0:0.0:0.4:0.0:0.2:': 82.116455008278834, '1.0:1.4:1.0:0.2:0.2:': 82.261853329528705, '1.0:2.0:0.8:0.2:0.0:': 82.389018459887765, '1.0:0.6:1.8:0.0:0.2:': 82.018508146607346, '1.0:1.6:1.8:0.2:0.2:': 82.19971329732563, '1.0:1.8:0.8:0.0:0.2:': 82.082245949279439, '1.0:0.4:1.0:0.0:0.4:': 83.170390912684596, '1.0:0.8:1.0:0.0:0.4:': 83.168461399911379, '1.0:0.8:0.6:0.2:0.0:': 82.40988459410805, '1.0:2.2:1.8:0.2:0.0:': 82.304970335246196, '1.0:1.0:1.4:0.2:0.0:': 82.344593276498259, '1.0:0.0:1.2:0.0:0.2:': 82.061965068534263, '1.0:0.8:1.0:0.2:0.0:': 82.377002816396441, '1.0:0.8:0.8:0.2:0.0:': 82.393176993179438, '1.0:1.6:1.2:0.0:0.4:': 83.150772917669045, '1.0:1.8:1.4:0.2:0.2:': 82.228152238226542, '1.0:1.2:0.8:0.0:0.2:': 82.084099839060443, '1.0:1.2:1.0:0.0:0.2:': 82.068968696841239, '1.0:0.2:1.8:0.2:0.2:': 82.214356063387726, '1.0:1.2:1.4:0.0:0.4:': 83.139250658456561, '1.0:0.2:1.4:0.0:0.0:': 82.162630825039415, '1.0:0.2:2.0:0.0:0.0:': 82.124794065125727, '1.0:0.4:2.2:0.0:0.2:': 81.99689530299959, '1.0:0.0:1.8:0.2:0.2:': 82.217153783324079, '1.0:0.0:2.0:0.2:0.2:': 82.205070988674322, '1.0:1.2:1.4:0.2:0.2:': 82.232090024455076, '1.0:1.2:2.0:0.0:0.4:': 83.101093764608549, '1.0:2.2:2.2:0.2:0.0:': 82.274937979247696, '1.0:0.2:1.8:0.0:0.4:': 83.123132843504536, '1.0:0.8:0.8:0.0:0.0:': 82.202078376971542, '1.0:0.8:1.2:0.0:0.0:': 82.172098105417675, '1.0:0.8:1.8:0.0:0.0:': 82.130495811602785, '1.0:0.2:0.8:0.0:0.4:': 83.184503047364373, '1.0:1.2:2.0:0.2:0.0:': 82.298809231366064, '1.0:2.2:0.8:0.2:0.0:': 82.388385937649574, '1.0:0.8:2.2:0.0:0.0:': 82.104779396991006, '1.0:0.0:0.6:0.0:0.2:': 82.102145660482179, '1.0:1.0:1.8:0.0:0.2:': 82.014676979367778, '1.0:0.6:0.6:0.0:0.0:': 82.218207999670256, '1.0:1.8:1.0:0.0:0.0:': 82.182614040263616, '1.0:2.0:1.4:0.0:0.2:': 82.035491780328925, '1.0:2.2:1.2:0.2:0.0:': 82.353482106088677, '1.0:0.6:0.8:0.0:0.4:': 83.18307756706912, '1.0:2.2:2.2:0.0:0.0:': 82.091303484498852, '1.0:2.2:0.6:0.2:0.2:': 82.293158860350772, '1.0:1.0:1.4:0.2:0.2:': 82.233552042586965, '1.0:1.4:1.6:0.2:0.2:': 82.215840459462981, '1.0:0.0:1.4:0.0:0.2:': 82.049415766449556, '1.0:0.6:1.6:0.0:0.4:': 83.130888463990814, '1.0:1.0:1.6:0.2:0.2:': 82.219133316723713, '1.0:1.2:2.2:0.0:0.0:': 82.10029424439719, '1.0:1.4:1.2:0.2:0.2:': 82.246038285450254, '1.0:1.6:0.8:0.0:0.4:': 83.179857189670273, '1.0:2.0:1.0:0.2:0.0:': 82.371467264245581, '1.0:1.6:2.2:0.2:0.2:': 82.171739753185193, '1.0:0.2:0.0:0.0:0.2:': 82.147416158096135, '1.0:1.8:2.0:0.0:0.0:': 82.108190774040608, '1.0:0.8:1.4:0.0:0.2:': 82.042805458757726, '1.0:0.0:0.0:0.0:0.0:': 82.265558546391816, '1.0:0.2:1.2:0.0:0.4:': 83.158779862888309, '1.0:1.0:2.0:0.0:0.0:': 82.115346348804181, '1.0:0.4:2.0:0.0:0.2:': 82.008592204300655, '1.0:1.4:0.6:0.2:0.0:': 82.408514331441893, '1.0:1.0:0.8:0.0:0.0:': 82.201412200884604, '1.0:0.4:0.8:0.0:0.4:': 83.183779146394812, '1.0:2.0:1.6:0.0:0.0:': 82.135389872793581, '1.0:1.4:2.0:0.0:0.0:': 82.111546588155178, '1.0:2.0:2.2:0.0:0.2:': 81.98008735662269, '1.0:1.6:0.6:0.0:0.4:': 83.195106745572772, '1.0:2.2:1.0:0.0:0.0:': 82.18113453180797, '1.0:0.0:1.6:0.0:0.2:': 82.037256073734042, '1.0:0.0:0.8:0.0:0.2:': 82.088309239615228, '1.0:2.0:1.6:0.2:0.2:': 82.211546966834007, '1.0:0.2:0.6:0.0:0.2:': 82.101768720891627, '1.0:1.4:1.0:0.0:0.0:': 82.184205739748691, '1.0:1.6:0.6:0.2:0.0:': 82.408053988285431, '1.0:0.8:0.6:0.0:0.4:': 83.196791524296998, '1.0:2.0:2.2:0.2:0.0:': 82.276704017655391, '1.0:0.4:0.6:0.0:0.4:': 83.19761321178477, '1.0:0.6:2.2:0.2:0.0:': 82.292634722947412, '1.0:0.0:0.0:0.0:0.2:': 82.146592025304216, '1.0:0.2:1.6:0.2:0.0:': 82.337749314064126, '1.0:0.8:2.0:0.2:0.2:': 82.193873540925424, '1.0:0.0:1.0:0.0:0.0:': 82.19102456479726, '1.0:0.2:2.2:0.2:0.2:': 82.189837078493511, '1.0:1.8:1.0:0.2:0.0:': 82.372301671886348, '1.0:1.4:2.2:0.0:0.2:': 81.985375085425915, '1.0:0.4:1.2:0.0:0.4:': 83.157427466146643, '1.0:1.4:0.8:0.0:0.2:': 82.083465704146903, '1.0:0.6:2.2:0.0:0.2:': 81.994236193824904, '1.0:1.6:1.0:0.0:0.0:': 82.183394739978638, '1.0:1.4:0.8:0.2:0.2:': 82.278176177500072, '1.0:0.4:1.6:0.0:0.2:': 82.033065412168952, '1.0:0.6:1.6:0.2:0.2:': 82.222872399423622, '1.0:2.0:1.4:0.0:0.4:': 83.134766320192512, '1.0:0.8:1.2:0.2:0.2:': 82.249713058687306, '1.0:1.2:1.0:0.2:0.2:': 82.262790507662075, '1.0:1.4:2.2:0.2:0.0:': 82.282653386069086, '1.0:1.4:1.6:0.0:0.4:': 83.124752371941099, '1.0:0.6:1.4:0.2:0.2:': 82.236755657140606, '1.0:0.2:0.2:0.0:0.2:': 82.131674730373888, '1.0:0.8:1.2:0.0:0.4:': 83.154963960444192, '1.0:1.8:1.8:0.0:0.0:': 82.122198101266122, '1.0:1.0:1.2:0.0:0.4:': 83.153834384230663, '1.0:1.8:0.8:0.2:0.2:': 82.276817841440845, '1.0:1.8:0.6:0.0:0.2:': 82.098458928302151, '1.0:0.0:2.0:0.0:0.4:': 83.114711371746793, '1.0:0.0:1.0:0.2:0.0:': 82.381646762182456, '1.0:1.6:1.4:0.2:0.2:': 82.229397625696762, '1.0:1.8:1.2:0.0:0.4:': 83.149844597389475, '1.0:1.2:2.2:0.2:0.2:': 82.176029722735777, '1.0:0.2:1.4:0.2:0.0:': 82.351516061300828, '1.0:0.0:0.4:0.2:0.0:': 82.427346389150486, '1.0:0.6:1.2:0.0:0.4:': 83.156158866201324, '1.0:2.2:1.4:0.0:0.4:': 83.133774009289155, '1.0:0.8:1.2:0.2:0.0:': 82.361337136282941, '1.0:1.2:2.2:0.0:0.4:': 83.089111331699627, '1.0:1.8:1.8:0.2:0.2:': 82.198105431319433, '1.0:1.8:2.0:0.0:0.4:': 83.096136015596585, '1.0:1.8:1.8:0.0:0.4:': 83.108968935084306, '1.0:1.6:1.8:0.2:0.0:': 82.309592389939553, '1.0:2.2:1.8:0.0:0.2:': 82.005674232496901, '1.0:1.2:1.8:0.2:0.2:': 82.203222470412854, '1.0:0.8:1.8:0.0:0.4:': 83.116903508587157, '1.0:0.2:0.8:0.0:0.0:': 82.204196910863587, '1.0:2.2:1.4:0.2:0.2:': 82.225833100034137, '1.0:0.0:0.2:0.0:0.4:': 83.226055835264518, '1.0:0.0:2.2:0.2:0.0:': 82.302452477260758, '1.0:1.2:1.6:0.2:0.0:': 82.32790268985643, '1.0:2.0:1.8:0.2:0.2:': 82.196582713758318, '1.0:1.0:2.0:0.0:0.4:': 83.102964746606887, '1.0:0.4:1.4:0.0:0.2:': 82.045875166581737, '1.0:1.4:1.0:0.0:0.4:': 83.16587901798529, '1.0:0.0:1.0:0.0:0.4:': 83.172535800674765, '1.0:0.4:2.2:0.2:0.0:': 82.295632332872941, '1.0:1.0:0.8:0.2:0.2:': 82.279609618822619, '1.0:0.4:0.6:0.0:0.0:': 82.218598773886001, '1.0:2.2:1.0:0.0:0.4:': 83.162877703967652, '1.0:1.4:0.6:0.0:0.0:': 82.216577657031976, '1.0:0.0:0.0:0.2:0.2:': 82.345230831636556, '1.0:2.2:1.2:0.0:0.2:': 82.049534506775714, '1.0:1.8:1.6:0.0:0.0:': 82.136624569790399, '1.0:0.4:1.4:0.2:0.2:': 82.238522078168131, '1.0:1.6:0.8:0.0:0.0:': 82.199517954801308, '1.0:0.4:1.2:0.0:0.0:': 82.174645856877078, '1.0:1.8:1.2:0.2:0.0:': 82.355472712384909, '1.0:2.2:0.6:0.0:0.0:': 82.214924496661183, '1.0:1.6:1.0:0.0:0.4:': 83.165086592522357, '1.0:1.8:1.6:0.2:0.2:': 82.212903396679607, '1.0:1.0:1.6:0.0:0.2:': 82.027841608079981, '1.0:0.0:1.6:0.2:0.0:': 82.340203473908332, '1.0:2.0:1.2:0.2:0.0:': 82.35445647868417, '1.0:0.8:2.0:0.0:0.4:': 83.104967799846676, '1.0:0.2:2.2:0.0:0.4:': 83.101125488749602, '1.0:0.0:0.4:0.0:0.0:': 82.234220185083245, '1.0:0.4:1.6:0.2:0.0:': 82.335487024624413, '1.0:0.2:1.2:0.2:0.0:': 82.365721989561706, '1.0:0.2:1.2:0.2:0.2:': 82.254075539064587, '1.0:0.4:1.8:0.0:0.2:': 82.02064349932995, '1.0:2.2:2.0:0.0:0.2:': 81.991899151695577, '1.0:1.2:0.8:0.2:0.2:': 82.278882999228287, '1.0:1.0:1.2:0.0:0.0:': 82.170930787509661, '1.0:0.2:0.6:0.2:0.2:': 82.297793883099047, '1.0:0.0:0.8:0.2:0.0:': 82.396376009597915, '1.0:0.6:1.2:0.0:0.0:': 82.173333537100305, '1.0:1.2:0.6:0.0:0.4:': 83.195951343686176, '1.0:1.2:1.0:0.0:0.4:': 83.166703547096574, '1.0:1.6:1.4:0.0:0.2:': 82.037678463649627, '1.0:2.2:0.8:0.0:0.4:': 83.178119669177804, '1.0:2.0:2.0:0.0:0.2:': 81.993336199957213, '1.0:0.6:1.8:0.0:0.4:': 83.118825124605848, '1.0:0.0:1.2:0.2:0.0:': 82.367389460996009, '1.0:0.0:0.6:0.2:0.2:': 82.298219581355241, '1.0:0.8:1.0:0.0:0.2:': 82.070762812703535, '1.0:0.2:2.0:0.2:0.0:': 82.311454957553366, '1.0:0.4:1.8:0.2:0.0:': 82.321799195792011, '1.0:2.0:1.2:0.0:0.4:': 83.148955641703381, '1.0:1.0:1.2:0.2:0.0:': 82.360041366977768, '1.0:0.6:1.8:0.2:0.0:': 82.319395111532799, '1.0:0.6:1.0:0.0:0.4:': 83.16940234402243, '1.0:1.6:1.0:0.2:0.0:': 82.373167432730142, '1.0:0.4:1.0:0.2:0.2:': 82.266987511155634, '1.0:2.0:1.0:0.0:0.0:': 82.181861315900733, '1.0:0.6:2.0:0.0:0.0:': 82.119706949915837, '1.0:1.6:1.2:0.0:0.2:': 82.052269381416707, '1.0:1.4:1.4:0.0:0.4:': 83.138041905992864, '1.0:0.0:2.2:0.0:0.2:': 82.00294248041844, '1.0:2.2:1.4:0.0:0.0:': 82.149382807883299, '1.0:2.0:0.8:0.0:0.0:': 82.198333554471759, '1.0:0.6:1.4:0.0:0.2:': 82.044289185125265, '1.0:1.2:1.8:0.0:0.2:': 82.012946797461581, '1.0:0.8:1.4:0.0:0.0:': 82.157802231352562, '1.0:0.0:0.2:0.0:0.0:': 82.249617753570021, '1.0:1.4:1.8:0.0:0.0:': 82.125216581380556, '1.0:0.4:2.0:0.2:0.2:': 82.199015953887965, '1.0:1.2:2.0:0.0:0.2:': 81.999968705408278, '1.0:0.6:0.6:0.2:0.0:': 82.410331392562313, '1.0:0.0:1.6:0.2:0.2:': 82.229613121007603, '1.0:0.8:1.4:0.2:0.2:': 82.235103487676398, '1.0:1.6:1.4:0.0:0.0:': 82.152620166533765, '1.0:1.2:0.6:0.2:0.0:': 82.408973963237443, '1.0:0.0:0.2:0.2:0.2:': 82.329014188559071, '1.0:2.2:1.6:0.2:0.2:': 82.210256192291595, '1.0:0.2:1.0:0.2:0.2:': 82.26817540490957, '1.0:1.0:0.6:0.2:0.2:': 82.295972032832594, '1.0:2.2:1.6:0.0:0.2:': 82.019859347426788, '1.0:0.2:1.2:0.0:0.2:': 82.060478535937278, '1.0:1.6:2.0:0.0:0.4:': 83.097691035545296, '1.0:1.6:1.6:0.2:0.0:': 82.324769107707681, '1.0:0.8:2.2:0.2:0.2:': 82.180933716561967, '1.0:1.0:0.6:0.0:0.2:': 82.100145226841533, '1.0:2.0:1.2:0.0:0.2:': 82.050407898903941, '1.0:1.0:1.8:0.2:0.0:': 82.315084414700948, '1.0:1.6:2.0:0.2:0.0:': 82.294859095546869, '1.0:0.8:0.8:0.2:0.2:': 82.280357219033093, '1.0:2.2:0.6:0.0:0.4:': 83.19385100805826, '1.0:1.4:1.4:0.2:0.0:': 82.341728631332884, '1.0:1.8:1.6:0.0:0.4:': 83.122186237125348, '1.0:2.0:1.4:0.2:0.0:': 82.337961739443756, '1.0:1.6:1.6:0.0:0.2:': 82.023525430184918, '1.0:1.0:1.0:0.0:0.4:': 83.167563175046524, '1.0:1.8:2.2:0.0:0.4:': 83.083671074100153, '1.0:0.6:2.0:0.2:0.0:': 82.305815847173903, '1.0:0.2:1.6:0.0:0.4:': 83.134647527206567, '1.0:0.2:2.2:0.0:0.0:': 82.112925672697301, '1.0:1.4:1.0:0.2:0.0:': 82.374067165459394, '1.0:2.0:1.8:0.0:0.2:': 82.006974835901829, '1.0:0.0:1.4:0.2:0.2:': 82.242466726479648, '1.0:1.4:2.0:0.2:0.2:': 82.187413555161982, '1.0:1.2:1.2:0.2:0.2:': 82.247200507205662, '1.0:0.4:0.8:0.0:0.2:': 82.086820396869854, '1.0:0.4:1.4:0.2:0.0:': 82.349602769841525, '1.0:1.0:2.2:0.2:0.2:': 82.17839560322416, '1.0:1.4:0.6:0.0:0.4:': 83.195528927438417, '1.0:2.0:2.0:0.0:0.4:': 83.094665771518834, '1.0:1.6:0.8:0.2:0.0:': 82.390332009099978, '1.0:2.0:2.2:0.0:0.4:': 83.082063084834601, '1.0:1.6:0.6:0.0:0.2:': 82.098880600133867, '1.0:1.4:1.2:0.0:0.0:': 82.168772293750038, '1.0:0.8:1.8:0.2:0.2:': 82.207203116434513, '1.0:0.6:1.0:0.2:0.2:': 82.265861355483636, '1.0:0.6:0.8:0.0:0.0:': 82.202763669093116, '1.0:0.6:1.6:0.0:0.2:': 82.031201437118199}
+-------------------------
+[('1.0:2.2:2.2:0.0:0.2:', 81.978516712179243), ('1.0:2.0:2.2:0.0:0.2:', 81.98008735662269), ('1.0:1.8:2.2:0.0:0.2:', 81.981747448633769), ('1.0:1.6:2.2:0.0:0.2:', 81.983506397310009), ('1.0:1.4:2.2:0.0:0.2:', 81.985375085425915), ('1.0:1.2:2.2:0.0:0.2:', 81.987366177399295), ('1.0:1.0:2.2:0.0:0.2:', 81.989494507840021), ('1.0:0.8:2.2:0.0:0.2:', 81.99177757771082), ('1.0:2.2:2.0:0.0:0.2:', 81.991899151695577), ('1.0:2.0:2.0:0.0:0.2:', 81.993336199957213), ('1.0:0.6:2.2:0.0:0.2:', 81.994236193824904), ('1.0:1.8:2.0:0.0:0.2:', 81.994852742969087), ('1.0:1.6:2.0:0.0:0.2:', 81.996457044426393), ('1.0:0.4:2.2:0.0:0.2:', 81.99689530299959), ('1.0:1.4:2.0:0.0:0.2:', 81.998158659650372), ('1.0:0.2:2.2:0.0:0.2:', 81.999785094793737), ('1.0:1.2:2.0:0.0:0.2:', 81.999968705408278), ('1.0:1.0:2.0:0.0:0.2:', 82.001900201273031), ('1.0:0.0:2.2:0.0:0.2:', 82.00294248041844), ('1.0:0.8:2.0:0.0:0.2:', 82.003968505301572), ('1.0:2.2:1.8:0.0:0.2:', 82.005674232496901), ('1.0:0.6:2.0:0.0:0.2:', 82.006191875675441), ('1.0:2.0:1.8:0.0:0.2:', 82.006974835901829), ('1.0:1.8:1.8:0.0:0.2:', 82.008344733532539), ('1.0:0.4:2.0:0.0:0.2:', 82.008592204300655), ('1.0:1.6:1.8:0.0:0.2:', 82.009791011166257), ('1.0:0.2:2.0:0.0:0.2:', 82.011195986682523), ('1.0:1.4:1.8:0.0:0.2:', 82.011321857984228), ('1.0:1.2:1.8:0.0:0.2:', 82.012946797461581), ('1.0:0.0:2.0:0.0:0.2:', 82.014035623495943), ('1.0:1.0:1.8:0.0:0.2:', 82.014676979367778), ('1.0:0.8:1.8:0.0:0.2:', 82.016525552658408), ('1.0:0.6:1.8:0.0:0.2:', 82.018508146607346), ('1.0:2.2:1.6:0.0:0.2:', 82.019859347426788), ('1.0:0.4:1.8:0.0:0.2:', 82.02064349932995), ('1.0:2.0:1.6:0.0:0.2:', 82.021020579625102), ('1.0:1.8:1.6:0.0:0.2:', 82.022240649295512), ('1.0:0.2:1.8:0.0:0.2:', 82.02295428953316), ('1.0:1.6:1.6:0.0:0.2:', 82.023525430184918), ('1.0:1.4:1.6:0.0:0.2:', 82.024881705245434), ('1.0:0.0:1.8:0.0:0.2:', 82.025468253370377), ('1.0:1.2:1.6:0.0:0.2:', 82.026317356981238), ('1.0:1.0:1.6:0.0:0.2:', 82.027841608079981), ('1.0:0.8:1.6:0.0:0.2:', 82.029465329405056), ('1.0:0.6:1.6:0.0:0.2:', 82.031201437118199), ('1.0:0.4:1.6:0.0:0.2:', 82.033065412168952), ('1.0:2.2:1.4:0.0:0.2:', 82.034472924953803), ('1.0:0.2:1.6:0.0:0.2:', 82.035075987795281), ('1.0:2.0:1.4:0.0:0.2:', 82.035491780328925), ('1.0:1.8:1.4:0.0:0.2:', 82.036558751080975), ('1.0:0.0:1.6:0.0:0.2:', 82.037256073734042), ('1.0:1.6:1.4:0.0:0.2:', 82.037678463649627), ('1.0:1.4:1.4:0.0:0.2:', 82.038856252884116), ('1.0:1.2:1.4:0.0:0.2:', 82.040098310389922), ('1.0:1.0:1.4:0.0:0.2:', 82.041411872187254), ('1.0:0.8:1.4:0.0:0.2:', 82.042805458757726), ('1.0:0.6:1.4:0.0:0.2:', 82.044289185125265), ('1.0:0.4:1.4:0.0:0.2:', 82.045875166581737), ('1.0:0.2:1.4:0.0:0.2:', 82.047578055930529), ('1.0:0.0:1.4:0.0:0.2:', 82.049415766449556), ('1.0:2.2:1.2:0.0:0.2:', 82.049534506775714), ('1.0:2.0:1.2:0.0:0.2:', 82.050407898903941), ('1.0:1.8:1.2:0.0:0.2:', 82.051318409726235), ('1.0:1.6:1.2:0.0:0.2:', 82.052269381416707), ('1.0:1.4:1.2:0.0:0.2:', 82.053264657121858), ('1.0:1.2:1.2:0.0:0.2:', 82.054308685527346), ('1.0:1.0:1.2:0.0:0.2:', 82.055406653539777), ('1.0:0.8:1.2:0.0:0.2:', 82.056564655769151), ('1.0:0.6:1.2:0.0:0.2:', 82.057789913859807), ('1.0:0.4:1.2:0.0:0.2:', 82.059091063696798), ('1.0:0.2:1.2:0.0:0.2:', 82.060478535937278), ('1.0:0.0:1.2:0.0:0.2:', 82.061965068534263), ('1.0:2.2:1.0:0.0:0.2:', 82.065064832893867), ('1.0:2.0:1.0:0.0:0.2:', 82.06578959319026), ('1.0:1.8:1.0:0.0:0.2:', 82.066540191121732), ('1.0:1.6:1.0:0.0:0.2:', 82.067318646188468), ('1.0:1.4:1.0:0.0:0.2:', 82.068127264250123), ('1.0:1.2:1.0:0.0:0.2:', 82.068968696841239), ('1.0:1.0:1.0:0.0:0.2:', 82.069846016439456), ('1.0:0.8:1.0:0.0:0.2:', 82.070762812703535), ('1.0:0.6:1.0:0.0:0.2:', 82.071723317251667), ('1.0:0.4:1.0:0.0:0.2:', 82.072732567249304), ('1.0:0.2:1.0:0.0:0.2:', 82.073796622210324), ('1.0:0.0:1.0:0.0:0.2:', 82.074922856616183), ('1.0:2.2:0.8:0.0:0.2:', 82.08108593425176), ('1.0:2.0:0.8:0.0:0.2:', 82.081658810686818), ('1.0:1.8:0.8:0.0:0.2:', 82.082245949279439), ('1.0:1.6:0.8:0.0:0.2:', 82.082848006766852), ('1.0:1.4:0.8:0.0:0.2:', 82.083465704146903), ('1.0:1.2:0.8:0.0:0.2:', 82.084099839060443), ('1.0:1.0:0.8:0.0:0.2:', 82.084751301241013), ('1.0:0.8:0.8:0.0:0.2:', 82.085421092631378), ('1.0:0.6:0.8:0.0:0.2:', 82.086110353482425), ('1.0:0.4:0.8:0.0:0.2:', 82.086820396869854), ('1.0:0.2:0.8:0.0:0.2:', 82.087552754637485), ('1.0:0.0:0.8:0.0:0.2:', 82.088309239615228), ('1.0:2.2:2.2:0.0:0.0:', 82.091303484498852), ('1.0:2.0:2.2:0.0:0.0:', 82.092898518561256), ('1.0:1.8:2.2:0.0:0.0:', 82.094584719863761), ('1.0:1.6:2.2:0.0:0.0:', 82.096371695923651), ('1.0:2.2:0.6:0.0:0.2:', 82.097621234184061), ('1.0:2.0:0.6:0.0:0.2:', 82.098038890330329), ('1.0:1.4:2.2:0.0:0.0:', 82.098270559822353), ('1.0:1.8:0.6:0.0:0.2:', 82.098458928302151), ('1.0:1.6:0.6:0.0:0.2:', 82.098880600133867), ('1.0:1.4:0.6:0.0:0.2:', 82.099302992415232), ('1.0:1.2:0.6:0.0:0.2:', 82.099724989452952), ('1.0:1.0:0.6:0.0:0.2:', 82.100145226841533), ('1.0:1.2:2.2:0.0:0.0:', 82.10029424439719), ('1.0:0.8:0.6:0.0:0.2:', 82.100562032040926), ('1.0:0.6:0.6:0.0:0.2:', 82.100973347514909), ('1.0:0.4:0.6:0.0:0.2:', 82.101376630689231), ('1.0:0.2:0.6:0.0:0.2:', 82.101768720891627), ('1.0:0.0:0.6:0.0:0.2:', 82.102145660482179), ('1.0:1.0:2.2:0.0:0.0:', 82.102457899287685), ('1.0:0.8:2.2:0.0:0.0:', 82.104779396991006), ('1.0:2.2:2.0:0.0:0.0:', 82.105193877828754), ('1.0:2.0:2.0:0.0:0.0:', 82.10665184318097), ('1.0:0.6:2.2:0.0:0.0:', 82.107279985146192), ('1.0:1.8:2.0:0.0:0.0:', 82.108190774040608), ('1.0:1.6:2.0:0.0:0.0:', 82.109819104588823), ('1.0:0.4:2.2:0.0:0.0:', 82.109985136790073), ('1.0:1.4:2.0:0.0:0.0:', 82.111546588155178), ('1.0:0.2:2.2:0.0:0.0:', 82.112925672697301), ('1.0:1.2:2.0:0.0:0.0:', 82.113384572619523), ('1.0:1.0:2.0:0.0:0.0:', 82.115346348804181), ('1.0:0.0:2.2:0.0:0.0:', 82.116139264087252), ('1.0:0.0:0.4:0.0:0.2:', 82.116455008278834), ('1.0:0.2:0.4:0.0:0.2:', 82.116467768823767), ('1.0:0.8:2.0:0.0:0.0:', 82.117447595066139), ('1.0:2.2:1.8:0.0:0.0:', 82.11949169048232), ('1.0:0.6:2.0:0.0:0.0:', 82.119706949915837), ('1.0:2.0:1.8:0.0:0.0:', 82.120809641707837), ('1.0:0.4:2.0:0.0:0.0:', 82.122146759600369), ('1.0:1.8:1.8:0.0:0.0:', 82.122198101266122), ('1.0:1.6:1.8:0.0:0.0:', 82.123664296561287), ('1.0:0.2:2.0:0.0:0.0:', 82.124794065125727), ('1.0:1.4:1.8:0.0:0.0:', 82.125216581380556), ('1.0:1.2:1.8:0.0:0.0:', 82.126864671587498), ('1.0:0.0:2.0:0.0:0.0:', 82.127681924718928), ('1.0:1.0:1.8:0.0:0.0:', 82.128619942964974), ('1.0:0.8:1.8:0.0:0.0:', 82.130495811602785), ('1.0:0.0:0.2:0.0:0.2:', 82.131261741670414), ('1.0:0.2:0.2:0.0:0.2:', 82.131674730373888), ('1.0:0.6:1.8:0.0:0.0:', 82.1325082243563), ('1.0:2.2:1.6:0.0:0.0:', 82.134214962570496), ('1.0:0.4:1.8:0.0:0.0:', 82.134676299205267), ('1.0:2.0:1.6:0.0:0.0:', 82.135389872793581), ('1.0:1.8:1.6:0.0:0.0:', 82.136624569790399), ('1.0:0.2:1.8:0.0:0.0:', 82.137023171432489), ('1.0:1.6:1.6:0.0:0.0:', 82.137925039143141), ('1.0:1.4:1.6:0.0:0.0:', 82.139298193844823), ('1.0:0.0:1.8:0.0:0.0:', 82.139577128095283), ('1.0:1.2:1.6:0.0:0.0:', 82.140752068648823), ('1.0:1.0:1.6:0.0:0.0:', 82.142296065416303), ('1.0:0.8:1.6:0.0:0.0:', 82.143941266988634), ('1.0:0.6:1.6:0.0:0.0:', 82.145700842071889), ('1.0:0.0:0.0:0.0:0.2:', 82.146592025304216), ('1.0:0.2:0.0:0.0:0.2:', 82.147416158096135), ('1.0:0.4:1.6:0.0:0.0:', 82.147590574048607), ('1.0:2.2:1.4:0.0:0.0:', 82.149382807883299), ('1.0:0.2:1.6:0.0:0.0:', 82.149629560303012), ('1.0:2.0:1.4:0.0:0.0:', 82.150411566853066), ('1.0:1.8:1.4:0.0:0.0:', 82.151489117303328), ('1.0:0.0:1.6:0.0:0.0:', 82.151841150795676), ('1.0:1.6:1.4:0.0:0.0:', 82.152620166533765), ('1.0:1.4:1.4:0.0:0.0:', 82.153810143735569), ('1.0:1.2:1.4:0.0:0.0:', 82.15506535109445), ('1.0:1.0:1.4:0.0:0.0:', 82.156393155174811), ('1.0:0.8:1.4:0.0:0.0:', 82.157802231352562), ('1.0:0.6:1.4:0.0:0.0:', 82.159302879589049), ('1.0:0.4:1.4:0.0:0.0:', 82.160907437172042), ('1.0:0.2:1.4:0.0:0.0:', 82.162630825039415), ('1.0:0.0:1.4:0.0:0.0:', 82.164491281310461), ('1.0:2.2:1.2:0.0:0.0:', 82.165015494265489), ('1.0:2.0:1.2:0.0:0.0:', 82.165894906745521), ('1.0:2.2:2.2:0.2:0.2:', 82.166195397528526), ('1.0:1.8:1.2:0.0:0.0:', 82.166811831916817), ('1.0:1.6:1.2:0.0:0.0:', 82.167769660816418), ('1.0:2.0:2.2:0.2:0.2:', 82.167940440176793), ('1.0:1.4:1.2:0.0:0.0:', 82.168772293750038), ('1.0:1.8:2.2:0.2:0.2:', 82.169785067877328), ('1.0:1.2:1.2:0.0:0.0:', 82.169824247010865), ('1.0:1.0:1.2:0.0:0.0:', 82.170930787509661), ('1.0:1.6:2.2:0.2:0.2:', 82.171739753185193), ('1.0:0.8:1.2:0.0:0.0:', 82.172098105417675), ('1.0:0.6:1.2:0.0:0.0:', 82.173333537100305), ('1.0:1.4:2.2:0.2:0.2:', 82.173816607507604), ('1.0:0.4:1.2:0.0:0.0:', 82.174645856877078), ('1.0:1.2:2.2:0.2:0.2:', 82.176029722735777), ('1.0:0.2:1.2:0.0:0.0:', 82.176045663471015), ('1.0:0.0:1.2:0.0:0.0:', 82.177545899717316), ('1.0:1.0:2.2:0.2:0.2:', 82.17839560322416), ('1.0:2.2:2.0:0.2:0.2:', 82.180456522808882), ('1.0:0.8:2.2:0.2:0.2:', 82.180933716561967), ('1.0:2.2:1.0:0.0:0.0:', 82.18113453180797), ('1.0:2.0:1.0:0.0:0.0:', 82.181861315900733), ('1.0:2.0:2.0:0.2:0.2:', 82.182053383553665), ('1.0:1.8:1.0:0.0:0.0:', 82.182614040263616), ('1.0:1.6:1.0:0.0:0.0:', 82.183394739978638), ('1.0:0.6:2.2:0.2:0.2:', 82.183667203343816), ('1.0:1.8:2.0:0.2:0.2:', 82.183738800364878), ('1.0:1.4:1.0:0.0:0.0:', 82.184205739748691), ('1.0:1.2:1.0:0.0:0.0:', 82.185049713813612), ('1.0:1.6:2.0:0.2:0.2:', 82.185521977225378), ('1.0:1.0:1.0:0.0:0.0:', 82.185929762299665), ('1.0:0.4:2.2:0.2:0.2:', 82.18662380332195), ('1.0:0.8:1.0:0.0:0.0:', 82.186849508832296), ('1.0:1.4:2.0:0.2:0.2:', 82.187413555161982), ('1.0:0.6:1.0:0.0:0.0:', 82.187813226693123), ('1.0:0.4:1.0:0.0:0.0:', 82.18882600452261), ('1.0:1.2:2.0:0.2:0.2:', 82.18942591223221), ('1.0:0.2:2.2:0.2:0.2:', 82.189837078493511), ('1.0:0.2:1.0:0.0:0.0:', 82.189893965820033), ('1.0:0.0:1.0:0.0:0.0:', 82.19102456479726), ('1.0:1.0:2.0:0.2:0.2:', 82.191573542648797), ('1.0:0.0:2.2:0.2:0.2:', 82.193348053189155), ('1.0:0.8:2.0:0.2:0.2:', 82.193873540925424), ('1.0:2.2:1.8:0.2:0.2:', 82.195137245600918), ('1.0:0.6:2.0:0.2:0.2:', 82.196346225633533), ('1.0:2.0:1.8:0.2:0.2:', 82.196582713758318), ('1.0:2.2:0.8:0.0:0.0:', 82.197762768756064), ('1.0:1.8:1.8:0.2:0.2:', 82.198105431319433), ('1.0:2.0:0.8:0.0:0.0:', 82.198333554471759), ('1.0:1.8:0.8:0.0:0.0:', 82.198918403874842), ('1.0:0.4:2.0:0.2:0.2:', 82.199015953887965), ('1.0:1.6:0.8:0.0:0.0:', 82.199517954801308), ('1.0:1.6:1.8:0.2:0.2:', 82.19971329732563), ('1.0:1.4:0.8:0.0:0.0:', 82.20013290716652), ('1.0:1.2:0.8:0.0:0.0:', 82.200764034858523), ('1.0:1.0:0.8:0.0:0.0:', 82.201412200884604), ('1.0:1.4:1.8:0.2:0.2:', 82.201415439357859), ('1.0:0.2:2.0:0.2:0.2:', 82.201912197853318), ('1.0:0.8:0.8:0.0:0.0:', 82.202078376971542), ('1.0:0.6:0.8:0.0:0.0:', 82.202763669093116), ('1.0:1.2:1.8:0.2:0.2:', 82.203222470412854), ('1.0:0.4:0.8:0.0:0.0:', 82.203469351276425), ('1.0:0.2:0.8:0.0:0.0:', 82.204196910863587), ('1.0:0.0:0.8:0.0:0.0:', 82.204948109788191), ('1.0:0.0:2.0:0.2:0.2:', 82.205070988674322), ('1.0:1.0:1.8:0.2:0.2:', 82.205146813584435), ('1.0:0.8:1.8:0.2:0.2:', 82.207203116434513), ('1.0:0.6:1.8:0.2:0.2:', 82.209408785894055), ('1.0:2.2:1.6:0.2:0.2:', 82.210256192291595), ('1.0:2.0:1.6:0.2:0.2:', 82.211546966834007), ('1.0:0.4:1.8:0.2:0.2:', 82.211784686382984), ('1.0:1.8:1.6:0.2:0.2:', 82.212903396679607), ('1.0:1.6:1.6:0.2:0.2:', 82.214332037750054), ('1.0:0.2:1.8:0.2:0.2:', 82.214356063387726), ('1.0:2.2:0.6:0.0:0.0:', 82.214924496661183), ('1.0:2.0:0.6:0.0:0.0:', 82.215335824722288), ('1.0:1.8:0.6:0.0:0.0:', 82.215749024764918), ('1.0:1.4:1.6:0.2:0.2:', 82.215840459462981), ('1.0:1.6:0.6:0.0:0.0:', 82.216163294213715), ('1.0:1.4:0.6:0.0:0.0:', 82.216577657031976), ('1.0:1.2:0.6:0.0:0.0:', 82.216990925566137), ('1.0:0.0:1.8:0.2:0.2:', 82.217153783324079), ('1.0:1.0:0.6:0.0:0.0:', 82.217401652072638), ('1.0:1.2:1.6:0.2:0.2:', 82.217437456448025), ('1.0:0.8:0.6:0.0:0.0:', 82.217808067067239), ('1.0:0.6:0.6:0.0:0.0:', 82.218207999670256), ('1.0:0.4:0.6:0.0:0.0:', 82.218598773886001), ('1.0:0.2:0.6:0.0:0.0:', 82.218977071366297), ('1.0:1.0:1.6:0.2:0.2:', 82.219133316723713), ('1.0:0.0:0.6:0.0:0.0:', 82.21933874726912), ('1.0:0.8:1.6:0.2:0.2:', 82.220940163958744), ('1.0:0.6:1.6:0.2:0.2:', 82.222872399423622), ('1.0:0.4:1.6:0.2:0.2:', 82.224947279452365), ('1.0:2.2:1.4:0.2:0.2:', 82.225833100034137), ('1.0:2.0:1.4:0.2:0.2:', 82.226965787429336), ('1.0:0.2:1.6:0.2:0.2:', 82.227185679540355), ('1.0:1.8:1.4:0.2:0.2:', 82.228152238226542), ('1.0:1.6:1.4:0.2:0.2:', 82.229397625696762), ('1.0:0.0:1.6:0.2:0.2:', 82.229613121007603), ('1.0:1.4:1.4:0.2:0.2:', 82.230707914232696), ('1.0:1.2:1.4:0.2:0.2:', 82.232090024455076), ('1.0:1.0:1.4:0.2:0.2:', 82.233552042586965), ('1.0:0.0:0.4:0.0:0.0:', 82.234220185083245), ('1.0:0.2:0.4:0.0:0.0:', 82.23425853048748), ('1.0:0.8:1.4:0.2:0.2:', 82.235103487676398), ('1.0:0.6:1.4:0.2:0.2:', 82.236755657140606), ('1.0:0.4:1.4:0.2:0.2:', 82.238522078168131), ('1.0:0.2:1.4:0.2:0.2:', 82.24041910572258), ('1.0:2.2:1.2:0.2:0.2:', 82.24188890034975), ('1.0:0.0:1.4:0.2:0.2:', 82.242466726479648), ('1.0:2.0:1.2:0.2:0.2:', 82.242860012426874), ('1.0:1.8:1.2:0.2:0.2:', 82.243872687540716), ('1.0:1.6:1.2:0.2:0.2:', 82.244930675084291), ('1.0:1.4:1.2:0.2:0.2:', 82.246038285450254), ('1.0:1.2:1.2:0.2:0.2:', 82.247200507205662), ('1.0:1.0:1.2:0.2:0.2:', 82.248423154888229), ('1.0:0.0:0.2:0.0:0.0:', 82.249617753570021), ('1.0:0.8:1.2:0.2:0.2:', 82.249713058687306), ('1.0:0.2:0.2:0.0:0.0:', 82.250067009364997), ('1.0:0.6:1.2:0.2:0.2:', 82.251078309026141), ('1.0:0.4:1.2:0.2:0.2:', 82.252528577062307), ('1.0:0.2:1.2:0.2:0.2:', 82.254075539064587), ('1.0:0.0:1.2:0.2:0.2:', 82.2557334476016), ('1.0:2.2:1.0:0.2:0.2:', 82.258445810137616), ('1.0:2.0:1.0:0.2:0.2:', 82.259251762269727), ('1.0:1.8:1.0:0.2:0.2:', 82.260086757395513), ('1.0:1.6:1.0:0.2:0.2:', 82.26095307794229), ('1.0:1.4:1.0:0.2:0.2:', 82.261853329528705), ('1.0:1.2:1.0:0.2:0.2:', 82.262790507662075), ('1.0:1.0:1.0:0.2:0.2:', 82.263768082388495), ('1.0:0.8:1.0:0.2:0.2:', 82.264790106484583), ('1.0:0.0:0.0:0.0:0.0:', 82.265558546391816), ('1.0:0.6:1.0:0.2:0.2:', 82.265861355483636), ('1.0:0.2:0.0:0.0:0.0:', 82.266430008524338), ('1.0:0.4:1.0:0.2:0.2:', 82.266987511155634), ('1.0:0.2:1.0:0.2:0.2:', 82.26817540490957), ('1.0:0.0:1.0:0.2:0.2:', 82.269433345296818), ('1.0:2.2:2.2:0.2:0.0:', 82.274937979247696), ('1.0:2.2:0.8:0.2:0.2:', 82.275527431469541), ('1.0:2.0:0.8:0.2:0.2:', 82.276164540561581), ('1.0:2.0:2.2:0.2:0.0:', 82.276704017655391), ('1.0:1.8:0.8:0.2:0.2:', 82.276817841440845), ('1.0:1.6:0.8:0.2:0.2:', 82.277488104592464), ('1.0:1.4:0.8:0.2:0.2:', 82.278176177500072), ('1.0:1.8:2.2:0.2:0.0:', 82.278571214350521), ('1.0:1.2:0.8:0.2:0.2:', 82.278882999228287), ('1.0:1.0:0.8:0.2:0.2:', 82.279609618822619), ('1.0:0.8:0.8:0.2:0.2:', 82.280357219033093), ('1.0:1.6:2.2:0.2:0.0:', 82.280550227957619), ('1.0:0.6:0.8:0.2:0.2:', 82.281127147212857), ('1.0:0.4:0.8:0.2:0.2:', 82.281920955796451), ('1.0:1.4:2.2:0.2:0.0:', 82.282653386069086), ('1.0:0.2:0.8:0.2:0.2:', 82.282740456303387), ('1.0:0.0:0.8:0.2:0.2:', 82.283587792225148), ('1.0:1.2:2.2:0.2:0.0:', 82.284895033040485), ('1.0:1.0:2.2:0.2:0.0:', 82.28729196983555), ('1.0:2.2:2.0:0.2:0.0:', 82.289736538448636), ('1.0:0.8:2.2:0.2:0.0:', 82.289864014218196), ('1.0:2.0:2.0:0.2:0.0:', 82.291351046343422), ('1.0:0.6:2.2:0.2:0.0:', 82.292634722947412), ('1.0:1.8:2.0:0.2:0.0:', 82.293055444269484), ('1.0:2.2:0.6:0.2:0.2:', 82.293158860350772), ('1.0:2.0:0.6:0.2:0.2:', 82.29362334339045), ('1.0:1.8:0.6:0.2:0.2:', 82.294090823735587), ('1.0:1.6:0.6:0.2:0.2:', 82.294560512955371), ('1.0:1.6:2.0:0.2:0.0:', 82.294859095546869), ('1.0:1.4:0.6:0.2:0.2:', 82.295031444844412), ('1.0:1.2:0.6:0.2:0.2:', 82.295502435453585), ('1.0:0.4:2.2:0.2:0.0:', 82.295632332872941), ('1.0:1.0:0.6:0.2:0.2:', 82.295972032832594), ('1.0:0.8:0.6:0.2:0.2:', 82.296438452672732), ('1.0:1.4:2.0:0.2:0.0:', 82.296772826372589), ('1.0:0.6:0.6:0.2:0.2:', 82.296899495100092), ('1.0:0.4:0.6:0.2:0.2:', 82.297352436039446), ('1.0:0.2:0.6:0.2:0.2:', 82.297793883099047), ('1.0:0.0:0.6:0.2:0.2:', 82.298219581355241), ('1.0:1.2:2.0:0.2:0.0:', 82.298809231366064), ('1.0:0.2:2.2:0.2:0.0:', 82.298891003000563), ('1.0:1.0:2.0:0.2:0.0:', 82.300983059336971), ('1.0:0.0:2.2:0.2:0.0:', 82.302452477260758), ('1.0:0.8:2.0:0.2:0.0:', 82.303311705749252), ('1.0:2.2:1.8:0.2:0.0:', 82.304970335246196), ('1.0:0.6:2.0:0.2:0.0:', 82.305815847173903), ('1.0:2.0:1.8:0.2:0.0:', 82.306430006655006), ('1.0:1.8:1.8:0.2:0.0:', 82.307968014708962), ('1.0:0.4:2.0:0.2:0.0:', 82.308520268830179), ('1.0:1.6:1.8:0.2:0.0:', 82.309592389939553), ('1.0:1.4:1.8:0.2:0.0:', 82.311312413135283), ('1.0:0.2:2.0:0.2:0.0:', 82.311454957553366), ('1.0:1.2:1.8:0.2:0.0:', 82.31313887667163), ('1.0:0.0:0.4:0.2:0.2:', 82.313353045433786), ('1.0:0.0:2.0:0.2:0.0:', 82.314656565454484), ('1.0:1.0:1.8:0.2:0.0:', 82.315084414700948), ('1.0:0.8:1.8:0.2:0.0:', 82.317163924822211), ('1.0:0.6:1.8:0.2:0.0:', 82.319395111532799), ('1.0:2.2:1.6:0.2:0.0:', 82.320658680974475), ('1.0:0.4:1.8:0.2:0.0:', 82.321799195792011), ('1.0:2.0:1.6:0.2:0.0:', 82.321960115757435), ('1.0:1.8:1.6:0.2:0.0:', 82.323328038414033), ('1.0:0.2:1.8:0.2:0.0:', 82.324401852323078), ('1.0:1.6:1.6:0.2:0.0:', 82.324769107707681), ('1.0:1.4:1.6:0.2:0.0:', 82.32629101301535), ('1.0:0.0:1.8:0.2:0.0:', 82.327234466051635), ('1.0:1.2:1.6:0.2:0.0:', 82.32790268985643), ('1.0:0.0:0.2:0.2:0.2:', 82.329014188559071), ('1.0:1.0:1.6:0.2:0.0:', 82.32961459222615), ('1.0:0.8:1.6:0.2:0.0:', 82.331439040882458), ('1.0:0.6:1.6:0.2:0.0:', 82.333390672191214), ('1.0:0.4:1.6:0.2:0.0:', 82.335487024624413), ('1.0:2.2:1.4:0.2:0.0:', 82.33682203797494), ('1.0:0.2:1.6:0.2:0.0:', 82.337749314064126), ('1.0:2.0:1.4:0.2:0.0:', 82.337961739443756), ('1.0:1.8:1.4:0.2:0.0:', 82.339155773919941), ('1.0:0.0:1.6:0.2:0.0:', 82.340203473908332), ('1.0:1.6:1.4:0.2:0.0:', 82.340409387903165), ('1.0:1.4:1.4:0.2:0.0:', 82.341728631332884), ('1.0:1.2:1.4:0.2:0.0:', 82.343120525657142), ('1.0:1.0:1.4:0.2:0.0:', 82.344593276498259), ('1.0:0.0:0.0:0.2:0.2:', 82.345230831636556), ('1.0:0.8:1.4:0.2:0.0:', 82.346156545008967), ('1.0:0.6:1.4:0.2:0.0:', 82.347821798747617), ('1.0:0.4:1.4:0.2:0.0:', 82.349602769841525), ('1.0:0.2:1.4:0.2:0.0:', 82.351516061300828), ('1.0:2.2:1.2:0.2:0.0:', 82.353482106088677), ('1.0:0.0:1.4:0.2:0.0:', 82.353581961006171), ('1.0:2.0:1.2:0.2:0.0:', 82.35445647868417), ('1.0:1.8:1.2:0.2:0.0:', 82.355472712384909), ('1.0:1.6:1.2:0.2:0.0:', 82.356534598857522), ('1.0:1.4:1.2:0.2:0.0:', 82.357646498607295), ('1.0:1.2:1.2:0.2:0.0:', 82.358813459485503), ('1.0:1.0:1.2:0.2:0.0:', 82.360041366977768), ('1.0:0.8:1.2:0.2:0.0:', 82.361337136282941), ('1.0:0.6:1.2:0.2:0.0:', 82.362708960569378), ('1.0:0.4:1.2:0.2:0.0:', 82.364166635577163), ('1.0:0.2:1.2:0.2:0.0:', 82.365721989561706), ('1.0:0.0:1.2:0.2:0.0:', 82.367389460996009), ('1.0:2.2:1.0:0.2:0.0:', 82.370661917038902), ('1.0:2.0:1.0:0.2:0.0:', 82.371467264245581), ('1.0:1.8:1.0:0.2:0.0:', 82.372301671886348), ('1.0:1.6:1.0:0.2:0.0:', 82.373167432730142), ('1.0:1.4:1.0:0.2:0.0:', 82.374067165459394), ('1.0:1.2:1.0:0.2:0.0:', 82.375003881916143), ('1.0:1.0:1.0:0.2:0.0:', 82.375981072707589), ('1.0:0.8:1.0:0.2:0.0:', 82.377002816396441), ('1.0:0.6:1.0:0.2:0.0:', 82.378073921093247), ('1.0:0.4:1.0:0.2:0.0:', 82.379200109609627), ('1.0:0.2:1.0:0.2:0.0:', 82.380388265228731), ('1.0:0.0:1.0:0.2:0.0:', 82.381646762182456), ('1.0:2.2:0.8:0.2:0.0:', 82.388385937649574), ('1.0:2.0:0.8:0.2:0.0:', 82.389018459887765), ('1.0:1.8:0.8:0.2:0.0:', 82.389666901110715), ('1.0:1.6:0.8:0.2:0.0:', 82.390332009099978), ('1.0:1.4:0.8:0.2:0.0:', 82.391014606002187), ('1.0:1.2:0.8:0.2:0.0:', 82.391715602515006), ('1.0:1.0:0.8:0.2:0.0:', 82.392436015910505), ('1.0:0.8:0.8:0.2:0.0:', 82.393176993179438), ('1.0:0.6:0.8:0.2:0.0:', 82.393939841181151), ('1.0:0.4:0.8:0.2:0.0:', 82.394726066363077), ('1.0:0.2:0.8:0.2:0.0:', 82.395537427956512), ('1.0:0.0:0.8:0.2:0.0:', 82.396376009597915), ('1.0:2.2:0.6:0.2:0.0:', 82.406680182596432), ('1.0:2.0:0.6:0.2:0.0:', 82.40713597534554), ('1.0:1.8:0.6:0.2:0.0:', 82.407594192419367), ('1.0:1.6:0.6:0.2:0.0:', 82.408053988285431), ('1.0:1.4:0.6:0.2:0.0:', 82.408514331441893), ('1.0:1.2:0.6:0.2:0.0:', 82.408973963237443), ('1.0:1.0:0.6:0.2:0.0:', 82.409431345551553), ('1.0:0.8:0.6:0.2:0.0:', 82.40988459410805), ('1.0:0.6:0.6:0.2:0.0:', 82.410331392562313), ('1.0:0.4:0.6:0.2:0.0:', 82.410768880168135), ('1.0:0.2:0.6:0.2:0.0:', 82.41119350344249), ('1.0:0.0:0.6:0.2:0.0:', 82.411600816776655), ('1.0:0.0:0.4:0.2:0.0:', 82.427346389150486), ('1.0:0.0:0.2:0.2:0.0:', 82.443639659949739), ('1.0:0.0:0.0:0.2:0.0:', 82.460509440084365), ('1.0:2.2:2.2:0.0:0.4:', 83.080541461166789), ('1.0:2.0:2.2:0.0:0.4:', 83.082063084834601), ('1.0:1.8:2.2:0.0:0.4:', 83.083671074100153), ('1.0:1.6:2.2:0.0:0.4:', 83.085374498869626), ('1.0:1.4:2.2:0.0:0.4:', 83.087183849143571), ('1.0:1.2:2.2:0.0:0.4:', 83.089111331699627), ('1.0:1.0:2.2:0.0:0.4:', 83.091171245025848), ('1.0:2.2:2.0:0.0:0.4:', 83.093272334170294), ('1.0:0.8:2.2:0.0:0.4:', 83.093380457850472), ('1.0:2.0:2.0:0.0:0.4:', 83.094665771518834), ('1.0:0.6:2.2:0.0:0.4:', 83.0957590263626), ('1.0:1.8:2.0:0.0:0.4:', 83.096136015596585), ('1.0:1.6:2.0:0.0:0.4:', 83.097691035545296), ('1.0:0.4:2.2:0.0:0.4:', 83.098331000164322), ('1.0:1.4:2.0:0.0:0.4:', 83.099340045438595), ('1.0:1.2:2.0:0.0:0.4:', 83.101093764608549), ('1.0:0.2:2.2:0.0:0.4:', 83.101125488749602), ('1.0:1.0:2.0:0.0:0.4:', 83.102964746606887), ('1.0:0.0:2.2:0.0:0.4:', 83.104178094401206), ('1.0:0.8:2.0:0.0:0.4:', 83.104967799846676), ('1.0:2.2:1.8:0.0:0.4:', 83.106376846583501), ('1.0:0.6:2.0:0.0:0.4:', 83.107120529671604), ('1.0:2.0:1.8:0.0:0.4:', 83.107639385169293), ('1.0:1.8:1.8:0.0:0.4:', 83.108968935084306), ('1.0:0.4:2.0:0.0:0.4:', 83.109444047321446), ('1.0:1.6:1.8:0.0:0.4:', 83.110372333653146), ('1.0:1.4:1.8:0.0:0.4:', 83.111857482142781), ('1.0:0.2:2.0:0.0:0.4:', 83.111963907851774), ('1.0:1.2:1.8:0.0:0.4:', 83.113433568486144), ('1.0:0.0:2.0:0.0:0.4:', 83.114711371746793), ('1.0:1.0:1.8:0.0:0.4:', 83.115111349068982), ('1.0:0.8:1.8:0.0:0.4:', 83.116903508587157), ('1.0:0.6:1.8:0.0:0.4:', 83.118825124605848), ('1.0:2.2:1.6:0.0:0.4:', 83.119871556706599), ('1.0:0.4:1.8:0.0:0.4:', 83.120894275216756), ('1.0:2.0:1.6:0.0:0.4:', 83.121000411224259), ('1.0:1.8:1.6:0.0:0.4:', 83.122186237125348), ('1.0:0.2:1.8:0.0:0.4:', 83.123132843504536), ('1.0:1.6:1.6:0.0:0.4:', 83.123434707347613), ('1.0:1.4:1.6:0.0:0.4:', 83.124752371941099), ('1.0:0.0:1.8:0.0:0.4:', 83.125567600256431), ('1.0:1.2:1.6:0.0:0.4:', 83.12614684184804), ('1.0:1.0:1.6:0.0:0.4:', 83.12762702153006), ('1.0:0.8:1.6:0.0:0.4:', 83.129203405805427), ('1.0:0.6:1.6:0.0:0.4:', 83.130888463990814), ('1.0:0.4:1.6:0.0:0.4:', 83.132697141868761), ('1.0:2.2:1.4:0.0:0.4:', 83.133774009289155), ('1.0:0.2:1.6:0.0:0.4:', 83.134647527206567), ('1.0:2.0:1.4:0.0:0.4:', 83.134766320192512), ('1.0:1.8:1.4:0.0:0.4:', 83.135805309484226), ('1.0:0.0:1.6:0.0:0.4:', 83.136761745835514), ('1.0:1.6:1.4:0.0:0.4:', 83.136895451798352), ('1.0:1.4:1.4:0.0:0.4:', 83.138041905992864), ('1.0:1.2:1.4:0.0:0.4:', 83.139250658456561), ('1.0:1.0:1.4:0.0:0.4:', 83.140528704417321), ('1.0:0.8:1.4:0.0:0.4:', 83.141884279888373), ('1.0:0.6:1.4:0.0:0.4:', 83.143327161528731), ('1.0:0.4:1.4:0.0:0.4:', 83.144869058915944), ('1.0:0.2:1.4:0.0:0.4:', 83.146524135243553), ('1.0:2.2:1.2:0.0:0.4:', 83.148102809481728), ('1.0:0.0:1.4:0.0:0.4:', 83.148309708239182), ('1.0:2.0:1.2:0.0:0.4:', 83.148955641703381), ('1.0:1.8:1.2:0.0:0.4:', 83.149844597389475), ('1.0:1.6:1.2:0.0:0.4:', 83.150772917669045), ('1.0:1.4:1.2:0.0:0.4:', 83.15174432847401), ('1.0:1.2:1.2:0.0:0.4:', 83.152763141864313), ('1.0:1.0:1.2:0.0:0.4:', 83.153834384230663), ('1.0:0.8:1.2:0.0:0.4:', 83.154963960444192), ('1.0:0.6:1.2:0.0:0.4:', 83.156158866201324), ('1.0:0.4:1.2:0.0:0.4:', 83.157427466146643), ('1.0:0.2:1.2:0.0:0.4:', 83.158779862888309), ('1.0:0.0:1.2:0.0:0.4:', 83.160228394693632), ('1.0:2.2:1.0:0.0:0.4:', 83.162877703967652), ('1.0:2.0:1.0:0.0:0.4:', 83.163588045721355), ('1.0:1.8:1.0:0.0:0.4:', 83.164323684954823), ('1.0:1.6:1.0:0.0:0.4:', 83.165086592522357), ('1.0:1.4:1.0:0.0:0.4:', 83.16587901798529), ('1.0:1.2:1.0:0.0:0.4:', 83.166703547096574), ('1.0:1.0:1.0:0.0:0.4:', 83.167563175046524), ('1.0:0.8:1.0:0.0:0.4:', 83.168461399911379), ('1.0:0.6:1.0:0.0:0.4:', 83.16940234402243), ('1.0:0.4:1.0:0.0:0.4:', 83.170390912684596), ('1.0:0.2:1.0:0.0:0.4:', 83.171433005462362), ('1.0:0.0:1.0:0.0:0.4:', 83.172535800674765), ('1.0:2.2:0.8:0.0:0.4:', 83.178119669177804), ('1.0:2.0:0.8:0.0:0.4:', 83.178684430999866), ('1.0:1.8:0.8:0.0:0.4:', 83.179263383693922), ('1.0:1.6:0.8:0.0:0.4:', 83.179857189670273), ('1.0:1.4:0.8:0.0:0.4:', 83.18046657659842), ('1.0:1.2:0.8:0.0:0.4:', 83.181092349739842), ('1.0:1.0:0.8:0.0:0.4:', 83.181735407809228), ('1.0:0.8:0.8:0.0:0.4:', 83.182396762942105), ('1.0:0.6:0.8:0.0:0.4:', 83.18307756706912), ('1.0:0.4:0.8:0.0:0.4:', 83.183779146394812), ('1.0:0.2:0.8:0.0:0.4:', 83.184503047364373), ('1.0:0.0:0.8:0.0:0.4:', 83.185251098554218), ('1.0:2.2:0.6:0.0:0.4:', 83.19385100805826), ('1.0:2.0:0.6:0.0:0.4:', 83.194267022015211), ('1.0:1.8:0.6:0.0:0.4:', 83.194685829900692), ('1.0:1.6:0.6:0.0:0.4:', 83.195106745572772), ('1.0:1.4:0.6:0.0:0.4:', 83.195528927438417), ('1.0:1.2:0.6:0.0:0.4:', 83.195951343686176), ('1.0:1.0:0.6:0.0:0.4:', 83.196372728216119), ('1.0:0.8:0.6:0.0:0.4:', 83.196791524296998), ('1.0:0.6:0.6:0.0:0.4:', 83.197205811775632), ('1.0:0.4:0.6:0.0:0.4:', 83.19761321178477), ('1.0:0.2:0.6:0.0:0.4:', 83.198010759917892), ('1.0:0.0:0.6:0.0:0.4:', 83.198394734915055), ('1.0:0.0:0.4:0.0:0.4:', 83.211988537906691), ('1.0:0.0:0.2:0.0:0.4:', 83.226055835264518), ('1.0:0.0:0.0:0.0:0.4:', 83.240621584984794)]

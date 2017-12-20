@@ -1,0 +1,100 @@
+tscsdj01
+All LF0 RMSE: 14.029701 in 1146 frames
+tscsdj02
+All LF0 RMSE: 10.889205 in 675 frames
+tscsdj03
+All LF0 RMSE: 12.663665 in 892 frames
+tscsdj04
+All LF0 RMSE: 12.622877 in 1369 frames
+tscsdj05
+All LF0 RMSE: 10.313903 in 860 frames
+tscsdj06
+All LF0 RMSE: 17.955344 in 1396 frames
+tscsdj07
+All LF0 RMSE: 18.211897 in 1489 frames
+tscsdj08
+All LF0 RMSE: 9.424584 in 754 frames
+tscsdj09
+All LF0 RMSE: 13.914462 in 641 frames
+tscsdj10
+All LF0 RMSE: 13.069353 in 1509 frames
+tscsdj11
+All LF0 RMSE: 8.467379 in 666 frames
+tscsdj12
+All LF0 RMSE: 12.605859 in 911 frames
+tscsdj13
+All LF0 RMSE: 18.180875 in 806 frames
+tscsdj14
+All LF0 RMSE: 14.729788 in 2052 frames
+tscsdj15
+All LF0 RMSE: 14.763301 in 1098 frames
+tscsdj16
+All LF0 RMSE: 12.913162 in 1133 frames
+tscsdj17
+All LF0 RMSE: 12.895809 in 1340 frames
+tscsdj18
+All LF0 RMSE: 12.423660 in 1351 frames
+tscsdj19
+All LF0 RMSE: 8.776016 in 681 frames
+tscsdj20
+All LF0 RMSE: 12.411792 in 946 frames
+tscsdj21
+All LF0 RMSE: 15.980327 in 542 frames
+tscsdj22
+All LF0 RMSE: 10.767856 in 1056 frames
+tscsdj23
+All LF0 RMSE: 9.146155 in 1438 frames
+tscsdj24
+All LF0 RMSE: 18.537491 in 1043 frames
+tscsdj25
+All LF0 RMSE: 10.995898 in 857 frames
+tscsdj26
+All LF0 RMSE: 11.748859 in 1090 frames
+tscsdj27
+All LF0 RMSE: 7.773243 in 884 frames
+tscsdj28
+All LF0 RMSE: 7.659873 in 444 frames
+tscsdj29
+All LF0 RMSE: 13.167568 in 1090 frames
+tscsdj30
+All LF0 RMSE: 14.689368 in 1695 frames
+tscsdj31
+All LF0 RMSE: 11.141491 in 1157 frames
+tscsdj32
+All LF0 RMSE: 16.049736 in 615 frames
+tscsdj33
+All LF0 RMSE: 13.226911 in 1349 frames
+tscsdj34
+All LF0 RMSE: 12.055944 in 1064 frames
+tscsdj35
+All LF0 RMSE: 9.617945 in 814 frames
+tscsdj36
+All LF0 RMSE: 11.973339 in 1285 frames
+tscsdj37
+All LF0 RMSE: 24.211736 in 1298 frames
+tscsdj38
+All LF0 RMSE: 12.348548 in 1121 frames
+tscsdj39
+All LF0 RMSE: 14.919237 in 1795 frames
+tscsdj40
+All LF0 RMSE: 6.652871 in 625 frames
+tscsdj41
+All LF0 RMSE: 14.799715 in 1000 frames
+tscsdj42
+All LF0 RMSE: 18.932726 in 741 frames
+tscsdj43
+All LF0 RMSE: 12.484524 in 1838 frames
+tscsdj44
+All LF0 RMSE: 19.732807 in 998 frames
+tscsdj45
+All LF0 RMSE: 20.683170 in 1377 frames
+tscsdj46
+All LF0 RMSE: 19.214632 in 884 frames
+tscsdj47
+All LF0 RMSE: 10.677880 in 777 frames
+tscsdj48
+All LF0 RMSE: 12.452696 in 1132 frames
+tscsdj49
+All LF0 RMSE: 14.384925 in 2150 frames
+tscsdj50
+All LF0 RMSE: 9.338868 in 805 frames

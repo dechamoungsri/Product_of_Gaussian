@@ -1,0 +1,3 @@
+Namespace(block_size='256', endbeta='2.0', num_coeff='3', plot=False, startbeta='0.1', stress_or_unstress='unstress', tone='2', training_size='250', use_partial_coeff=False)
+2017-03-14 05:26:46
+Alpha : Beta :  0.1 1.0

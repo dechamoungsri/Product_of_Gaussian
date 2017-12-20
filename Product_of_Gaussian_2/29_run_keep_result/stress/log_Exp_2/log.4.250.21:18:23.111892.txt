@@ -1,0 +1,41 @@
+Namespace(block_size='256', endbeta='10.0', endgamma='2.0', file_num_end='10', file_num_start='9', mainoutpath='/29_script/Exp_2_stress/', num_coeff='3', plot=True, startbeta='6.0', startgamma='1.9', stress_or_unstress='stress', syllable_predicted_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/05_syllable_level_3_dct_no_zeroth/testrun/out_all/tsc/', tone='4', training_size='250', use_partial_coeff=False, zero_coeff_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/06_zeroth_coeff_run_tree_05/testrun/out_all/tsc/')
+2017-06-06 12:18:23
+Alpha : Beta : Gamma: 1.0 6.0 1.9
+2017-06-06 12:18:24
+Alpha : Beta : Gamma: 1.0 6.2 1.9
+2017-06-06 12:18:25
+Alpha : Beta : Gamma: 1.0 6.4 1.9
+2017-06-06 12:18:26
+Alpha : Beta : Gamma: 1.0 6.6 1.9
+2017-06-06 12:18:28
+Alpha : Beta : Gamma: 1.0 6.8 1.9
+2017-06-06 12:18:29
+Alpha : Beta : Gamma: 1.0 7.0 1.9
+2017-06-06 12:18:30
+Alpha : Beta : Gamma: 1.0 7.2 1.9
+2017-06-06 12:18:31
+Alpha : Beta : Gamma: 1.0 7.4 1.9
+2017-06-06 12:18:32
+Alpha : Beta : Gamma: 1.0 7.6 1.9
+2017-06-06 12:18:33
+Alpha : Beta : Gamma: 1.0 7.8 1.9
+2017-06-06 12:18:34
+Alpha : Beta : Gamma: 1.0 8.0 1.9
+2017-06-06 12:18:35
+Alpha : Beta : Gamma: 1.0 8.2 1.9
+2017-06-06 12:18:36
+Alpha : Beta : Gamma: 1.0 8.4 1.9
+2017-06-06 12:18:38
+Alpha : Beta : Gamma: 1.0 8.6 1.9
+2017-06-06 12:18:39
+Alpha : Beta : Gamma: 1.0 8.8 1.9
+2017-06-06 12:18:40
+Alpha : Beta : Gamma: 1.0 9.0 1.9
+2017-06-06 12:18:41
+Alpha : Beta : Gamma: 1.0 9.2 1.9
+2017-06-06 12:18:42
+Alpha : Beta : Gamma: 1.0 9.4 1.9
+2017-06-06 12:18:43
+Alpha : Beta : Gamma: 1.0 9.6 1.9
+2017-06-06 12:18:44
+Alpha : Beta : Gamma: 1.0 9.8 1.9

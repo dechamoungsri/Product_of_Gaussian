@@ -1,0 +1,16 @@
+All LF0 RMSE: 108.073041 in 56500 frames
+
+Tone 0
+Only stress LF0 RMSE: 82.684444 in 5708 frames
+
+Tone 1
+Only stress LF0 RMSE: 84.974257 in 2674 frames
+
+Tone 2
+Only stress LF0 RMSE: 101.701882 in 3169 frames
+
+Tone 3
+Only stress LF0 RMSE: 104.657358 in 2266 frames
+
+Tone 4
+Only stress LF0 RMSE: 104.641897 in 1819 frames

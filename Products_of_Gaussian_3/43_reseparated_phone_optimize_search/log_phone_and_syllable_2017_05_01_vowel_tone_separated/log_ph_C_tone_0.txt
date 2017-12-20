@@ -1,0 +1,28 @@
+Namespace(end_ph_0='2.0', end_ph_1toN='2.0', end_syl_0='2.0', end_syl_1toN='2.0', mainoutpath='/work/w21/decha/Interspeech_2017/Result_3/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='vowel', plot=False, start_ph_0='0.0', start_ph_1toN='0.0', start_syl_0='0.0', start_syl_1toN='0.0', stress_type='1', tone='0', tone_folder='all', training_size='250')
+[array([ 1.,  0.,  0.,  0.,  0.]), array([ 1.,  2.,  2.,  2.,  2.])]
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 0.0 0.0
+All LF0 RMSE: 102.978578 in 53294 frames
+Only specific case LF0 RMSE: 77.820834 in 2937 frames
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.0 0.0 0.0 0.0
+All LF0 RMSE: 102.986590 in 53294 frames
+Only specific case LF0 RMSE: 77.710173 in 2937 frames
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 0.0 0.0
+All LF0 RMSE: 102.975095 in 53294 frames
+Only specific case LF0 RMSE: 77.750256 in 2937 frames
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 0.0 0.0
+All LF0 RMSE: 102.975095 in 53294 frames
+Only specific case LF0 RMSE: 77.750256 in 2937 frames
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 2.0 0.0 0.0
+All LF0 RMSE: 105.179953 in 53294 frames
+Only specific case LF0 RMSE: 102.399055 in 2937 frames
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.0 0.0 0.0
+All LF0 RMSE: 103.488882 in 53294 frames
+Only specific case LF0 RMSE: 86.705846 in 2937 frames
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 1.0 0.0 0.0

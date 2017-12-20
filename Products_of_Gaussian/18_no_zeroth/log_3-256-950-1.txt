@@ -1,0 +1,16 @@
+Alpha : Beta :  0.1 1.0
+All LF0 RMSE: 100.642391 in 53200 frames
+Only stress LF0 RMSE: 76.053761 in 2492 frames
+Alpha : Beta :  0.3 1.0
+All LF0 RMSE: 100.660715 in 53200 frames
+Only stress LF0 RMSE: 76.794946 in 2492 frames
+Alpha : Beta :  0.5 1.0
+All LF0 RMSE: 100.687720 in 53200 frames
+Only stress LF0 RMSE: 77.698509 in 2492 frames
+Alpha : Beta :  0.7 1.0
+All LF0 RMSE: 100.719208 in 53200 frames
+Only stress LF0 RMSE: 78.662106 in 2492 frames
+Alpha : Beta :  0.9 1.0
+All LF0 RMSE: 100.753091 in 53200 frames
+Only stress LF0 RMSE: 79.639898 in 2492 frames
+Alpha : Beta :  1.1 1.0

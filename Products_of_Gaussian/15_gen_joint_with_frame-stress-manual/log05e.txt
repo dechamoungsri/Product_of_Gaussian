@@ -1,0 +1,1298 @@
+Beta :  0.0
+tscsdj01
+1590 1590
+(1590,)
+nan
+tscsdj02
+991 991
+(991,)
+nan
+tscsdj03
+1273 1273
+(1273,)
+nan
+tscsdj04
+1944 1944
+(1944,)
+nan
+tscsdj05
+1198 1198
+(1198,)
+nan
+tscsdj06
+2095 2095
+(2095,)
+nan
+tscsdj07
+2142 2142
+(2142,)
+nan
+tscsdj08
+1018 1018
+(1018,)
+nan
+tscsdj09
+972 972
+(972,)
+nan
+tscsdj10
+1959 1959
+(1959,)
+nan
+tscsdj11
+970 970
+(970,)
+nan
+tscsdj12
+1391 1391
+(1391,)
+nan
+tscsdj13
+1231 1231
+(1231,)
+nan
+tscsdj14
+2942 2942
+(2942,)
+nan
+tscsdj15
+1475 1475
+(1475,)
+nan
+tscsdj16
+1674 1674
+(1674,)
+nan
+tscsdj17
+1967 1967
+(1967,)
+nan
+tscsdj18
+2058 2058
+(2058,)
+nan
+tscsdj19
+949 949
+(949,)
+nan
+tscsdj20
+1352 1352
+(1352,)
+nan
+tscsdj21
+882 882
+(882,)
+nan
+tscsdj22
+1481 1481
+(1481,)
+nan
+tscsdj23
+2186 2186
+(2186,)
+nan
+tscsdj24
+1520 1520
+(1520,)
+nan
+tscsdj25
+1220 1220
+(1220,)
+nan
+tscsdj26
+1544 1544
+(1544,)
+nan
+tscsdj27
+1237 1237
+(1237,)
+nan
+tscsdj28
+623 623
+(623,)
+nan
+tscsdj29
+1544 1544
+(1544,)
+nan
+tscsdj30
+2464 2464
+(2464,)
+nan
+tscsdj31
+1640 1640
+(1640,)
+nan
+tscsdj32
+912 912
+(912,)
+nan
+tscsdj33
+1939 1939
+(1939,)
+nan
+tscsdj34
+1567 1567
+(1567,)
+nan
+tscsdj35
+1179 1179
+(1179,)
+nan
+tscsdj36
+1843 1843
+(1843,)
+nan
+tscsdj37
+1879 1879
+(1879,)
+nan
+tscsdj38
+1622 1622
+(1622,)
+nan
+tscsdj39
+2435 2435
+(2435,)
+nan
+tscsdj40
+891 891
+(891,)
+nan
+tscsdj41
+1499 1499
+(1499,)
+nan
+tscsdj42
+1127 1127
+(1127,)
+nan
+tscsdj43
+2605 2605
+(2605,)
+nan
+tscsdj44
+1464 1464
+(1464,)
+nan
+tscsdj45
+1909 1909
+(1909,)
+nan
+tscsdj46
+1362 1362
+(1362,)
+nan
+tscsdj47
+1099 1099
+(1099,)
+nan
+tscsdj48
+1656 1656
+(1656,)
+nan
+tscsdj49
+3107 3107
+(3107,)
+nan
+tscsdj50
+1145 1145
+(1145,)
+nan
+Beta :  0.1
+tscsdj01
+1590 1590
+(1590,)
+nan
+tscsdj02
+991 991
+(991,)
+nan
+tscsdj03
+1273 1273
+(1273,)
+nan
+tscsdj04
+1944 1944
+(1944,)
+nan
+tscsdj05
+1198 1198
+(1198,)
+nan
+tscsdj06
+2095 2095
+(2095,)
+nan
+tscsdj07
+2142 2142
+(2142,)
+nan
+tscsdj08
+1018 1018
+(1018,)
+nan
+tscsdj09
+972 972
+(972,)
+nan
+tscsdj10
+1959 1959
+(1959,)
+nan
+tscsdj11
+970 970
+(970,)
+nan
+tscsdj12
+1391 1391
+(1391,)
+nan
+tscsdj13
+1231 1231
+(1231,)
+nan
+tscsdj14
+2942 2942
+(2942,)
+nan
+tscsdj15
+1475 1475
+(1475,)
+nan
+tscsdj16
+1674 1674
+(1674,)
+nan
+tscsdj17
+1967 1967
+(1967,)
+nan
+tscsdj18
+2058 2058
+(2058,)
+nan
+tscsdj19
+949 949
+(949,)
+nan
+tscsdj20
+1352 1352
+(1352,)
+nan
+tscsdj21
+882 882
+(882,)
+nan
+tscsdj22
+1481 1481
+(1481,)
+nan
+tscsdj23
+2186 2186
+(2186,)
+nan
+tscsdj24
+1520 1520
+(1520,)
+nan
+tscsdj25
+1220 1220
+(1220,)
+nan
+tscsdj26
+1544 1544
+(1544,)
+nan
+tscsdj27
+1237 1237
+(1237,)
+nan
+tscsdj28
+623 623
+(623,)
+nan
+tscsdj29
+1544 1544
+(1544,)
+nan
+tscsdj30
+2464 2464
+(2464,)
+nan
+tscsdj31
+1640 1640
+(1640,)
+nan
+tscsdj32
+912 912
+(912,)
+nan
+tscsdj33
+1939 1939
+(1939,)
+nan
+tscsdj34
+1567 1567
+(1567,)
+nan
+tscsdj35
+1179 1179
+(1179,)
+nan
+tscsdj36
+1843 1843
+(1843,)
+nan
+tscsdj37
+1879 1879
+(1879,)
+nan
+tscsdj38
+1622 1622
+(1622,)
+nan
+tscsdj39
+2435 2435
+(2435,)
+nan
+tscsdj40
+891 891
+(891,)
+nan
+tscsdj41
+1499 1499
+(1499,)
+nan
+tscsdj42
+1127 1127
+(1127,)
+nan
+tscsdj43
+2605 2605
+(2605,)
+nan
+tscsdj44
+1464 1464
+(1464,)
+nan
+tscsdj45
+1909 1909
+(1909,)
+nan
+tscsdj46
+1362 1362
+(1362,)
+nan
+tscsdj47
+1099 1099
+(1099,)
+nan
+tscsdj48
+1656 1656
+(1656,)
+nan
+tscsdj49
+3107 3107
+(3107,)
+nan
+tscsdj50
+1145 1145
+(1145,)
+nan
+Beta :  0.2
+tscsdj01
+1590 1590
+(1590,)
+nan
+tscsdj02
+991 991
+(991,)
+nan
+tscsdj03
+1273 1273
+(1273,)
+nan
+tscsdj04
+1944 1944
+(1944,)
+nan
+tscsdj05
+1198 1198
+(1198,)
+nan
+tscsdj06
+2095 2095
+(2095,)
+nan
+tscsdj07
+2142 2142
+(2142,)
+nan
+tscsdj08
+1018 1018
+(1018,)
+nan
+tscsdj09
+972 972
+(972,)
+nan
+tscsdj10
+1959 1959
+(1959,)
+nan
+tscsdj11
+970 970
+(970,)
+nan
+tscsdj12
+1391 1391
+(1391,)
+nan
+tscsdj13
+1231 1231
+(1231,)
+nan
+tscsdj14
+2942 2942
+(2942,)
+nan
+tscsdj15
+1475 1475
+(1475,)
+nan
+tscsdj16
+1674 1674
+(1674,)
+nan
+tscsdj17
+1967 1967
+(1967,)
+nan
+tscsdj18
+2058 2058
+(2058,)
+nan
+tscsdj19
+949 949
+(949,)
+nan
+tscsdj20
+1352 1352
+(1352,)
+nan
+tscsdj21
+882 882
+(882,)
+nan
+tscsdj22
+1481 1481
+(1481,)
+nan
+tscsdj23
+2186 2186
+(2186,)
+nan
+tscsdj24
+1520 1520
+(1520,)
+nan
+tscsdj25
+1220 1220
+(1220,)
+nan
+tscsdj26
+1544 1544
+(1544,)
+nan
+tscsdj27
+1237 1237
+(1237,)
+nan
+tscsdj28
+623 623
+(623,)
+nan
+tscsdj29
+1544 1544
+(1544,)
+nan
+tscsdj30
+2464 2464
+(2464,)
+nan
+tscsdj31
+1640 1640
+(1640,)
+nan
+tscsdj32
+912 912
+(912,)
+nan
+tscsdj33
+1939 1939
+(1939,)
+nan
+tscsdj34
+1567 1567
+(1567,)
+nan
+tscsdj35
+1179 1179
+(1179,)
+nan
+tscsdj36
+1843 1843
+(1843,)
+nan
+tscsdj37
+1879 1879
+(1879,)
+nan
+tscsdj38
+1622 1622
+(1622,)
+nan
+tscsdj39
+2435 2435
+(2435,)
+nan
+tscsdj40
+891 891
+(891,)
+nan
+tscsdj41
+1499 1499
+(1499,)
+nan
+tscsdj42
+1127 1127
+(1127,)
+nan
+tscsdj43
+2605 2605
+(2605,)
+nan
+tscsdj44
+1464 1464
+(1464,)
+nan
+tscsdj45
+1909 1909
+(1909,)
+nan
+tscsdj46
+1362 1362
+(1362,)
+nan
+tscsdj47
+1099 1099
+(1099,)
+nan
+tscsdj48
+1656 1656
+(1656,)
+nan
+tscsdj49
+3107 3107
+(3107,)
+nan
+tscsdj50
+1145 1145
+(1145,)
+nan
+Beta :  0.3
+tscsdj01
+1590 1590
+(1590,)
+nan
+tscsdj02
+991 991
+(991,)
+nan
+tscsdj03
+1273 1273
+(1273,)
+nan
+tscsdj04
+1944 1944
+(1944,)
+nan
+tscsdj05
+1198 1198
+(1198,)
+nan
+tscsdj06
+2095 2095
+(2095,)
+nan
+tscsdj07
+2142 2142
+(2142,)
+nan
+tscsdj08
+1018 1018
+(1018,)
+nan
+tscsdj09
+972 972
+(972,)
+nan
+tscsdj10
+1959 1959
+(1959,)
+nan
+tscsdj11
+970 970
+(970,)
+nan
+tscsdj12
+1391 1391
+(1391,)
+nan
+tscsdj13
+1231 1231
+(1231,)
+nan
+tscsdj14
+2942 2942
+(2942,)
+nan
+tscsdj15
+1475 1475
+(1475,)
+nan
+tscsdj16
+1674 1674
+(1674,)
+nan
+tscsdj17
+1967 1967
+(1967,)
+nan
+tscsdj18
+2058 2058
+(2058,)
+nan
+tscsdj19
+949 949
+(949,)
+nan
+tscsdj20
+1352 1352
+(1352,)
+nan
+tscsdj21
+882 882
+(882,)
+nan
+tscsdj22
+1481 1481
+(1481,)
+nan
+tscsdj23
+2186 2186
+(2186,)
+nan
+tscsdj24
+1520 1520
+(1520,)
+nan
+tscsdj25
+1220 1220
+(1220,)
+nan
+tscsdj26
+1544 1544
+(1544,)
+nan
+tscsdj27
+1237 1237
+(1237,)
+nan
+tscsdj28
+623 623
+(623,)
+nan
+tscsdj29
+1544 1544
+(1544,)
+nan
+tscsdj30
+2464 2464
+(2464,)
+nan
+tscsdj31
+1640 1640
+(1640,)
+nan
+tscsdj32
+912 912
+(912,)
+nan
+tscsdj33
+1939 1939
+(1939,)
+nan
+tscsdj34
+1567 1567
+(1567,)
+nan
+tscsdj35
+1179 1179
+(1179,)
+nan
+tscsdj36
+1843 1843
+(1843,)
+nan
+tscsdj37
+1879 1879
+(1879,)
+nan
+tscsdj38
+1622 1622
+(1622,)
+nan
+tscsdj39
+2435 2435
+(2435,)
+nan
+tscsdj40
+891 891
+(891,)
+nan
+tscsdj41
+1499 1499
+(1499,)
+nan
+tscsdj42
+1127 1127
+(1127,)
+nan
+tscsdj43
+2605 2605
+(2605,)
+nan
+tscsdj44
+1464 1464
+(1464,)
+nan
+tscsdj45
+1909 1909
+(1909,)
+nan
+tscsdj46
+1362 1362
+(1362,)
+nan
+tscsdj47
+1099 1099
+(1099,)
+nan
+tscsdj48
+1656 1656
+(1656,)
+nan
+tscsdj49
+3107 3107
+(3107,)
+nan
+tscsdj50
+1145 1145
+(1145,)
+nan
+Beta :  0.4
+tscsdj01
+1590 1590
+(1590,)
+nan
+tscsdj02
+991 991
+(991,)
+nan
+tscsdj03
+1273 1273
+(1273,)
+nan
+tscsdj04
+1944 1944
+(1944,)
+nan
+tscsdj05
+1198 1198
+(1198,)
+nan
+tscsdj06
+2095 2095
+(2095,)
+nan
+tscsdj07
+2142 2142
+(2142,)
+nan
+tscsdj08
+1018 1018
+(1018,)
+nan
+tscsdj09
+972 972
+(972,)
+nan
+tscsdj10
+1959 1959
+(1959,)
+nan
+tscsdj11
+970 970
+(970,)
+nan
+tscsdj12
+1391 1391
+(1391,)
+nan
+tscsdj13
+1231 1231
+(1231,)
+nan
+tscsdj14
+2942 2942
+(2942,)
+nan
+tscsdj15
+1475 1475
+(1475,)
+nan
+tscsdj16
+1674 1674
+(1674,)
+nan
+tscsdj17
+1967 1967
+(1967,)
+nan
+tscsdj18
+2058 2058
+(2058,)
+nan
+tscsdj19
+949 949
+(949,)
+nan
+tscsdj20
+1352 1352
+(1352,)
+nan
+tscsdj21
+882 882
+(882,)
+nan
+tscsdj22
+1481 1481
+(1481,)
+nan
+tscsdj23
+2186 2186
+(2186,)
+nan
+tscsdj24
+1520 1520
+(1520,)
+nan
+tscsdj25
+1220 1220
+(1220,)
+nan
+tscsdj26
+1544 1544
+(1544,)
+nan
+tscsdj27
+1237 1237
+(1237,)
+nan
+tscsdj28
+623 623
+(623,)
+nan
+tscsdj29
+1544 1544
+(1544,)
+nan
+tscsdj30
+2464 2464
+(2464,)
+nan
+tscsdj31
+1640 1640
+(1640,)
+nan
+tscsdj32
+912 912
+(912,)
+nan
+tscsdj33
+1939 1939
+(1939,)
+nan
+tscsdj34
+1567 1567
+(1567,)
+nan
+tscsdj35
+1179 1179
+(1179,)
+nan
+tscsdj36
+1843 1843
+(1843,)
+nan
+tscsdj37
+1879 1879
+(1879,)
+nan
+tscsdj38
+1622 1622
+(1622,)
+nan
+tscsdj39
+2435 2435
+(2435,)
+nan
+tscsdj40
+891 891
+(891,)
+nan
+tscsdj41
+1499 1499
+(1499,)
+nan
+tscsdj42
+1127 1127
+(1127,)
+nan
+tscsdj43
+2605 2605
+(2605,)
+nan
+tscsdj44
+1464 1464
+(1464,)
+nan
+tscsdj45
+1909 1909
+(1909,)
+nan
+tscsdj46
+1362 1362
+(1362,)
+nan
+tscsdj47
+1099 1099
+(1099,)
+nan
+tscsdj48
+1656 1656
+(1656,)
+nan
+tscsdj49
+3107 3107
+(3107,)
+nan
+tscsdj50
+1145 1145
+(1145,)
+nan
+Beta :  0.5
+tscsdj01
+1590 1590
+(1590,)
+nan
+tscsdj02
+991 991
+(991,)
+nan
+tscsdj03
+1273 1273
+(1273,)
+nan
+tscsdj04
+1944 1944
+(1944,)
+nan
+tscsdj05
+1198 1198
+(1198,)
+nan
+tscsdj06
+2095 2095
+(2095,)
+nan
+tscsdj07
+2142 2142
+(2142,)
+nan
+tscsdj08
+1018 1018
+(1018,)
+nan
+tscsdj09
+972 972
+(972,)
+nan
+tscsdj10
+1959 1959
+(1959,)
+nan
+tscsdj11
+970 970
+(970,)
+nan
+tscsdj12
+1391 1391
+(1391,)
+nan
+tscsdj13
+1231 1231
+(1231,)
+nan
+tscsdj14
+2942 2942
+(2942,)
+nan
+tscsdj15
+1475 1475
+(1475,)
+nan
+tscsdj16
+1674 1674
+(1674,)
+nan
+tscsdj17
+1967 1967
+(1967,)
+nan
+tscsdj18
+2058 2058
+(2058,)
+nan
+tscsdj19
+949 949
+(949,)
+nan
+tscsdj20
+1352 1352
+(1352,)
+nan
+tscsdj21
+882 882
+(882,)
+nan
+tscsdj22
+1481 1481
+(1481,)
+nan
+tscsdj23
+2186 2186
+(2186,)
+nan
+tscsdj24
+1520 1520
+(1520,)
+nan
+tscsdj25
+1220 1220
+(1220,)
+nan
+tscsdj26
+1544 1544
+(1544,)
+nan
+tscsdj27
+1237 1237
+(1237,)
+nan
+tscsdj28
+623 623
+(623,)
+nan
+tscsdj29
+1544 1544
+(1544,)
+nan
+tscsdj30
+2464 2464
+(2464,)
+nan
+tscsdj31
+1640 1640
+(1640,)
+nan
+tscsdj32
+912 912
+(912,)
+nan
+tscsdj33
+1939 1939
+(1939,)
+nan
+tscsdj34
+1567 1567
+(1567,)
+nan
+tscsdj35
+1179 1179
+(1179,)
+nan
+tscsdj36
+1843 1843
+(1843,)
+nan
+tscsdj37
+1879 1879
+(1879,)
+nan
+tscsdj38
+1622 1622
+(1622,)
+nan
+tscsdj39
+2435 2435
+(2435,)
+nan
+tscsdj40
+891 891
+(891,)
+nan
+tscsdj41
+1499 1499
+(1499,)
+nan
+tscsdj42
+1127 1127
+(1127,)
+nan
+tscsdj43
+2605 2605
+(2605,)
+nan
+tscsdj44
+1464 1464
+(1464,)
+nan
+tscsdj45
+1909 1909
+(1909,)
+nan
+tscsdj46
+1362 1362
+(1362,)
+nan
+tscsdj47
+1099 1099
+(1099,)
+nan
+tscsdj48
+1656 1656
+(1656,)
+nan
+tscsdj49
+3107 3107
+(3107,)
+nan
+tscsdj50
+1145 1145
+(1145,)
+nan
+Beta :  0.6
+tscsdj01
+1590 1590
+(1590,)
+nan
+tscsdj02
+991 991
+(991,)
+nan
+tscsdj03
+1273 1273
+(1273,)
+nan
+tscsdj04
+1944 1944
+(1944,)
+nan
+tscsdj05
+1198 1198
+(1198,)
+nan
+tscsdj06
+2095 2095
+(2095,)
+nan
+tscsdj07
+2142 2142
+(2142,)
+nan
+tscsdj08
+1018 1018
+(1018,)
+nan
+tscsdj09
+972 972
+(972,)
+nan
+tscsdj10
+1959 1959
+(1959,)
+nan
+tscsdj11
+970 970
+(970,)
+nan
+tscsdj12
+1391 1391
+(1391,)
+nan
+tscsdj13
+1231 1231
+(1231,)
+nan
+tscsdj14
+2942 2942
+(2942,)
+nan
+tscsdj15
+1475 1475
+(1475,)
+nan
+tscsdj16
+1674 1674
+(1674,)
+nan
+tscsdj17
+1967 1967
+(1967,)
+nan
+tscsdj18
+2058 2058
+(2058,)
+nan
+tscsdj19
+949 949
+(949,)
+nan
+tscsdj20
+1352 1352
+(1352,)
+nan
+tscsdj21
+882 882
+(882,)
+nan
+tscsdj22
+1481 1481
+(1481,)
+nan
+tscsdj23
+2186 2186
+(2186,)

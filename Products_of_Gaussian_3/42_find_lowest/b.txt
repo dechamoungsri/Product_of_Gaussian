@@ -1,0 +1,20 @@
+Tone 0
+Alpha : const_ph_1toN: const_ph_0: const_syl_1toN : const_syl_0:
+['1.0', '0.3', '0.0', '1.9', '0.0\n']
+Only specific case LF0 RMSE: 79.464925 in 5569 frames
+
+Tone 1
+Alpha : const_ph_1toN: const_ph_0: const_syl_1toN : const_syl_0:
+['1.0', '0.3', '1.4', '0.3', '0.0\n']
+Only specific case LF0 RMSE: 77.854511 in 2496 frames
+
+Tone 2
+Alpha : const_ph_1toN: const_ph_0: const_syl_1toN : const_syl_0:
+['1.0', '0.1', '0.0', '1.1', '0.0\n']
+Only specific case LF0 RMSE: 96.367680 in 3063 frames
+
+Tone 3
+Alpha : const_ph_1toN: const_ph_0: const_syl_1toN : const_syl_0:
+['1.0', '0.1', '0.0', '1.1', '0.2\n']
+Only specific case LF0 RMSE: 103.469932 in 2203 frames
+

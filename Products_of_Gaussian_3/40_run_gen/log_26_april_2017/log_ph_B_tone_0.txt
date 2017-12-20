@@ -1,0 +1,3 @@
+Namespace(end_ph_0='2.0', end_ph_1toN='2.0', end_syl_0='2.0', end_syl_1toN='2.0', mainoutpath='/work/w21/decha/Interspeech_2017/Result_2/', method_name='Stress_Method_B_phone_syllable', plot=False, start_ph_0='0.0', start_ph_1toN='0.1', start_syl_0='0.0', start_syl_1toN='0.1', stress_type='1', tone='0', tone_folder='all', training_size='250')
+2017-04-26 08:47:03
+Alpha : const_ph_1toN: const_ph_0: const_syl_1toN : const_syl_0: 1.0 (0.10000000000000001, 0.0, 0.10000000000000001, 0.0)

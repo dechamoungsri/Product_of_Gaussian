@@ -1,0 +1,4 @@
+#!/bin/tcsh
+
+run_C_vowel_phone_syllable_separated_tone_0.sh
+run_C_vowel_phone_syllable_separated_tone_1.sh

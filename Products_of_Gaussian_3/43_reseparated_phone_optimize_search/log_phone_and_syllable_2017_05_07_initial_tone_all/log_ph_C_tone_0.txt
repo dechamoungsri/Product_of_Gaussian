@@ -1,0 +1,110 @@
+Namespace(end_ph_0='0.0', end_ph_1toN='0.0', end_syl_0='0.0', end_syl_1toN='6.0', increment='0.2', mainoutpath='/work/w21/decha/Interspeech_2017/Result_3/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='initial', plot=False, start_ph_0='0.0', start_ph_1toN='0.0', start_syl_0='0.0', start_syl_1toN='2.0', stress_type='1', tone='0', tone_folder='all', training_size='250')
+[array([ 1.,  0.,  0.,  2.,  0.])]
+2017-05-07 13:29:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 2.0 0.0
+All LF0 RMSE: 102.854902 in 53294 frames
+Only specific case LF0 RMSE: 84.425506 in 493 frames
+2017-05-07 13:30:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 2.2 0.0
+All LF0 RMSE: 102.852180 in 53294 frames
+Only specific case LF0 RMSE: 84.393250 in 493 frames
+2017-05-07 13:30:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 2.4 0.0
+All LF0 RMSE: 102.850465 in 53294 frames
+Only specific case LF0 RMSE: 84.362395 in 493 frames
+2017-05-07 13:30:18
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 2.6 0.0
+All LF0 RMSE: 102.849652 in 53294 frames
+Only specific case LF0 RMSE: 84.332852 in 493 frames
+2017-05-07 13:30:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 2.8 0.0
+All LF0 RMSE: 102.849644 in 53294 frames
+Only specific case LF0 RMSE: 84.304539 in 493 frames
+2017-05-07 13:30:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 3.0 0.0
+All LF0 RMSE: 102.850358 in 53294 frames
+Only specific case LF0 RMSE: 84.277380 in 493 frames
+2017-05-07 13:30:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 3.2 0.0
+All LF0 RMSE: 102.851720 in 53294 frames
+Only specific case LF0 RMSE: 84.251306 in 493 frames
+2017-05-07 13:30:51
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 3.4 0.0
+All LF0 RMSE: 102.853665 in 53294 frames
+Only specific case LF0 RMSE: 84.226254 in 493 frames
+2017-05-07 13:30:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 3.6 0.0
+All LF0 RMSE: 102.856133 in 53294 frames
+Only specific case LF0 RMSE: 84.202164 in 493 frames
+2017-05-07 13:31:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 3.8 0.0
+All LF0 RMSE: 102.859071 in 53294 frames
+Only specific case LF0 RMSE: 84.178982 in 493 frames
+2017-05-07 13:31:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 4.0 0.0
+All LF0 RMSE: 102.862434 in 53294 frames
+Only specific case LF0 RMSE: 84.156658 in 493 frames
+2017-05-07 13:31:24
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 4.2 0.0
+All LF0 RMSE: 102.866177 in 53294 frames
+Only specific case LF0 RMSE: 84.135146 in 493 frames
+2017-05-07 13:31:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 4.4 0.0
+All LF0 RMSE: 102.870264 in 53294 frames
+Only specific case LF0 RMSE: 84.114402 in 493 frames
+2017-05-07 13:31:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 4.6 0.0
+All LF0 RMSE: 102.874659 in 53294 frames
+Only specific case LF0 RMSE: 84.094386 in 493 frames
+2017-05-07 13:31:49
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 4.8 0.0
+All LF0 RMSE: 102.879331 in 53294 frames
+Only specific case LF0 RMSE: 84.075060 in 493 frames
+2017-05-07 13:31:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 5.0 0.0
+All LF0 RMSE: 102.884253 in 53294 frames
+Only specific case LF0 RMSE: 84.056391 in 493 frames
+2017-05-07 13:32:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 5.2 0.0
+All LF0 RMSE: 102.889399 in 53294 frames
+Only specific case LF0 RMSE: 84.038345 in 493 frames
+2017-05-07 13:32:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 5.4 0.0
+All LF0 RMSE: 102.894744 in 53294 frames
+Only specific case LF0 RMSE: 84.020892 in 493 frames
+2017-05-07 13:32:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 5.6 0.0
+All LF0 RMSE: 102.900270 in 53294 frames
+Only specific case LF0 RMSE: 84.004003 in 493 frames
+2017-05-07 13:32:30
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 5.8 0.0
+All LF0 RMSE: 102.905954 in 53294 frames
+Only specific case LF0 RMSE: 83.987652 in 493 frames
+2017-05-07 13:32:38
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 6.0 0.0
+All LF0 RMSE: 102.911782 in 53294 frames
+Only specific case LF0 RMSE: 83.971814 in 493 frames
+{'1.0:0.0:0.0:3.2:0.0:': 84.251306404327977, '1.0:0.0:0.0:4.6:0.0:': 84.09438567877703, '1.0:0.0:0.0:5.6:0.0:': 84.004003224417971, '1.0:0.0:0.0:3.8:0.0:': 84.1789817645639, '1.0:0.0:0.0:2.6:0.0:': 84.332852402274284, '1.0:0.0:0.0:2.8:0.0:': 84.304539270767748, '1.0:0.0:0.0:5.2:0.0:': 84.038345089225757, '1.0:0.0:0.0:2.2:0.0:': 84.393249526457097, '1.0:0.0:0.0:5.0:0.0:': 84.056391129397269, '1.0:0.0:0.0:2.4:0.0:': 84.362395087554688, '1.0:0.0:0.0:3.0:0.0:': 84.277380343280754, '1.0:0.0:0.0:4.8:0.0:': 84.075060477877344, '1.0:0.0:0.0:2.0:0.0:': 84.425505590936993, '1.0:0.0:0.0:3.4:0.0:': 84.22625374691188, '1.0:0.0:0.0:3.6:0.0:': 84.202163623823253, '1.0:0.0:0.0:4.0:0.0:': 84.156657948944456, '1.0:0.0:0.0:5.4:0.0:': 84.020891941284788, '1.0:0.0:0.0:5.8:0.0:': 83.987652276239317, '1.0:0.0:0.0:6.0:0.0:': 83.971814091732057, '1.0:0.0:0.0:4.4:0.0:': 84.114401596528666, '1.0:0.0:0.0:4.2:0.0:': 84.135145629595328}
+-------------------------
+[('1.0:0.0:0.0:6.0:0.0:', 83.971814091732057), ('1.0:0.0:0.0:5.8:0.0:', 83.987652276239317), ('1.0:0.0:0.0:5.6:0.0:', 84.004003224417971), ('1.0:0.0:0.0:5.4:0.0:', 84.020891941284788), ('1.0:0.0:0.0:5.2:0.0:', 84.038345089225757), ('1.0:0.0:0.0:5.0:0.0:', 84.056391129397269), ('1.0:0.0:0.0:4.8:0.0:', 84.075060477877344), ('1.0:0.0:0.0:4.6:0.0:', 84.09438567877703), ('1.0:0.0:0.0:4.4:0.0:', 84.114401596528666), ('1.0:0.0:0.0:4.2:0.0:', 84.135145629595328), ('1.0:0.0:0.0:4.0:0.0:', 84.156657948944456), ('1.0:0.0:0.0:3.8:0.0:', 84.1789817645639), ('1.0:0.0:0.0:3.6:0.0:', 84.202163623823253), ('1.0:0.0:0.0:3.4:0.0:', 84.22625374691188), ('1.0:0.0:0.0:3.2:0.0:', 84.251306404327977), ('1.0:0.0:0.0:3.0:0.0:', 84.277380343280754), ('1.0:0.0:0.0:2.8:0.0:', 84.304539270767748), ('1.0:0.0:0.0:2.6:0.0:', 84.332852402274284), ('1.0:0.0:0.0:2.4:0.0:', 84.362395087554688), ('1.0:0.0:0.0:2.2:0.0:', 84.393249526457097), ('1.0:0.0:0.0:2.0:0.0:', 84.425505590936993)]

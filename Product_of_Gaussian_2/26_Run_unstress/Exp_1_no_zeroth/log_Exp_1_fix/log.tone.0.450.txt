@@ -1,0 +1,5 @@
+Namespace(block_size='256', endbeta='1.4', num_coeff='3', plot=False, startbeta='1.3', stress_or_unstress='unstress', tone='0', training_size='450', use_partial_coeff=True)
+2017-03-14 06:10:15
+Alpha : Beta :  1.3 1.0
+All LF0 RMSE: 100.588326 in 53200 frames
+Only unstress LF0 RMSE: 100.086924 in 16120 frames

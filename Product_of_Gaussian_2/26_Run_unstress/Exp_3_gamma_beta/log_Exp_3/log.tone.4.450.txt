@@ -1,0 +1,165 @@
+Namespace(block_size='256', endbeta='2.0', num_coeff='3', plot=False, startbeta='0.1', stress_or_unstress='unstress', tone='4', training_size='450', use_partial_coeff=False)
+2017-03-14 10:15:25
+Alpha : Beta : Gamma: 1.0 0.1 0.1
+All LF0 RMSE: 100.628275 in 53200 frames
+Only unstress LF0 RMSE: 91.801939 in 3309 frames
+2017-03-14 10:16:40
+Alpha : Beta : Gamma: 1.0 0.1 0.3
+All LF0 RMSE: 100.621985 in 53200 frames
+Only unstress LF0 RMSE: 91.621172 in 3309 frames
+2017-03-14 10:17:53
+Alpha : Beta : Gamma: 1.0 0.1 0.5
+All LF0 RMSE: 100.625199 in 53200 frames
+Only unstress LF0 RMSE: 91.559827 in 3309 frames
+2017-03-14 10:19:08
+Alpha : Beta : Gamma: 1.0 0.1 0.7
+All LF0 RMSE: 100.636555 in 53200 frames
+Only unstress LF0 RMSE: 91.600651 in 3309 frames
+2017-03-14 10:20:24
+Alpha : Beta : Gamma: 1.0 0.3 0.1
+All LF0 RMSE: 100.630261 in 53200 frames
+Only unstress LF0 RMSE: 91.612019 in 3309 frames
+2017-03-14 10:21:40
+Alpha : Beta : Gamma: 1.0 0.3 0.3
+All LF0 RMSE: 100.624414 in 53200 frames
+Only unstress LF0 RMSE: 91.432326 in 3309 frames
+2017-03-14 10:22:56
+Alpha : Beta : Gamma: 1.0 0.3 0.5
+All LF0 RMSE: 100.627969 in 53200 frames
+Only unstress LF0 RMSE: 91.370990 in 3309 frames
+2017-03-14 10:24:14
+Alpha : Beta : Gamma: 1.0 0.3 0.7
+All LF0 RMSE: 100.639581 in 53200 frames
+Only unstress LF0 RMSE: 91.410957 in 3309 frames
+2017-03-14 10:25:31
+Alpha : Beta : Gamma: 1.0 0.5 0.1
+All LF0 RMSE: 100.640466 in 53200 frames
+Only unstress LF0 RMSE: 91.551742 in 3309 frames
+2017-03-14 10:26:48
+Alpha : Beta : Gamma: 1.0 0.5 0.3
+All LF0 RMSE: 100.634922 in 53200 frames
+Only unstress LF0 RMSE: 91.370607 in 3309 frames
+2017-03-14 10:28:04
+Alpha : Beta : Gamma: 1.0 0.5 0.5
+All LF0 RMSE: 100.638697 in 53200 frames
+Only unstress LF0 RMSE: 91.306937 in 3309 frames
+2017-03-14 10:29:21
+Alpha : Beta : Gamma: 1.0 0.5 0.7
+All LF0 RMSE: 100.650457 in 53200 frames
+Only unstress LF0 RMSE: 91.343858 in 3309 frames
+2017-03-14 10:30:38
+Alpha : Beta : Gamma: 1.0 0.7 0.1
+All LF0 RMSE: 100.655840 in 53200 frames
+Only unstress LF0 RMSE: 91.574262 in 3309 frames
+2017-03-14 10:31:56
+Alpha : Beta : Gamma: 1.0 0.7 0.3
+All LF0 RMSE: 100.650507 in 53200 frames
+Only unstress LF0 RMSE: 91.390117 in 3309 frames
+2017-03-14 10:33:12
+Alpha : Beta : Gamma: 1.0 0.7 0.5
+All LF0 RMSE: 100.654420 in 53200 frames
+Only unstress LF0 RMSE: 91.322670 in 3309 frames
+2017-03-14 10:34:28
+Alpha : Beta : Gamma: 1.0 0.7 0.7
+All LF0 RMSE: 100.666259 in 53200 frames
+Only unstress LF0 RMSE: 91.355215 in 3309 frames
+2017-03-14 10:35:45
+Alpha : Beta : Gamma: 1.0 0.9 0.1
+All LF0 RMSE: 100.674703 in 53200 frames
+Only unstress LF0 RMSE: 91.653442 in 3309 frames
+2017-03-14 10:37:03
+Alpha : Beta : Gamma: 1.0 0.9 0.3
+All LF0 RMSE: 100.669514 in 53200 frames
+Only unstress LF0 RMSE: 91.465298 in 3309 frames
+2017-03-14 10:38:20
+Alpha : Beta : Gamma: 1.0 0.9 0.5
+All LF0 RMSE: 100.673510 in 53200 frames
+Only unstress LF0 RMSE: 91.393178 in 3309 frames
+2017-03-14 10:39:37
+Alpha : Beta : Gamma: 1.0 0.9 0.7
+All LF0 RMSE: 100.685380 in 53200 frames
+Only unstress LF0 RMSE: 91.420528 in 3309 frames
+2017-03-14 10:40:54
+Alpha : Beta : Gamma: 1.0 1.1 0.1
+All LF0 RMSE: 100.696042 in 53200 frames
+Only unstress LF0 RMSE: 91.773424 in 3309 frames
+2017-03-14 10:42:10
+Alpha : Beta : Gamma: 1.0 1.1 0.3
+All LF0 RMSE: 100.690951 in 53200 frames
+Only unstress LF0 RMSE: 91.580659 in 3309 frames
+2017-03-14 10:43:27
+Alpha : Beta : Gamma: 1.0 1.1 0.5
+All LF0 RMSE: 100.694989 in 53200 frames
+Only unstress LF0 RMSE: 91.503314 in 3309 frames
+2017-03-14 10:44:44
+Alpha : Beta : Gamma: 1.0 1.1 0.7
+All LF0 RMSE: 100.706855 in 53200 frames
+Only unstress LF0 RMSE: 91.524977 in 3309 frames
+2017-03-14 10:46:01
+Alpha : Beta : Gamma: 1.0 1.3 0.1
+All LF0 RMSE: 100.719202 in 53200 frames
+Only unstress LF0 RMSE: 91.923899 in 3309 frames
+2017-03-14 10:47:18
+Alpha : Beta : Gamma: 1.0 1.3 0.3
+All LF0 RMSE: 100.714173 in 53200 frames
+Only unstress LF0 RMSE: 91.726135 in 3309 frames
+2017-03-14 10:48:34
+Alpha : Beta : Gamma: 1.0 1.3 0.5
+All LF0 RMSE: 100.718224 in 53200 frames
+Only unstress LF0 RMSE: 91.643239 in 3309 frames
+2017-03-14 10:49:51
+Alpha : Beta : Gamma: 1.0 1.3 0.7
+All LF0 RMSE: 100.730063 in 53200 frames
+Only unstress LF0 RMSE: 91.658935 in 3309 frames
+2017-03-14 10:51:08
+Alpha : Beta : Gamma: 1.0 1.5 0.1
+All LF0 RMSE: 100.743733 in 53200 frames
+Only unstress LF0 RMSE: 92.097781 in 3309 frames
+2017-03-14 10:52:24
+Alpha : Beta : Gamma: 1.0 1.5 0.3
+All LF0 RMSE: 100.738739 in 53200 frames
+Only unstress LF0 RMSE: 91.894803 in 3309 frames
+2017-03-14 10:53:41
+Alpha : Beta : Gamma: 1.0 1.5 0.5
+All LF0 RMSE: 100.742781 in 53200 frames
+Only unstress LF0 RMSE: 91.806182 in 3309 frames
+2017-03-14 10:54:58
+Alpha : Beta : Gamma: 1.0 1.5 0.7
+All LF0 RMSE: 100.754574 in 53200 frames
+Only unstress LF0 RMSE: 91.815773 in 3309 frames
+2017-03-14 10:56:15
+Alpha : Beta : Gamma: 1.0 1.7 0.1
+All LF0 RMSE: 100.769310 in 53200 frames
+Only unstress LF0 RMSE: 92.289967 in 3309 frames
+2017-03-14 10:57:32
+Alpha : Beta : Gamma: 1.0 1.7 0.3
+All LF0 RMSE: 100.764331 in 53200 frames
+Only unstress LF0 RMSE: 92.081673 in 3309 frames
+2017-03-14 10:58:49
+Alpha : Beta : Gamma: 1.0 1.7 0.5
+All LF0 RMSE: 100.768348 in 53200 frames
+Only unstress LF0 RMSE: 91.987261 in 3309 frames
+2017-03-14 11:00:06
+Alpha : Beta : Gamma: 1.0 1.7 0.7
+All LF0 RMSE: 100.780082 in 53200 frames
+Only unstress LF0 RMSE: 91.990704 in 3309 frames
+2017-03-14 11:01:22
+Alpha : Beta : Gamma: 1.0 1.9 0.1
+All LF0 RMSE: 100.795692 in 53200 frames
+Only unstress LF0 RMSE: 92.496642 in 3309 frames
+2017-03-14 11:02:39
+Alpha : Beta : Gamma: 1.0 1.9 0.3
+All LF0 RMSE: 100.790712 in 53200 frames
+Only unstress LF0 RMSE: 92.283010 in 3309 frames
+2017-03-14 11:03:56
+Alpha : Beta : Gamma: 1.0 1.9 0.5
+All LF0 RMSE: 100.794691 in 53200 frames
+Only unstress LF0 RMSE: 92.182810 in 3309 frames
+2017-03-14 11:05:13
+Alpha : Beta : Gamma: 1.0 1.9 0.7
+All LF0 RMSE: 100.806356 in 53200 frames
+Only unstress LF0 RMSE: 92.180132 in 3309 frames
+2017-03-14 11:06:29
+Alpha : Beta : Gamma: 1.0 1.9 0.9
+All LF0 RMSE: 100.824620 in 53200 frames
+Only unstress LF0 RMSE: 92.261129 in 3309 frames

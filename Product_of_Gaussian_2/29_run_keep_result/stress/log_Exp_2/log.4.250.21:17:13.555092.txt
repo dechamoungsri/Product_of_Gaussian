@@ -1,0 +1,89 @@
+Namespace(block_size='256', endbeta='10.0', endgamma='2.0', file_num_end='10', file_num_start='9', mainoutpath='/29_script/Exp_2_stress/', num_coeff='3', plot=True, startbeta='6.0', startgamma='0.0', stress_or_unstress='stress', syllable_predicted_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/05_syllable_level_3_dct_no_zeroth/testrun/out_all/tsc/', tone='4', training_size='250', use_partial_coeff=False, zero_coeff_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/06_zeroth_coeff_run_tree_05/testrun/out_all/tsc/')
+2017-06-06 12:17:14
+Alpha : Beta : Gamma: 1.0 6.0 0.0
+2017-06-06 12:17:15
+Alpha : Beta : Gamma: 1.0 6.0 0.2
+2017-06-06 12:17:16
+Alpha : Beta : Gamma: 1.0 6.0 0.4
+2017-06-06 12:17:17
+Alpha : Beta : Gamma: 1.0 6.0 0.6
+2017-06-06 12:17:18
+Alpha : Beta : Gamma: 1.0 6.0 0.8
+2017-06-06 12:17:19
+Alpha : Beta : Gamma: 1.0 6.0 1.0
+2017-06-06 12:17:20
+Alpha : Beta : Gamma: 1.0 6.0 1.2
+2017-06-06 12:17:21
+Alpha : Beta : Gamma: 1.0 6.0 1.4
+2017-06-06 12:17:22
+Alpha : Beta : Gamma: 1.0 6.0 1.6
+2017-06-06 12:17:23
+Alpha : Beta : Gamma: 1.0 6.0 1.8
+2017-06-06 12:17:24
+Alpha : Beta : Gamma: 1.0 6.2 0.0
+2017-06-06 12:17:26
+Alpha : Beta : Gamma: 1.0 6.2 0.2
+2017-06-06 12:17:27
+Alpha : Beta : Gamma: 1.0 6.2 0.4
+2017-06-06 12:17:28
+Alpha : Beta : Gamma: 1.0 6.2 0.6
+2017-06-06 12:17:29
+Alpha : Beta : Gamma: 1.0 6.2 0.8
+2017-06-06 12:17:30
+Alpha : Beta : Gamma: 1.0 6.2 1.0
+2017-06-06 12:17:31
+Alpha : Beta : Gamma: 1.0 6.2 1.2
+2017-06-06 12:17:32
+Alpha : Beta : Gamma: 1.0 6.2 1.4
+2017-06-06 12:17:33
+Alpha : Beta : Gamma: 1.0 6.2 1.6
+2017-06-06 12:17:34
+Alpha : Beta : Gamma: 1.0 6.2 1.8
+2017-06-06 12:17:35
+Alpha : Beta : Gamma: 1.0 6.4 0.0
+2017-06-06 12:17:36
+Alpha : Beta : Gamma: 1.0 6.4 0.2
+2017-06-06 12:17:37
+Alpha : Beta : Gamma: 1.0 6.4 0.4
+2017-06-06 12:17:39
+Alpha : Beta : Gamma: 1.0 6.4 0.6
+2017-06-06 12:17:40
+Alpha : Beta : Gamma: 1.0 6.4 0.8
+2017-06-06 12:17:41
+Alpha : Beta : Gamma: 1.0 6.4 1.0
+2017-06-06 12:17:42
+Alpha : Beta : Gamma: 1.0 6.4 1.2
+2017-06-06 12:17:43
+Alpha : Beta : Gamma: 1.0 6.4 1.4
+2017-06-06 12:17:44
+Alpha : Beta : Gamma: 1.0 6.4 1.6
+2017-06-06 12:17:45
+Alpha : Beta : Gamma: 1.0 6.4 1.8
+2017-06-06 12:17:46
+Alpha : Beta : Gamma: 1.0 6.6 0.0
+2017-06-06 12:17:47
+Alpha : Beta : Gamma: 1.0 6.6 0.2
+2017-06-06 12:17:48
+Alpha : Beta : Gamma: 1.0 6.6 0.4
+2017-06-06 12:17:49
+Alpha : Beta : Gamma: 1.0 6.6 0.6
+2017-06-06 12:17:50
+Alpha : Beta : Gamma: 1.0 6.6 0.8
+2017-06-06 12:17:51
+Alpha : Beta : Gamma: 1.0 6.6 1.0
+2017-06-06 12:17:52
+Alpha : Beta : Gamma: 1.0 6.6 1.2
+2017-06-06 12:17:53
+Alpha : Beta : Gamma: 1.0 6.6 1.4
+2017-06-06 12:17:55
+Alpha : Beta : Gamma: 1.0 6.6 1.6
+2017-06-06 12:17:56
+Alpha : Beta : Gamma: 1.0 6.6 1.8
+2017-06-06 12:17:57
+Alpha : Beta : Gamma: 1.0 6.8 0.0
+2017-06-06 12:17:58
+Alpha : Beta : Gamma: 1.0 6.8 0.2
+2017-06-06 12:17:59
+Alpha : Beta : Gamma: 1.0 6.8 0.4
+2017-06-06 12:18:00
+Alpha : Beta : Gamma: 1.0 6.8 0.6

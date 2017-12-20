@@ -1,0 +1,768 @@
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_0.7/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_0.8/a-i/
+Duration RMSE: 24.506158 in 4608 phones
+Duration RMSE: 41.276052 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_0.9/a-i/
+Duration RMSE: 24.509512 in 4608 phones
+Duration RMSE: 41.295670 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.0/a-i/
+Duration RMSE: 24.513606 in 4608 phones
+Duration RMSE: 41.317745 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.1/a-i/
+Duration RMSE: 24.518028 in 4608 phones
+Duration RMSE: 41.340624 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.2/a-i/
+Duration RMSE: 24.522539 in 4608 phones
+Duration RMSE: 41.363383 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.3/a-i/
+Duration RMSE: 24.527001 in 4608 phones
+Duration RMSE: 41.385515 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.4/a-i/
+Duration RMSE: 24.531336 in 4608 phones
+Duration RMSE: 41.406751 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.5/a-i/
+Duration RMSE: 24.535502 in 4608 phones
+Duration RMSE: 41.426965 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.6/a-i/
+Duration RMSE: 24.539479 in 4608 phones
+Duration RMSE: 41.446114 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.7/a-i/
+Duration RMSE: 24.543259 in 4608 phones
+Duration RMSE: 41.464201 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.8/a-i/
+Duration RMSE: 24.546843 in 4608 phones
+Duration RMSE: 41.481261 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_1.9/a-i/
+Duration RMSE: 24.550236 in 4608 phones
+Duration RMSE: 41.497340 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_2.0/a-i/
+Duration RMSE: 24.553445 in 4608 phones
+Duration RMSE: 41.512494 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_2.1/a-i/
+Duration RMSE: 24.556482 in 4608 phones
+Duration RMSE: 41.526781 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.7_beta_2.2/a-i/
+Duration RMSE: 24.559354 in 4608 phones
+Duration RMSE: 41.540259 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_0.7/a-i/
+Duration RMSE: 24.504820 in 4608 phones
+Duration RMSE: 41.258099 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_0.8/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_0.9/a-i/
+Duration RMSE: 24.505822 in 4608 phones
+Duration RMSE: 41.273900 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.0/a-i/
+Duration RMSE: 24.508582 in 4608 phones
+Duration RMSE: 41.290448 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.1/a-i/
+Duration RMSE: 24.512015 in 4608 phones
+Duration RMSE: 41.309305 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.2/a-i/
+Duration RMSE: 24.515794 in 4608 phones
+Duration RMSE: 41.329154 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.3/a-i/
+Duration RMSE: 24.519718 in 4608 phones
+Duration RMSE: 41.349207 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.4/a-i/
+Duration RMSE: 24.523663 in 4608 phones
+Duration RMSE: 41.368988 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.5/a-i/
+Duration RMSE: 24.527551 in 4608 phones
+Duration RMSE: 41.388222 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.6/a-i/
+Duration RMSE: 24.531336 in 4608 phones
+Duration RMSE: 41.406751 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.7/a-i/
+Duration RMSE: 24.534992 in 4608 phones
+Duration RMSE: 41.424496 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.8/a-i/
+Duration RMSE: 24.538503 in 4608 phones
+Duration RMSE: 41.441427 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_1.9/a-i/
+Duration RMSE: 24.541865 in 4608 phones
+Duration RMSE: 41.457541 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_2.0/a-i/
+Duration RMSE: 24.545075 in 4608 phones
+Duration RMSE: 41.472857 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_2.1/a-i/
+Duration RMSE: 24.548137 in 4608 phones
+Duration RMSE: 41.487402 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.8_beta_2.2/a-i/
+Duration RMSE: 24.551055 in 4608 phones
+Duration RMSE: 41.501213 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_0.7/a-i/
+Duration RMSE: 24.507657 in 4608 phones
+Duration RMSE: 41.264934 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_0.8/a-i/
+Duration RMSE: 24.504614 in 4608 phones
+Duration RMSE: 41.257938 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_0.9/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.0/a-i/
+Duration RMSE: 24.505577 in 4608 phones
+Duration RMSE: 41.272288 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.1/a-i/
+Duration RMSE: 24.507896 in 4608 phones
+Duration RMSE: 41.286511 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.2/a-i/
+Duration RMSE: 24.510820 in 4608 phones
+Duration RMSE: 41.302857 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.3/a-i/
+Duration RMSE: 24.514087 in 4608 phones
+Duration RMSE: 41.320269 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.4/a-i/
+Duration RMSE: 24.517529 in 4608 phones
+Duration RMSE: 41.338075 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.5/a-i/
+Duration RMSE: 24.521035 in 4608 phones
+Duration RMSE: 41.355847 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.6/a-i/
+Duration RMSE: 24.524534 in 4608 phones
+Duration RMSE: 41.373317 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.7/a-i/
+Duration RMSE: 24.527977 in 4608 phones
+Duration RMSE: 41.390317 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.8/a-i/
+Duration RMSE: 24.531336 in 4608 phones
+Duration RMSE: 41.406751 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_1.9/a-i/
+Duration RMSE: 24.534592 in 4608 phones
+Duration RMSE: 41.422565 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_2.0/a-i/
+Duration RMSE: 24.537736 in 4608 phones
+Duration RMSE: 41.437735 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_2.1/a-i/
+Duration RMSE: 24.540761 in 4608 phones
+Duration RMSE: 41.452260 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_0.9_beta_2.2/a-i/
+Duration RMSE: 24.543667 in 4608 phones
+Duration RMSE: 41.466147 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_0.7/a-i/
+Duration RMSE: 24.512283 in 4608 phones
+Duration RMSE: 41.280144 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_0.8/a-i/
+Duration RMSE: 24.506763 in 4608 phones
+Duration RMSE: 41.262362 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_0.9/a-i/
+Duration RMSE: 24.504479 in 4608 phones
+Duration RMSE: 41.257931 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.0/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.1/a-i/
+Duration RMSE: 24.505392 in 4608 phones
+Duration RMSE: 41.271040 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.2/a-i/
+Duration RMSE: 24.507373 in 4608 phones
+Duration RMSE: 41.283454 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.3/a-i/
+Duration RMSE: 24.509897 in 4608 phones
+Duration RMSE: 41.297803 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.4/a-i/
+Duration RMSE: 24.512751 in 4608 phones
+Duration RMSE: 41.313226 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.5/a-i/
+Duration RMSE: 24.515794 in 4608 phones
+Duration RMSE: 41.329154 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.6/a-i/
+Duration RMSE: 24.518929 in 4608 phones
+Duration RMSE: 41.345206 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.7/a-i/
+Duration RMSE: 24.522088 in 4608 phones
+Duration RMSE: 41.361129 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.8/a-i/
+Duration RMSE: 24.525228 in 4608 phones
+Duration RMSE: 41.376758 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_1.9/a-i/
+Duration RMSE: 24.528317 in 4608 phones
+Duration RMSE: 41.391987 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_2.0/a-i/
+Duration RMSE: 24.531336 in 4608 phones
+Duration RMSE: 41.406751 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_2.1/a-i/
+Duration RMSE: 24.534272 in 4608 phones
+Duration RMSE: 41.421012 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.0_beta_2.2/a-i/
+Duration RMSE: 24.537117 in 4608 phones
+Duration RMSE: 41.434753 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_0.7/a-i/
+Duration RMSE: 24.518303 in 4608 phones
+Duration RMSE: 41.301957 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_0.8/a-i/
+Duration RMSE: 24.510366 in 4608 phones
+Duration RMSE: 41.273580 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_0.9/a-i/
+Duration RMSE: 24.506149 in 4608 phones
+Duration RMSE: 41.260742 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.0/a-i/
+Duration RMSE: 24.504388 in 4608 phones
+Duration RMSE: 41.258000 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.1/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.2/a-i/
+Duration RMSE: 24.505249 in 4608 phones
+Duration RMSE: 41.270048 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.3/a-i/
+Duration RMSE: 24.506965 in 4608 phones
+Duration RMSE: 41.281022 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.4/a-i/
+Duration RMSE: 24.509168 in 4608 phones
+Duration RMSE: 41.293753 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.5/a-i/
+Duration RMSE: 24.511685 in 4608 phones
+Duration RMSE: 41.307534 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.6/a-i/
+Duration RMSE: 24.514395 in 4608 phones
+Duration RMSE: 41.321880 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.7/a-i/
+Duration RMSE: 24.517212 in 4608 phones
+Duration RMSE: 41.336453 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.8/a-i/
+Duration RMSE: 24.520078 in 4608 phones
+Duration RMSE: 41.351021 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_1.9/a-i/
+Duration RMSE: 24.522948 in 4608 phones
+Duration RMSE: 41.365426 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_2.0/a-i/
+Duration RMSE: 24.525794 in 4608 phones
+Duration RMSE: 41.379559 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_2.1/a-i/
+Duration RMSE: 24.528595 in 4608 phones
+Duration RMSE: 41.393350 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.1_beta_2.2/a-i/
+Duration RMSE: 24.531336 in 4608 phones
+Duration RMSE: 41.406751 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_0.7/a-i/
+Duration RMSE: 24.525405 in 4608 phones
+Duration RMSE: 41.328953 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_0.8/a-i/
+Duration RMSE: 24.515140 in 4608 phones
+Duration RMSE: 41.290321 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_0.9/a-i/
+Duration RMSE: 24.509022 in 4608 phones
+Duration RMSE: 41.269170 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.0/a-i/
+Duration RMSE: 24.505711 in 4608 phones
+Duration RMSE: 41.259697 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.1/a-i/
+Duration RMSE: 24.504324 in 4608 phones
+Duration RMSE: 41.258108 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.2/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.3/a-i/
+Duration RMSE: 24.505135 in 4608 phones
+Duration RMSE: 41.269242 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.4/a-i/
+Duration RMSE: 24.506640 in 4608 phones
+Duration RMSE: 41.279047 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.5/a-i/
+Duration RMSE: 24.508582 in 4608 phones
+Duration RMSE: 41.290448 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.6/a-i/
+Duration RMSE: 24.510820 in 4608 phones
+Duration RMSE: 41.302857 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.7/a-i/
+Duration RMSE: 24.513249 in 4608 phones
+Duration RMSE: 41.315858 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.8/a-i/
+Duration RMSE: 24.515794 in 4608 phones
+Duration RMSE: 41.329154 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_1.9/a-i/
+Duration RMSE: 24.518403 in 4608 phones
+Duration RMSE: 41.342534 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_2.0/a-i/
+Duration RMSE: 24.521035 in 4608 phones
+Duration RMSE: 41.355847 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_2.1/a-i/
+Duration RMSE: 24.523663 in 4608 phones
+Duration RMSE: 41.368988 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.2_beta_2.2/a-i/
+Duration RMSE: 24.526264 in 4608 phones
+Duration RMSE: 41.381883 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_0.7/a-i/
+Duration RMSE: 24.533339 in 4608 phones
+Duration RMSE: 41.359996 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_0.8/a-i/
+Duration RMSE: 24.520854 in 4608 phones
+Duration RMSE: 41.311539 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_0.9/a-i/
+Duration RMSE: 24.512890 in 4608 phones
+Duration RMSE: 41.282271 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.0/a-i/
+Duration RMSE: 24.508047 in 4608 phones
+Duration RMSE: 41.266111 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.1/a-i/
+Duration RMSE: 24.505390 in 4608 phones
+Duration RMSE: 41.259015 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.2/a-i/
+Duration RMSE: 24.504279 in 4608 phones
+Duration RMSE: 41.258233 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.3/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.4/a-i/
+Duration RMSE: 24.505042 in 4608 phones
+Duration RMSE: 41.268576 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.5/a-i/
+Duration RMSE: 24.506375 in 4608 phones
+Duration RMSE: 41.277418 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.6/a-i/
+Duration RMSE: 24.508103 in 4608 phones
+Duration RMSE: 41.287710 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.7/a-i/
+Duration RMSE: 24.510107 in 4608 phones
+Duration RMSE: 41.298960 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.8/a-i/
+Duration RMSE: 24.512297 in 4608 phones
+Duration RMSE: 41.310809 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_1.9/a-i/
+Duration RMSE: 24.514609 in 4608 phones
+Duration RMSE: 41.322996 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_2.0/a-i/
+Duration RMSE: 24.516993 in 4608 phones
+Duration RMSE: 41.335329 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_2.1/a-i/
+Duration RMSE: 24.519415 in 4608 phones
+Duration RMSE: 41.347669 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.3_beta_2.2/a-i/
+Duration RMSE: 24.521845 in 4608 phones
+Duration RMSE: 41.359913 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_0.7/a-i/
+Duration RMSE: 24.541906 in 4608 phones
+Duration RMSE: 41.394166 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_0.8/a-i/
+Duration RMSE: 24.527319 in 4608 phones
+Duration RMSE: 41.336374 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_0.9/a-i/
+Duration RMSE: 24.517576 in 4608 phones
+Duration RMSE: 41.299254 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.0/a-i/
+Duration RMSE: 24.511235 in 4608 phones
+Duration RMSE: 41.276523 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.1/a-i/
+Duration RMSE: 24.507319 in 4608 phones
+Duration RMSE: 41.263937 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.2/a-i/
+Duration RMSE: 24.505149 in 4608 phones
+Duration RMSE: 41.258568 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.3/a-i/
+Duration RMSE: 24.504246 in 4608 phones
+Duration RMSE: 41.258365 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.4/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.5/a-i/
+Duration RMSE: 24.504966 in 4608 phones
+Duration RMSE: 41.268016 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.6/a-i/
+Duration RMSE: 24.506158 in 4608 phones
+Duration RMSE: 41.276052 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.7/a-i/
+Duration RMSE: 24.507706 in 4608 phones
+Duration RMSE: 41.285409 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.8/a-i/
+Duration RMSE: 24.509512 in 4608 phones
+Duration RMSE: 41.295670 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_1.9/a-i/
+Duration RMSE: 24.511498 in 4608 phones
+Duration RMSE: 41.306526 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_2.0/a-i/
+Duration RMSE: 24.513606 in 4608 phones
+Duration RMSE: 41.317745 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_2.1/a-i/
+Duration RMSE: 24.515794 in 4608 phones
+Duration RMSE: 41.329154 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.4_beta_2.2/a-i/
+Duration RMSE: 24.518028 in 4608 phones
+Duration RMSE: 41.340624 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_0.7/a-i/
+Duration RMSE: 24.550945 in 4608 phones
+Duration RMSE: 41.430722 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_0.8/a-i/
+Duration RMSE: 24.534379 in 4608 phones
+Duration RMSE: 41.364113 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_0.9/a-i/
+Duration RMSE: 24.522934 in 4608 phones
+Duration RMSE: 41.319454 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.0/a-i/
+Duration RMSE: 24.515140 in 4608 phones
+Duration RMSE: 41.290321 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.1/a-i/
+Duration RMSE: 24.509986 in 4608 phones
+Duration RMSE: 41.272315 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.2/a-i/
+Duration RMSE: 24.506763 in 4608 phones
+Duration RMSE: 41.262362 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.3/a-i/
+Duration RMSE: 24.504964 in 4608 phones
+Duration RMSE: 41.258280 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.4/a-i/
+Duration RMSE: 24.504222 in 4608 phones
+Duration RMSE: 41.258496 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.5/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.6/a-i/
+Duration RMSE: 24.504903 in 4608 phones
+Duration RMSE: 41.267540 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.7/a-i/
+Duration RMSE: 24.505975 in 4608 phones
+Duration RMSE: 41.274894 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.8/a-i/
+Duration RMSE: 24.507373 in 4608 phones
+Duration RMSE: 41.283454 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_1.9/a-i/
+Duration RMSE: 24.509010 in 4608 phones
+Duration RMSE: 41.292865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_2.0/a-i/
+Duration RMSE: 24.510820 in 4608 phones
+Duration RMSE: 41.302857 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_2.1/a-i/
+Duration RMSE: 24.512751 in 4608 phones
+Duration RMSE: 41.313226 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.5_beta_2.2/a-i/
+Duration RMSE: 24.514766 in 4608 phones
+Duration RMSE: 41.323816 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_0.7/a-i/
+Duration RMSE: 24.560327 in 4608 phones
+Duration RMSE: 41.469062 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_0.8/a-i/
+Duration RMSE: 24.541906 in 4608 phones
+Duration RMSE: 41.394166 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_0.9/a-i/
+Duration RMSE: 24.528841 in 4608 phones
+Duration RMSE: 41.342310 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.0/a-i/
+Duration RMSE: 24.519646 in 4608 phones
+Duration RMSE: 41.306981 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.1/a-i/
+Duration RMSE: 24.513284 in 4608 phones
+Duration RMSE: 41.283665 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.2/a-i/
+Duration RMSE: 24.509022 in 4608 phones
+Duration RMSE: 41.269170 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.3/a-i/
+Duration RMSE: 24.506330 in 4608 phones
+Duration RMSE: 41.261204 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.4/a-i/
+Duration RMSE: 24.504820 in 4608 phones
+Duration RMSE: 41.258099 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.5/a-i/
+Duration RMSE: 24.504204 in 4608 phones
+Duration RMSE: 41.258624 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.6/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.7/a-i/
+Duration RMSE: 24.504849 in 4608 phones
+Duration RMSE: 41.267131 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.8/a-i/
+Duration RMSE: 24.505822 in 4608 phones
+Duration RMSE: 41.273900 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_1.9/a-i/
+Duration RMSE: 24.507091 in 4608 phones
+Duration RMSE: 41.281775 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_2.0/a-i/
+Duration RMSE: 24.508582 in 4608 phones
+Duration RMSE: 41.290448 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_2.1/a-i/
+Duration RMSE: 24.510239 in 4608 phones
+Duration RMSE: 41.299686 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.6_beta_2.2/a-i/
+Duration RMSE: 24.512015 in 4608 phones
+Duration RMSE: 41.309305 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_0.7/a-i/
+Duration RMSE: 24.569948 in 4608 phones
+Duration RMSE: 41.508696 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_0.8/a-i/
+Duration RMSE: 24.549794 in 4608 phones
+Duration RMSE: 41.426044 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_0.9/a-i/
+Duration RMSE: 24.535194 in 4608 phones
+Duration RMSE: 41.367348 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.0/a-i/
+Duration RMSE: 24.524653 in 4608 phones
+Duration RMSE: 41.326055 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.1/a-i/
+Duration RMSE: 24.517120 in 4608 phones
+Duration RMSE: 41.297568 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.2/a-i/
+Duration RMSE: 24.511840 in 4608 phones
+Duration RMSE: 41.278603 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.3/a-i/
+Duration RMSE: 24.508264 in 4608 phones
+Duration RMSE: 41.266778 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.4/a-i/
+Duration RMSE: 24.505987 in 4608 phones
+Duration RMSE: 41.260342 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.5/a-i/
+Duration RMSE: 24.504705 in 4608 phones
+Duration RMSE: 41.257992 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.6/a-i/
+Duration RMSE: 24.504191 in 4608 phones
+Duration RMSE: 41.258748 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.7/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.8/a-i/
+Duration RMSE: 24.504803 in 4608 phones
+Duration RMSE: 41.266775 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_1.9/a-i/
+Duration RMSE: 24.505690 in 4608 phones
+Duration RMSE: 41.273040 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_2.0/a-i/
+Duration RMSE: 24.506849 in 4608 phones
+Duration RMSE: 41.280319 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_2.1/a-i/
+Duration RMSE: 24.508215 in 4608 phones
+Duration RMSE: 41.288349 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.7_beta_2.2/a-i/
+Duration RMSE: 24.509737 in 4608 phones
+Duration RMSE: 41.296922 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_0.7/a-i/
+Duration RMSE: 24.579723 in 4608 phones
+Duration RMSE: 41.549226 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_0.8/a-i/
+Duration RMSE: 24.557955 in 4608 phones
+Duration RMSE: 41.459338 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_0.9/a-i/
+Duration RMSE: 24.541906 in 4608 phones
+Duration RMSE: 41.394166 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.0/a-i/
+Duration RMSE: 24.530079 in 4608 phones
+Duration RMSE: 41.347157 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.1/a-i/
+Duration RMSE: 24.521413 in 4608 phones
+Duration RMSE: 41.313659 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.2/a-i/
+Duration RMSE: 24.515140 in 4608 phones
+Duration RMSE: 41.290321 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.3/a-i/
+Duration RMSE: 24.510695 in 4608 phones
+Duration RMSE: 41.274687 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.4/a-i/
+Duration RMSE: 24.507657 in 4608 phones
+Duration RMSE: 41.264934 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.5/a-i/
+Duration RMSE: 24.505711 in 4608 phones
+Duration RMSE: 41.259697 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.6/a-i/
+Duration RMSE: 24.504614 in 4608 phones
+Duration RMSE: 41.257938 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.7/a-i/
+Duration RMSE: 24.504181 in 4608 phones
+Duration RMSE: 41.258865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.8/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_1.9/a-i/
+Duration RMSE: 24.504763 in 4608 phones
+Duration RMSE: 41.266463 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_2.0/a-i/
+Duration RMSE: 24.505577 in 4608 phones
+Duration RMSE: 41.272288 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_2.1/a-i/
+Duration RMSE: 24.506640 in 4608 phones
+Duration RMSE: 41.279047 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.8_beta_2.2/a-i/
+Duration RMSE: 24.507896 in 4608 phones
+Duration RMSE: 41.286511 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_0.7/a-i/
+Duration RMSE: 24.589584 in 4608 phones
+Duration RMSE: 41.590330 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_0.8/a-i/
+Duration RMSE: 24.566318 in 4608 phones
+Duration RMSE: 41.493708 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_0.9/a-i/
+Duration RMSE: 24.548902 in 4608 phones
+Duration RMSE: 41.422425 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.0/a-i/
+Duration RMSE: 24.535850 in 4608 phones
+Duration RMSE: 41.369956 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.1/a-i/
+Duration RMSE: 24.526095 in 4608 phones
+Duration RMSE: 41.331623 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.2/a-i/
+Duration RMSE: 24.518857 in 4608 phones
+Duration RMSE: 41.304026 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.3/a-i/
+Duration RMSE: 24.513561 in 4608 phones
+Duration RMSE: 41.284649 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.4/a-i/
+Duration RMSE: 24.509774 in 4608 phones
+Duration RMSE: 41.271613 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.5/a-i/
+Duration RMSE: 24.507166 in 4608 phones
+Duration RMSE: 41.263495 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.6/a-i/
+Duration RMSE: 24.505487 in 4608 phones
+Duration RMSE: 41.259211 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.7/a-i/
+Duration RMSE: 24.504540 in 4608 phones
+Duration RMSE: 41.257921 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.8/a-i/
+Duration RMSE: 24.504174 in 4608 phones
+Duration RMSE: 41.258976 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_1.9/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_2.0/a-i/
+Duration RMSE: 24.504728 in 4608 phones
+Duration RMSE: 41.266188 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_2.1/a-i/
+Duration RMSE: 24.505478 in 4608 phones
+Duration RMSE: 41.271626 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_1.9_beta_2.2/a-i/
+Duration RMSE: 24.506458 in 4608 phones
+Duration RMSE: 41.277928 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_0.7/a-i/
+Duration RMSE: 24.599476 in 4608 phones
+Duration RMSE: 41.631744 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_0.8/a-i/
+Duration RMSE: 24.574821 in 4608 phones
+Duration RMSE: 41.528871 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_0.9/a-i/
+Duration RMSE: 24.556122 in 4608 phones
+Duration RMSE: 41.451835 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.0/a-i/
+Duration RMSE: 24.541906 in 4608 phones
+Duration RMSE: 41.394166 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.1/a-i/
+Duration RMSE: 24.531105 in 4608 phones
+Duration RMSE: 41.351184 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.2/a-i/
+Duration RMSE: 24.522934 in 4608 phones
+Duration RMSE: 41.319454 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.3/a-i/
+Duration RMSE: 24.516808 in 4608 phones
+Duration RMSE: 41.296416 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.4/a-i/
+Duration RMSE: 24.512283 in 4608 phones
+Duration RMSE: 41.280144 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.5/a-i/
+Duration RMSE: 24.509022 in 4608 phones
+Duration RMSE: 41.269170 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.6/a-i/
+Duration RMSE: 24.506763 in 4608 phones
+Duration RMSE: 41.262362 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.7/a-i/
+Duration RMSE: 24.505302 in 4608 phones
+Duration RMSE: 41.258844 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.8/a-i/
+Duration RMSE: 24.504479 in 4608 phones
+Duration RMSE: 41.257931 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_1.9/a-i/
+Duration RMSE: 24.504168 in 4608 phones
+Duration RMSE: 41.259080 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_2.0/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_2.1/a-i/
+Duration RMSE: 24.504698 in 4608 phones
+Duration RMSE: 41.265943 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.0_beta_2.2/a-i/
+Duration RMSE: 24.505392 in 4608 phones
+Duration RMSE: 41.271040 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_0.7/a-i/
+Duration RMSE: 24.609354 in 4608 phones
+Duration RMSE: 41.673253 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_0.8/a-i/
+Duration RMSE: 24.583414 in 4608 phones
+Duration RMSE: 41.564588 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_0.9/a-i/
+Duration RMSE: 24.563512 in 4608 phones
+Duration RMSE: 41.482151 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.0/a-i/
+Duration RMSE: 24.548192 in 4608 phones
+Duration RMSE: 41.419543 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.1/a-i/
+Duration RMSE: 24.536390 in 4608 phones
+Duration RMSE: 41.372102 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.2/a-i/
+Duration RMSE: 24.527319 in 4608 phones
+Duration RMSE: 41.336374 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.3/a-i/
+Duration RMSE: 24.520386 in 4608 phones
+Duration RMSE: 41.309769 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.4/a-i/
+Duration RMSE: 24.515140 in 4608 phones
+Duration RMSE: 41.290321 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.5/a-i/
+Duration RMSE: 24.511235 in 4608 phones
+Duration RMSE: 41.276523 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.6/a-i/
+Duration RMSE: 24.508402 in 4608 phones
+Duration RMSE: 41.267207 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.7/a-i/
+Duration RMSE: 24.506429 in 4608 phones
+Duration RMSE: 41.261461 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.8/a-i/
+Duration RMSE: 24.505149 in 4608 phones
+Duration RMSE: 41.258568 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_1.9/a-i/
+Duration RMSE: 24.504430 in 4608 phones
+Duration RMSE: 41.257959 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_2.0/a-i/
+Duration RMSE: 24.504165 in 4608 phones
+Duration RMSE: 41.259179 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_2.1/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.1_beta_2.2/a-i/
+Duration RMSE: 24.504671 in 4608 phones
+Duration RMSE: 41.265723 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_0.7/a-i/
+Duration RMSE: 24.619183 in 4608 phones
+Duration RMSE: 41.714684 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_0.8/a-i/
+Duration RMSE: 24.592056 in 4608 phones
+Duration RMSE: 41.600664 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_0.9/a-i/
+Duration RMSE: 24.571028 in 4608 phones
+Duration RMSE: 41.513161 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.0/a-i/
+Duration RMSE: 24.554663 in 4608 phones
+Duration RMSE: 41.445874 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.1/a-i/
+Duration RMSE: 24.541906 in 4608 phones
+Duration RMSE: 41.394166 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.2/a-i/
+Duration RMSE: 24.531968 in 4608 phones
+Duration RMSE: 41.354583 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.3/a-i/
+Duration RMSE: 24.524252 in 4608 phones
+Duration RMSE: 41.324511 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.4/a-i/
+Duration RMSE: 24.518303 in 4608 phones
+Duration RMSE: 41.301957 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.5/a-i/
+Duration RMSE: 24.513766 in 4608 phones
+Duration RMSE: 41.285380 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.6/a-i/
+Duration RMSE: 24.510366 in 4608 phones
+Duration RMSE: 41.273580 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.7/a-i/
+Duration RMSE: 24.507884 in 4608 phones
+Duration RMSE: 41.265616 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.8/a-i/
+Duration RMSE: 24.506149 in 4608 phones
+Duration RMSE: 41.260742 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_1.9/a-i/
+Duration RMSE: 24.505020 in 4608 phones
+Duration RMSE: 41.258362 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_2.0/a-i/
+Duration RMSE: 24.504388 in 4608 phones
+Duration RMSE: 41.258000 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_2.1/a-i/
+Duration RMSE: 24.504162 in 4608 phones
+Duration RMSE: 41.259272 in 1727 phones
+/work/w25/decha/decha_w25/ICASSP_2017_workspace/Result/alpha_2.2_beta_2.2/a-i/
+Duration RMSE: 24.504268 in 4608 phones
+Duration RMSE: 41.261865 in 1727 phones

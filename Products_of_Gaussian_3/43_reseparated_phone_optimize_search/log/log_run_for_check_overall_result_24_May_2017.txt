@@ -1,0 +1,165 @@
+Namespace(end_ph_0='0.0', end_ph_1toN='0.0', end_syl_0='0.0', end_syl_1toN='20.0', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='initial', plot=False, start_ph_0='0.0', start_ph_1toN='0.0', start_syl_0='0.0', start_syl_1toN='20.0', stress_type='1', tone='0', tone_folder='all', training_size='250')
+[array([  1.,   0.,   0.,  20.,   0.])]
+2017-05-24 05:14:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 20.0 0.0
+All LF0 RMSE: 103.324932 in 53294 frames
+Only specific case LF0 RMSE: 83.454804 in 493 frames
+{'1.0:0.0:0.0:20.0:0.0:': 83.45480417537938}
+-------------------------
+[('1.0:0.0:0.0:20.0:0.0:', 83.45480417537938)]
+
+Namespace(end_ph_0='5.6', end_ph_1toN='0.0', end_syl_0='1.5', end_syl_1toN='0.0', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='initial', plot=False, start_ph_0='5.6', start_ph_1toN='0.0', start_syl_0='1.5', start_syl_1toN='0.0', stress_type='1', tone='1', tone_folder='all', training_size='250')
+[array([ 1. ,  0. ,  5.6,  0. ,  1.5])]
+2017-05-24 05:18:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 5.6 0.0 1.5
+All LF0 RMSE: 115.875566 in 53294 frames
+Only specific case LF0 RMSE: 93.838920 in 345 frames
+{'1.0:0.0:5.6:0.0:1.5:': 93.838919626790101}
+-------------------------
+[('1.0:0.0:5.6:0.0:1.5:', 93.838919626790101)]
+
+Namespace(end_ph_0='0.0', end_ph_1toN='6.3', end_syl_0='0.0', end_syl_1toN='0.0', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='initial', plot=False, start_ph_0='0.0', start_ph_1toN='6.3', start_syl_0='0.0', start_syl_1toN='0.0', stress_type='1', tone='2', tone_folder='all', training_size='250')
+[array([ 1. ,  6.3,  0. ,  0. ,  0. ])]
+2017-05-24 05:22:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 6.3 0.0 0.0 0.0
+All LF0 RMSE: 102.987938 in 53294 frames
+Only specific case LF0 RMSE: 100.172180 in 297 frames
+{'1.0:6.3:0.0:0.0:0.0:': 100.17218025505106}
+-------------------------
+[('1.0:6.3:0.0:0.0:0.0:', 100.17218025505106)]
+
+Namespace(end_ph_0='0.0', end_ph_1toN='0.6', end_syl_0='0.0', end_syl_1toN='11.5', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='initial', plot=False, start_ph_0='0.0', start_ph_1toN='0.6', start_syl_0='0.0', start_syl_1toN='11.5', stress_type='1', tone='3', tone_folder='all', training_size='250')
+[array([  1. ,   0.6,   0. ,  11.5,   0. ])]
+2017-05-24 05:26:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.6 0.0 11.5 0.0
+All LF0 RMSE: 129.129969 in 53294 frames
+Only specific case LF0 RMSE: 101.992914 in 315 frames
+{'1.0:0.6:0.0:11.5:0.0:': 101.9929139324572}
+-------------------------
+[('1.0:0.6:0.0:11.5:0.0:', 101.9929139324572)]
+
+Namespace(end_ph_0='20.0', end_ph_1toN='0.0', end_syl_0='0.0', end_syl_1toN='20.0', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='initial', plot=False, start_ph_0='20.0', start_ph_1toN='0.0', start_syl_0='0.0', start_syl_1toN='20.0', stress_type='1', tone='4', tone_folder='all', training_size='250')
+[array([  1.,   0.,  20.,  20.,   0.])]
+2017-05-24 05:31:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 20.0 20.0 0.0
+All LF0 RMSE: 117.617872 in 53294 frames
+Only specific case LF0 RMSE: 82.099759 in 132 frames
+{'1.0:0.0:20.0:20.0:0.0:': 82.099758822156417}
+-------------------------
+[('1.0:0.0:20.0:20.0:0.0:', 82.099758822156417)]
+
+Namespace(end_ph_0='0.0', end_ph_1toN='0.5', end_syl_0='0.0', end_syl_1toN='6.3', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='vowel', plot=False, start_ph_0='0.0', start_ph_1toN='0.5', start_syl_0='0.0', start_syl_1toN='6.3', stress_type='1', tone='0', tone_folder='all', training_size='250')
+[array([ 1. ,  0.5,  0. ,  6.3,  0. ])]
+2017-05-24 05:35:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.5 0.0 6.3 0.0
+All LF0 RMSE: 102.917372 in 53294 frames
+Only specific case LF0 RMSE: 73.397516 in 2937 frames
+{'1.0:0.5:0.0:6.3:0.0:': 73.397515923078998}
+-------------------------
+[('1.0:0.5:0.0:6.3:0.0:', 73.397515923078998)]
+
+Namespace(end_ph_0='15.6', end_ph_1toN='0.0', end_syl_0='0.0', end_syl_1toN='0.7', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='vowel', plot=False, start_ph_0='15.6', start_ph_1toN='0.0', start_syl_0='0.0', start_syl_1toN='0.7', stress_type='1', tone='1', tone_folder='all', training_size='250')
+[array([  1. ,   0. ,  15.6,   0.7,   0. ])]
+2017-05-24 05:39:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 15.6 0.7 0.0
+All LF0 RMSE: 123.306198 in 53294 frames
+Only specific case LF0 RMSE: 73.988952 in 1364 frames
+{'1.0:0.0:15.6:0.7:0.0:': 73.988952452929112}
+-------------------------
+[('1.0:0.0:15.6:0.7:0.0:', 73.988952452929112)]
+
+Namespace(end_ph_0='0.0', end_ph_1toN='1.1', end_syl_0='0.0', end_syl_1toN='1.4', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='vowel', plot=False, start_ph_0='0.0', start_ph_1toN='1.1', start_syl_0='0.0', start_syl_1toN='1.4', stress_type='1', tone='2', tone_folder='all', training_size='250')
+[array([ 1. ,  1.1,  0. ,  1.4,  0. ])]
+2017-05-24 05:43:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.4 0.0
+All LF0 RMSE: 102.956113 in 53294 frames
+Only specific case LF0 RMSE: 86.893634 in 2013 frames
+{'1.0:1.1:0.0:1.4:0.0:': 86.893633790058672}
+-------------------------
+[('1.0:1.1:0.0:1.4:0.0:', 86.893633790058672)]
+
+Namespace(end_ph_0='0.3', end_ph_1toN='5.1', end_syl_0='0.0', end_syl_1toN='0.3', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='vowel', plot=False, start_ph_0='0.3', start_ph_1toN='5.1', start_syl_0='0.0', start_syl_1toN='0.3', stress_type='1', tone='3', tone_folder='all', training_size='250')
+[array([ 1. ,  5.1,  0.3,  0.3,  0. ])]
+2017-05-24 05:48:22
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 5.1 0.3 0.3 0.0
+All LF0 RMSE: 103.052181 in 53294 frames
+Only specific case LF0 RMSE: 100.853123 in 1426 frames
+{'1.0:5.1:0.3:0.3:0.0:': 100.85312250356711}
+-------------------------
+[('1.0:5.1:0.3:0.3:0.0:', 100.85312250356711)]
+
+Namespace(end_ph_0='0.0', end_ph_1toN='0.0', end_syl_0='1.3', end_syl_1toN='1.9', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='vowel', plot=False, start_ph_0='0.0', start_ph_1toN='0.0', start_syl_0='1.3', start_syl_1toN='1.9', stress_type='1', tone='4', tone_folder='all', training_size='250')
+[array([ 1. ,  0. ,  0. ,  1.9,  1.3])]
+2017-05-24 05:52:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.0 1.9 1.3
+All LF0 RMSE: 102.955821 in 53294 frames
+Only specific case LF0 RMSE: 93.170057 in 977 frames
+{'1.0:0.0:0.0:1.9:1.3:': 93.170057275817172}
+-------------------------
+[('1.0:0.0:0.0:1.9:1.3:', 93.170057275817172)]
+
+Namespace(end_ph_0='0.2', end_ph_1toN='0.0', end_syl_0='0.2', end_syl_1toN='0.0', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='final', plot=False, start_ph_0='0.2', start_ph_1toN='0.0', start_syl_0='0.2', start_syl_1toN='0.0', stress_type='1', tone='0', tone_folder='all', training_size='250')
+[array([ 1. ,  0. ,  0.2,  0. ,  0.2])]
+2017-05-24 05:57:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 0.2 0.0 0.2
+All LF0 RMSE: 103.011292 in 53294 frames
+Only specific case LF0 RMSE: 83.098576 in 2139 frames
+{'1.0:0.0:0.2:0.0:0.2:': 83.09857589482786}
+-------------------------
+[('1.0:0.0:0.2:0.0:0.2:', 83.09857589482786)]
+
+Namespace(end_ph_0='6.1', end_ph_1toN='6.1', end_syl_0='0.2', end_syl_1toN='0.0', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='final', plot=False, start_ph_0='6.1', start_ph_1toN='6.1', start_syl_0='0.2', start_syl_1toN='0.0', stress_type='1', tone='1', tone_folder='all', training_size='250')
+[array([ 1. ,  6.1,  6.1,  0. ,  0.2])]
+2017-05-24 06:01:43
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 6.1 6.1 0.0 0.2
+All LF0 RMSE: 107.835731 in 53294 frames
+Only specific case LF0 RMSE: 81.733043 in 787 frames
+{'1.0:6.1:6.1:0.0:0.2:': 81.733043390484994}
+-------------------------
+[('1.0:6.1:6.1:0.0:0.2:', 81.733043390484994)]
+
+Namespace(end_ph_0='0.0', end_ph_1toN='6.1', end_syl_0='0.0', end_syl_1toN='0.2', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='final', plot=False, start_ph_0='0.0', start_ph_1toN='6.1', start_syl_0='0.0', start_syl_1toN='0.2', stress_type='1', tone='2', tone_folder='all', training_size='250')
+[array([ 1. ,  6.1,  0. ,  0.2,  0. ])]
+2017-05-24 06:06:07
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 6.1 0.0 0.2 0.0
+All LF0 RMSE: 103.048389 in 53294 frames
+Only specific case LF0 RMSE: 116.383337 in 753 frames
+{'1.0:6.1:0.0:0.2:0.0:': 116.38333665820308}
+-------------------------
+[('1.0:6.1:0.0:0.2:0.0:', 116.38333665820308)]
+
+Namespace(end_ph_0='6.1', end_ph_1toN='6.1', end_syl_0='0.2', end_syl_1toN='2.0', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='final', plot=False, start_ph_0='6.1', start_ph_1toN='6.1', start_syl_0='0.2', start_syl_1toN='2.0', stress_type='1', tone='3', tone_folder='all', training_size='250')
+[array([ 1. ,  6.1,  6.1,  2. ,  0.2])]
+2017-05-24 06:10:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 6.1 6.1 2.0 0.2
+All LF0 RMSE: 108.366662 in 53294 frames
+Only specific case LF0 RMSE: 111.080697 in 462 frames
+{'1.0:6.1:6.1:2.0:0.2:': 111.08069741078867}
+-------------------------
+[('1.0:6.1:6.1:2.0:0.2:', 111.08069741078867)]
+
+Namespace(end_ph_0='1.2', end_ph_1toN='0.0', end_syl_0='1.2', end_syl_1toN='0.0', increment='0.1', is_save_object=True, mainoutpath='/work/w21/decha/Interspeech_2017/Result_4/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='final', plot=False, start_ph_0='1.2', start_ph_1toN='0.0', start_syl_0='1.2', start_syl_1toN='0.0', stress_type='1', tone='4', tone_folder='all', training_size='250')
+[array([ 1. ,  0. ,  1.2,  0. ,  1.2])]
+2017-05-24 06:14:59
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 0.0 1.2 0.0 1.2
+All LF0 RMSE: 102.936519 in 53294 frames
+Only specific case LF0 RMSE: 110.747670 in 630 frames
+{'1.0:0.0:1.2:0.0:1.2:': 110.74767017442497}
+-------------------------
+[('1.0:0.0:1.2:0.0:1.2:', 110.74767017442497)]
+

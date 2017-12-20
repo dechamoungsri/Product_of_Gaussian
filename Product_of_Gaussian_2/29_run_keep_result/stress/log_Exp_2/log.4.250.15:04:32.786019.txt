@@ -1,0 +1,7 @@
+Namespace(block_size='256', endbeta='2.0', endgamma='2.0', file_num_end='10', file_num_start='9', mainoutpath='/29_script/Exp_2_stress/', num_coeff='3', plot=True, startbeta='0.0', startgamma='0.0', stress_or_unstress='stress', syllable_predicted_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/05_syllable_level_3_dct_no_zeroth/testrun/out_all/tsc/', tone='4', training_size='250', use_partial_coeff=False, zero_coeff_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/06_zeroth_coeff_run_tree_05/testrun/out_all/tsc/')
+2017-06-05 06:04:33
+Alpha : Beta : Gamma: 1.0 0.0 0.0
+All LF0 RMSE: 102.978578 in 53294 frames
+Only unstress LF0 RMSE: 102.814337 in 1739 frames
+2017-06-05 06:04:35
+Alpha : Beta : Gamma: 1.0 0.0 0.1

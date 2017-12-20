@@ -1,0 +1,5 @@
+Namespace(block_size='256', endbeta='0.2', endgamma='0.1', mainoutpath='/29_script/Exp_4_stress_all_coeff/', num_coeff='3', plot=False, startbeta='0.1', startgamma='0.0', stress_or_unstress='stress', syllable_predicted_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/Syllable_level/C_all_coeff/testrun/out_all/tsc/', tone='2', training_size='250', use_partial_coeff=False, zero_coeff_path=None)
+2017-03-16 15:08:32
+Alpha : Beta : Gamma: 1.0 0.1 0.0
+All LF0 RMSE: 102.981203 in 53294 frames
+Only unstress LF0 RMSE: 97.051622 in 3063 frames

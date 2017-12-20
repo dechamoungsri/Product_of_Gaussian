@@ -1,0 +1,105 @@
+Namespace(end_ph_0='0.0', end_ph_1toN='6.0', end_syl_0='0.0', end_syl_1toN='0.0', increment='0.2', mainoutpath='/work/w21/decha/Interspeech_2017/Result_3/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='initial', plot=False, start_ph_0='0.0', start_ph_1toN='2.2', start_syl_0='0.0', start_syl_1toN='0.0', stress_type='1', tone='2', tone_folder='all', training_size='250')
+[array([ 1. ,  2.2,  0. ,  0. ,  0. ])]
+2017-05-07 13:58:06
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.2 0.0 0.0 0.0
+All LF0 RMSE: 102.975781 in 53294 frames
+Only specific case LF0 RMSE: 100.173003 in 297 frames
+2017-05-07 13:58:14
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.4 0.0 0.0 0.0
+All LF0 RMSE: 102.976150 in 53294 frames
+Only specific case LF0 RMSE: 100.172962 in 297 frames
+2017-05-07 13:58:23
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.6 0.0 0.0 0.0
+All LF0 RMSE: 102.976564 in 53294 frames
+Only specific case LF0 RMSE: 100.172922 in 297 frames
+2017-05-07 13:58:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 2.8 0.0 0.0 0.0
+All LF0 RMSE: 102.977016 in 53294 frames
+Only specific case LF0 RMSE: 100.172881 in 297 frames
+2017-05-07 13:58:39
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 3.0 0.0 0.0 0.0
+All LF0 RMSE: 102.977502 in 53294 frames
+Only specific case LF0 RMSE: 100.172840 in 297 frames
+2017-05-07 13:58:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 3.2 0.0 0.0 0.0
+All LF0 RMSE: 102.978018 in 53294 frames
+Only specific case LF0 RMSE: 100.172799 in 297 frames
+2017-05-07 13:58:56
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 3.4 0.0 0.0 0.0
+All LF0 RMSE: 102.978560 in 53294 frames
+Only specific case LF0 RMSE: 100.172759 in 297 frames
+2017-05-07 13:59:04
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 3.6 0.0 0.0 0.0
+All LF0 RMSE: 102.979125 in 53294 frames
+Only specific case LF0 RMSE: 100.172718 in 297 frames
+2017-05-07 13:59:12
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 3.8 0.0 0.0 0.0
+All LF0 RMSE: 102.979709 in 53294 frames
+Only specific case LF0 RMSE: 100.172677 in 297 frames
+2017-05-07 13:59:20
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 4.0 0.0 0.0 0.0
+All LF0 RMSE: 102.980311 in 53294 frames
+Only specific case LF0 RMSE: 100.172636 in 297 frames
+2017-05-07 13:59:28
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 4.2 0.0 0.0 0.0
+All LF0 RMSE: 102.980928 in 53294 frames
+Only specific case LF0 RMSE: 100.172596 in 297 frames
+2017-05-07 13:59:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 4.4 0.0 0.0 0.0
+All LF0 RMSE: 102.981558 in 53294 frames
+Only specific case LF0 RMSE: 100.172556 in 297 frames
+2017-05-07 13:59:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 4.6 0.0 0.0 0.0
+All LF0 RMSE: 102.982200 in 53294 frames
+Only specific case LF0 RMSE: 100.172515 in 297 frames
+2017-05-07 13:59:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 4.8 0.0 0.0 0.0
+All LF0 RMSE: 102.982852 in 53294 frames
+Only specific case LF0 RMSE: 100.172475 in 297 frames
+2017-05-07 14:00:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 5.0 0.0 0.0 0.0
+All LF0 RMSE: 102.983512 in 53294 frames
+Only specific case LF0 RMSE: 100.172435 in 297 frames
+2017-05-07 14:00:10
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 5.2 0.0 0.0 0.0
+All LF0 RMSE: 102.984180 in 53294 frames
+Only specific case LF0 RMSE: 100.172396 in 297 frames
+2017-05-07 14:00:18
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 5.4 0.0 0.0 0.0
+All LF0 RMSE: 102.984854 in 53294 frames
+Only specific case LF0 RMSE: 100.172356 in 297 frames
+2017-05-07 14:00:26
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 5.6 0.0 0.0 0.0
+All LF0 RMSE: 102.985533 in 53294 frames
+Only specific case LF0 RMSE: 100.172317 in 297 frames
+2017-05-07 14:00:34
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 5.8 0.0 0.0 0.0
+All LF0 RMSE: 102.986216 in 53294 frames
+Only specific case LF0 RMSE: 100.172277 in 297 frames
+2017-05-07 14:00:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 6.0 0.0 0.0 0.0
+All LF0 RMSE: 102.986903 in 53294 frames
+Only specific case LF0 RMSE: 100.172238 in 297 frames
+{'1.0:3.2:0.0:0.0:0.0:': 100.17279944976954, '1.0:4.6:0.0:0.0:0.0:': 100.17251527973823, '1.0:5.6:0.0:0.0:0.0:': 100.17231654502638, '1.0:3.8:0.0:0.0:0.0:': 100.1726770840021, '1.0:2.6:0.0:0.0:0.0:': 100.17292180641239, '1.0:2.8:0.0:0.0:0.0:': 100.17288109591888, '1.0:5.2:0.0:0.0:0.0:': 100.17239550187443, '1.0:2.2:0.0:0.0:0.0:': 100.17300265972148, '1.0:5.0:0.0:0.0:0.0:': 100.17243525627501, '1.0:2.4:0.0:0.0:0.0:': 100.17296235618528, '1.0:3.0:0.0:0.0:0.0:': 100.17284029239089, '1.0:4.8:0.0:0.0:0.0:': 100.17247518514449, '1.0:3.4:0.0:0.0:0.0:': 100.17275861163887, '1.0:3.6:0.0:0.0:0.0:': 100.17271781340118, '1.0:6.0:0.0:0.0:0.0:': 100.1722383623195, '1.0:4.0:0.0:0.0:0.0:': 100.17263644752434, '1.0:5.4:0.0:0.0:0.0:': 100.17235592930403, '1.0:5.8:0.0:0.0:0.0:': 100.17227735446838, '1.0:4.4:0.0:0.0:0.0:': 100.17255552998326, '1.0:4.2:0.0:0.0:0.0:': 100.17259592394973}
+-------------------------
+[('1.0:6.0:0.0:0.0:0.0:', 100.1722383623195), ('1.0:5.8:0.0:0.0:0.0:', 100.17227735446838), ('1.0:5.6:0.0:0.0:0.0:', 100.17231654502638), ('1.0:5.4:0.0:0.0:0.0:', 100.17235592930403), ('1.0:5.2:0.0:0.0:0.0:', 100.17239550187443), ('1.0:5.0:0.0:0.0:0.0:', 100.17243525627501), ('1.0:4.8:0.0:0.0:0.0:', 100.17247518514449), ('1.0:4.6:0.0:0.0:0.0:', 100.17251527973823), ('1.0:4.4:0.0:0.0:0.0:', 100.17255552998326), ('1.0:4.2:0.0:0.0:0.0:', 100.17259592394973), ('1.0:4.0:0.0:0.0:0.0:', 100.17263644752434), ('1.0:3.8:0.0:0.0:0.0:', 100.1726770840021), ('1.0:3.6:0.0:0.0:0.0:', 100.17271781340118), ('1.0:3.4:0.0:0.0:0.0:', 100.17275861163887), ('1.0:3.2:0.0:0.0:0.0:', 100.17279944976954), ('1.0:3.0:0.0:0.0:0.0:', 100.17284029239089), ('1.0:2.8:0.0:0.0:0.0:', 100.17288109591888), ('1.0:2.6:0.0:0.0:0.0:', 100.17292180641239), ('1.0:2.4:0.0:0.0:0.0:', 100.17296235618528), ('1.0:2.2:0.0:0.0:0.0:', 100.17300265972148)]

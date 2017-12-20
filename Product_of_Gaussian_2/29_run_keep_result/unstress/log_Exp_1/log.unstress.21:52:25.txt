@@ -1,0 +1,15 @@
+panda python
+Namespace(block_size='256', endbeta='1.4', endgamma='1.6', mainoutpath='/29_script/Exp_1_unstress/', num_coeff='3', plot=False, startbeta='1.3', startgamma='1.5', stress_or_unstress='unstress', syllable_predicted_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/Syllable_level/B_other_coeff/testrun/out_all/tsc/', tone='0', training_size='450', use_partial_coeff=False, zero_coeff_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/Syllable_level/A_zeroth_coeff/testrun/out_all/tsc/')
+2017-03-14 12:52:25
+Alpha : Beta : Gamma: 1.0 1.3 1.5
+All LF0 RMSE: 100.482680 in 53200 frames
+Only unstress LF0 RMSE: 99.146677 in 16120 frames
+
+panda python
+Namespace(block_size='256', endbeta='0.2', endgamma='1.6', mainoutpath='/29_script/Exp_1_unstress/', num_coeff='3', plot=False, startbeta='0.1', startgamma='1.5', stress_or_unstress='unstress', syllable_predicted_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/Syllable_level/B_other_coeff/testrun/out_all/tsc/', tone='2', training_size='450', use_partial_coeff=False, zero_coeff_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/Syllable_level/A_zeroth_coeff/testrun/out_all/tsc/')
+2017-03-14 12:58:39
+Alpha : Beta : Gamma: 1.0 0.1 1.5
+All LF0 RMSE: 100.591947 in 53200 frames
+Only unstress LF0 RMSE: 110.517290 in 7297 frames
+
+panda python

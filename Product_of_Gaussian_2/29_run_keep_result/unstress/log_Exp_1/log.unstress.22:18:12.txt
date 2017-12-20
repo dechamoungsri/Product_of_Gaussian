@@ -1,0 +1,3 @@
+{'endbeta': 1.4, 'startbeta': 1.3, 'tone': 0, 'startgamma': 1.5, 'endgamma': 1.6}
+{'endbeta': 0.2, 'startbeta': 0.1, 'tone': 2, 'startgamma': 0.5, 'endgamma': 0.6}
+{'endbeta': 0.6, 'startbeta': 0.5, 'tone': 4, 'startgamma': 0.5, 'endgamma': 0.6}

@@ -1,0 +1,5 @@
+Namespace(end_syl_0='0.1', end_syl_1toN='0.1', plot=False, start_syl_0='0.0', start_syl_1toN='0.0', stress_type='1', tone='2', tone_folder='all', training_size='250')
+2017-04-25 10:11:09
+Alpha : Beta : Gamma: 1.0 0.0 0.0
+All LF0 RMSE: 102.978578 in 53294 frames
+Only specific case LF0 RMSE: 96.987834 in 3063 frames

@@ -1,0 +1,175 @@
+Namespace(end_ph_0='0.5', end_ph_1toN='3.0', end_syl_0='0.5', end_syl_1toN='2.0', increment='0.1', mainoutpath='/work/w21/decha/Interspeech_2017/Result_3/', method_name='Stress_Method_C_phone_syllable_tone_separated', phone_type='vowel', plot=False, start_ph_0='0.0', start_ph_1toN='1.0', start_syl_0='0.0', start_syl_1toN='1.0', stress_type='1', tone='2', tone_folder='all', training_size='250')
+[array([ 1.,  1.,  0.,  1.,  0.])]
+2017-05-03 07:52:31
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.0 0.0
+All LF0 RMSE: 102.944403 in 53294 frames
+Only specific case LF0 RMSE: 86.962311 in 2013 frames
+2017-05-03 07:52:39
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.0 0.1
+All LF0 RMSE: 102.959821 in 53294 frames
+Only specific case LF0 RMSE: 87.428371 in 2013 frames
+2017-05-03 07:52:47
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.1 0.0
+All LF0 RMSE: 102.946653 in 53294 frames
+Only specific case LF0 RMSE: 86.933346 in 2013 frames
+2017-05-03 07:52:55
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.1 0.1
+All LF0 RMSE: 102.961918 in 53294 frames
+Only specific case LF0 RMSE: 87.401859 in 2013 frames
+2017-05-03 07:53:03
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.2 0.0
+All LF0 RMSE: 102.949388 in 53294 frames
+Only specific case LF0 RMSE: 86.912866 in 2013 frames
+2017-05-03 07:53:11
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.2 0.1
+All LF0 RMSE: 102.964510 in 53294 frames
+Only specific case LF0 RMSE: 87.383707 in 2013 frames
+2017-05-03 07:53:19
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.3 0.0
+All LF0 RMSE: 102.952553 in 53294 frames
+Only specific case LF0 RMSE: 86.899991 in 2013 frames
+2017-05-03 07:53:27
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.3 0.1
+All LF0 RMSE: 102.967539 in 53294 frames
+Only specific case LF0 RMSE: 87.373041 in 2013 frames
+2017-05-03 07:53:36
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.4 0.0
+All LF0 RMSE: 102.956098 in 53294 frames
+Only specific case LF0 RMSE: 86.893947 in 2013 frames
+2017-05-03 07:53:44
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.4 0.1
+All LF0 RMSE: 102.970955 in 53294 frames
+Only specific case LF0 RMSE: 87.369094 in 2013 frames
+2017-05-03 07:53:52
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.0 1.5 0.0
+All LF0 RMSE: 102.959979 in 53294 frames
+Only specific case LF0 RMSE: 86.894051 in 2013 frames
+2017-05-03 07:54:00
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.1 1.4 0.0
+All LF0 RMSE: 102.978276 in 53294 frames
+Only specific case LF0 RMSE: 86.905582 in 2013 frames
+2017-05-03 07:54:08
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.4 0.0
+All LF0 RMSE: 102.956113 in 53294 frames
+Only specific case LF0 RMSE: 86.893634 in 2013 frames
+2017-05-03 07:54:16
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.4 0.1
+All LF0 RMSE: 102.970974 in 53294 frames
+Only specific case LF0 RMSE: 87.368970 in 2013 frames
+2017-05-03 07:54:24
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.5 0.0
+All LF0 RMSE: 102.959988 in 53294 frames
+Only specific case LF0 RMSE: 86.893654 in 2013 frames
+2017-05-03 07:54:32
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.1 1.4 0.0
+All LF0 RMSE: 102.978296 in 53294 frames
+Only specific case LF0 RMSE: 86.906534 in 2013 frames
+2017-05-03 07:54:40
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.0 1.4 0.0
+All LF0 RMSE: 102.956213 in 53294 frames
+Only specific case LF0 RMSE: 86.893733 in 2013 frames
+2017-05-03 07:54:48
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.1 1.3 0.0
+All LF0 RMSE: 102.974736 in 53294 frames
+Only specific case LF0 RMSE: 86.911882 in 2013 frames
+2017-05-03 07:54:57
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.3 0.0
+All LF0 RMSE: 102.952573 in 53294 frames
+Only specific case LF0 RMSE: 86.899765 in 2013 frames
+2017-05-03 07:55:05
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.3 0.1
+All LF0 RMSE: 102.967563 in 53294 frames
+Only specific case LF0 RMSE: 87.373005 in 2013 frames
+2017-05-03 07:55:13
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.1 1.3 0.0
+All LF0 RMSE: 102.974761 in 53294 frames
+Only specific case LF0 RMSE: 86.912928 in 2013 frames
+2017-05-03 07:55:21
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.0 1.3 0.0
+All LF0 RMSE: 102.952678 in 53294 frames
+Only specific case LF0 RMSE: 86.899954 in 2013 frames
+2017-05-03 07:55:29
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.1 1.2 0.0
+All LF0 RMSE: 102.971576 in 53294 frames
+Only specific case LF0 RMSE: 86.925016 in 2013 frames
+2017-05-03 07:55:37
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.2 0.0
+All LF0 RMSE: 102.949413 in 53294 frames
+Only specific case LF0 RMSE: 86.912729 in 2013 frames
+2017-05-03 07:55:45
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.2 0.1
+All LF0 RMSE: 102.964540 in 53294 frames
+Only specific case LF0 RMSE: 87.383761 in 2013 frames
+2017-05-03 07:55:53
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.1 1.2 0.0
+All LF0 RMSE: 102.971606 in 53294 frames
+Only specific case LF0 RMSE: 86.926158 in 2013 frames
+2017-05-03 07:56:01
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.0 1.2 0.0
+All LF0 RMSE: 102.949524 in 53294 frames
+Only specific case LF0 RMSE: 86.913011 in 2013 frames
+2017-05-03 07:56:09
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.1 1.1 0.0
+All LF0 RMSE: 102.968846 in 53294 frames
+Only specific case LF0 RMSE: 86.945758 in 2013 frames
+2017-05-03 07:56:17
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.1 0.0
+All LF0 RMSE: 102.946683 in 53294 frames
+Only specific case LF0 RMSE: 86.933301 in 2013 frames
+2017-05-03 07:56:25
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.1 0.1
+All LF0 RMSE: 102.961953 in 53294 frames
+Only specific case LF0 RMSE: 87.402006 in 2013 frames
+2017-05-03 07:56:33
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.1 1.1 0.0
+All LF0 RMSE: 102.968881 in 53294 frames
+Only specific case LF0 RMSE: 86.947000 in 2013 frames
+2017-05-03 07:56:42
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.2 0.0 1.1 0.0
+All LF0 RMSE: 102.946800 in 53294 frames
+Only specific case LF0 RMSE: 86.933679 in 2013 frames
+2017-05-03 07:56:50
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.0 0.1 1.0 0.0
+All LF0 RMSE: 102.966602 in 53294 frames
+Only specific case LF0 RMSE: 86.974989 in 2013 frames
+2017-05-03 07:56:58
+Alpha: const_ph_1toN: const_ph_0: const_syl_1toN: const_syl_0:
+1.0 1.1 0.0 1.0 0.0
+All LF0 RMSE: 102.944440 in 53294 frames
+Only specific case LF0 RMSE: 86.962362 in 2013 frames
+{'1.0:1.0:0.0:1.3:0.1:': 87.373040568650737, '1.0:1.0:0.0:1.2:0.1:': 87.383706796362048, '1.0:1.0:0.0:1.1:0.1:': 87.40185914325032, '1.0:1.2:0.0:1.3:0.0:': 86.89995390202516, '1.0:1.0:0.1:1.3:0.0:': 86.911881755155065, '1.0:1.1:0.0:1.3:0.1:': 87.373004518878403, '1.0:1.0:0.0:1.4:0.0:': 86.893947284193473, '1.0:1.0:0.1:1.2:0.0:': 86.925015789887098, '1.0:1.0:0.0:1.4:0.1:': 87.369093608328711, '1.0:1.1:0.0:1.4:0.0:': 86.893633790101518, '1.0:1.1:0.0:1.1:0.1:': 87.402005679558442, '1.0:1.2:0.0:1.4:0.0:': 86.8937326130104, '1.0:1.1:0.1:1.2:0.0:': 86.92615836312487, '1.0:1.1:0.0:1.2:0.0:': 86.912729156067201, '1.0:1.2:0.0:1.1:0.0:': 86.933679288791552, '1.0:1.2:0.0:1.2:0.0:': 86.913011468296887, '1.0:1.0:0.0:1.0:0.1:': 87.428370905891143, '1.0:1.1:0.1:1.3:0.0:': 86.91292760426316, '1.0:1.1:0.1:1.4:0.0:': 86.906533942642824, '1.0:1.0:0.0:1.2:0.0:': 86.912866163519467, '1.0:1.0:0.0:1.3:0.0:': 86.899991224605543, '1.0:1.1:0.0:1.1:0.0:': 86.933301244911888, '1.0:1.0:0.0:1.1:0.0:': 86.933345963325309, '1.0:1.1:0.0:1.3:0.0:': 86.899764645496873, '1.0:1.1:0.1:1.1:0.0:': 86.947000068322822, '1.0:1.0:0.1:1.4:0.0:': 86.905582166205903, '1.0:1.1:0.0:1.4:0.1:': 87.368970249877705, '1.0:1.1:0.0:1.5:0.0:': 86.893653632429704, '1.0:1.0:0.0:1.5:0.0:': 86.894051447405516, '1.0:1.0:0.1:1.1:0.0:': 86.94575806972442, '1.0:1.1:0.0:1.2:0.1:': 87.383760691781703, '1.0:1.1:0.0:1.0:0.0:': 86.962361809195784, '1.0:1.0:0.1:1.0:0.0:': 86.974989345897782, '1.0:1.0:0.0:1.0:0.0:': 86.962311462981333}
+-------------------------
+[('1.0:1.1:0.0:1.4:0.0:', 86.893633790101518), ('1.0:1.1:0.0:1.5:0.0:', 86.893653632429704), ('1.0:1.2:0.0:1.4:0.0:', 86.8937326130104), ('1.0:1.0:0.0:1.4:0.0:', 86.893947284193473), ('1.0:1.0:0.0:1.5:0.0:', 86.894051447405516), ('1.0:1.1:0.0:1.3:0.0:', 86.899764645496873), ('1.0:1.2:0.0:1.3:0.0:', 86.89995390202516), ('1.0:1.0:0.0:1.3:0.0:', 86.899991224605543), ('1.0:1.0:0.1:1.4:0.0:', 86.905582166205903), ('1.0:1.1:0.1:1.4:0.0:', 86.906533942642824), ('1.0:1.0:0.1:1.3:0.0:', 86.911881755155065), ('1.0:1.1:0.0:1.2:0.0:', 86.912729156067201), ('1.0:1.0:0.0:1.2:0.0:', 86.912866163519467), ('1.0:1.1:0.1:1.3:0.0:', 86.91292760426316), ('1.0:1.2:0.0:1.2:0.0:', 86.913011468296887), ('1.0:1.0:0.1:1.2:0.0:', 86.925015789887098), ('1.0:1.1:0.1:1.2:0.0:', 86.92615836312487), ('1.0:1.1:0.0:1.1:0.0:', 86.933301244911888), ('1.0:1.0:0.0:1.1:0.0:', 86.933345963325309), ('1.0:1.2:0.0:1.1:0.0:', 86.933679288791552), ('1.0:1.0:0.1:1.1:0.0:', 86.94575806972442), ('1.0:1.1:0.1:1.1:0.0:', 86.947000068322822), ('1.0:1.0:0.0:1.0:0.0:', 86.962311462981333), ('1.0:1.1:0.0:1.0:0.0:', 86.962361809195784), ('1.0:1.0:0.1:1.0:0.0:', 86.974989345897782), ('1.0:1.1:0.0:1.4:0.1:', 87.368970249877705), ('1.0:1.0:0.0:1.4:0.1:', 87.369093608328711), ('1.0:1.1:0.0:1.3:0.1:', 87.373004518878403), ('1.0:1.0:0.0:1.3:0.1:', 87.373040568650737), ('1.0:1.0:0.0:1.2:0.1:', 87.383706796362048), ('1.0:1.1:0.0:1.2:0.1:', 87.383760691781703), ('1.0:1.0:0.0:1.1:0.1:', 87.40185914325032), ('1.0:1.1:0.0:1.1:0.1:', 87.402005679558442), ('1.0:1.0:0.0:1.0:0.1:', 87.428370905891143)]

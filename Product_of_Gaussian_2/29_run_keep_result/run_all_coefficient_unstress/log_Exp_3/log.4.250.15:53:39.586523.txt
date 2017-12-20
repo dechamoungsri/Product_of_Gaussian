@@ -1,0 +1,41 @@
+Namespace(block_size='256', endbeta='2.0', endgamma='0.1', mainoutpath='/29_script/Exp_3_unstress_all_coeff/', num_coeff='3', plot=False, startbeta='0.1', startgamma='0.0', stress_or_unstress='unstress', syllable_predicted_path='/work/w21/decha/Interspeech_2017/Speech_synthesis/Syllable_level/C_all_coeff/testrun/out_all/tsc/', tone='4', training_size='250', use_partial_coeff=False, zero_coeff_path=None)
+2017-03-15 06:53:39
+Alpha : Beta : Gamma: 1.0 0.1 0.0
+All LF0 RMSE: 102.951663 in 53294 frames
+Only unstress LF0 RMSE: 94.396366 in 3326 frames
+2017-03-15 06:59:51
+Alpha : Beta : Gamma: 1.0 0.3 0.0
+All LF0 RMSE: 102.931605 in 53294 frames
+Only unstress LF0 RMSE: 93.714927 in 3326 frames
+2017-03-15 07:06:03
+Alpha : Beta : Gamma: 1.0 0.5 0.0
+All LF0 RMSE: 102.951701 in 53294 frames
+Only unstress LF0 RMSE: 93.445413 in 3326 frames
+2017-03-15 07:12:15
+Alpha : Beta : Gamma: 1.0 0.7 0.0
+All LF0 RMSE: 103.007323 in 53294 frames
+Only unstress LF0 RMSE: 93.532760 in 3326 frames
+2017-03-15 07:18:28
+Alpha : Beta : Gamma: 1.0 0.9 0.0
+All LF0 RMSE: 103.094729 in 53294 frames
+Only unstress LF0 RMSE: 93.931774 in 3326 frames
+2017-03-15 07:24:40
+Alpha : Beta : Gamma: 1.0 1.1 0.0
+All LF0 RMSE: 103.210763 in 53294 frames
+Only unstress LF0 RMSE: 94.603516 in 3326 frames
+2017-03-15 07:30:52
+Alpha : Beta : Gamma: 1.0 1.3 0.0
+All LF0 RMSE: 103.352683 in 53294 frames
+Only unstress LF0 RMSE: 95.513551 in 3326 frames
+2017-03-15 07:37:04
+Alpha : Beta : Gamma: 1.0 1.5 0.0
+All LF0 RMSE: 103.518068 in 53294 frames
+Only unstress LF0 RMSE: 96.631068 in 3326 frames
+2017-03-15 07:43:17
+Alpha : Beta : Gamma: 1.0 1.7 0.0
+All LF0 RMSE: 103.704750 in 53294 frames
+Only unstress LF0 RMSE: 97.928399 in 3326 frames
+2017-03-15 07:49:29
+Alpha : Beta : Gamma: 1.0 1.9 0.0
+All LF0 RMSE: 103.910773 in 53294 frames
+Only unstress LF0 RMSE: 99.380711 in 3326 frames
